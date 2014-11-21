@@ -1,8 +1,24 @@
 # Site settings
 title: Corporate Chaplaincy Consulting
-description: 
+description:
 baseurl: "" # the subpath of your site, e.g. /blog/
+permalink: /:categories/:title/
 url: "http://www.corpchaps.com" # the base hostname & protocol for your site
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+gems:
+  - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
