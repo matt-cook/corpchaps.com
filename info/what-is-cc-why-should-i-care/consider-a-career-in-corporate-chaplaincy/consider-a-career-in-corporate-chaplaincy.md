@@ -27,9 +27,9 @@
 	<meta name="twitter:card" content="summary" />
 <!-- /SEO Ultimate -->
 
-<link rel="alternate" type="application/rss+xml" title="Corporate Chaplaincy Consulting &raquo; Feed" href="../../../feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Corporate Chaplaincy Consulting &raquo; Comments Feed" href="../../../comments/feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Corporate Chaplaincy Consulting &raquo; Careers Comments Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Corporate Chaplaincy Consulting &raquo; Feed" href="../../../feed/" />
+<link rel="alternate" type="application/rss+xml" title="Corporate Chaplaincy Consulting &raquo; Comments Feed" href="../../../comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Corporate Chaplaincy Consulting &raquo; Careers Comments Feed" href="feed/" />
 <link rel='stylesheet' id='wpsc-thickbox-css'  href='../../../wp-content/plugins/wp-e-commerce/wpsc-core/js/thickbox.css%3Fver=3.8.9.2.625469.css' type='text/css' media='all' />
 <link rel='stylesheet' id='wpsc-theme-css-css'  href='../../../wp-content/themes/corpchaps/wpsc-default.css%3Fver=3.8.9.2.625469.css' type='text/css' media='all' />
 <style type='text/css'>
@@ -130,11 +130,11 @@ var wpsc_ajax = {"ajaxurl":"http:\/\/www.corpchaps.com\/wp-admin\/admin-ajax.php
 <script type='text/javascript' src='../../../wp-content/plugins/wp-e-commerce/wpsc-core/js/thickbox.js%3Fver=Instinct_e-commerce'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
-<link rel='prev' title='Corporate Chaplaincy?' href='../index.html' />
-<link rel='next' title='Site Use Agreement' href='../../../statement-of-agreement-for-use-of-site/index.html' />
+<link rel='prev' title='Corporate Chaplaincy?' href='../' />
+<link rel='next' title='Site Use Agreement' href='../../../statement-of-agreement-for-use-of-site/' />
 <meta name="generator" content="WordPress 3.4.2" />
-<link rel='canonical' href='../../../about-us/consider-a-career-in-corporate-chaplaincy/index.html' />
-<link rel='alternate' type='application/rss+xml' title='Corporate Chaplaincy Consulting Product List RSS' href='../../../index.html%3Fwpsc_action=rss'/><script type="text/javascript">
+<link rel='canonical' href='../../../about-us/consider-a-career-in-corporate-chaplaincy/' />
+<link rel='alternate' type='application/rss+xml' title='Corporate Chaplaincy Consulting Product List RSS' href='../../../%3Fwpsc_action=rss'/><script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-23679465-1']);
@@ -150,14 +150,14 @@ var wpsc_ajax = {"ajaxurl":"http:\/\/www.corpchaps.com\/wp-admin\/admin-ajax.php
 </head>
 <body class="page page-id-14 page-child parent-pageid-12 page-template-default">
 	<div id="topbar" class="outer">
-			<a target="_blank" href="http://www.facebook.com/pages/Corporate-Chaplaincy-Consulting/240905042597630?v=info">facebook</a> | <a target="_blank" href="http://twitter.com/stevewcook">twitter</a> | <a href="../../../contact-us/index.html">contact us</a>
+			<a target="_blank" href="http://www.facebook.com/pages/Corporate-Chaplaincy-Consulting/240905042597630?v=info">facebook</a> | <a target="_blank" href="http://twitter.com/stevewcook">twitter</a> | <a href="../../../contact-us/">contact us</a>
 	</div>
 
 <div id="main" class="outer">
 	 <div class="container">
 
 					<div id="header">
-				<a class="top" id="logo" href="../../../index.html">
+				<a class="top" id="logo" href="../../../">
 						<img src="../../../_img/interface/logo.png" alt="Corporate Chaplaincy Consulting">
 					</a>
 					<div id="banner">
@@ -171,13 +171,13 @@ var wpsc_ajax = {"ajaxurl":"http:\/\/www.corpchaps.com\/wp-admin\/admin-ajax.php
 
 
  <ul id="subnav">  
- <li class="page_item page-item-197"><a href="../../services/index.html">Services</a></li>
-<li class="page_item page-item-12 current_page_ancestor current_page_parent"><a href="../index.html">Corporate Chaplaincy?</a></li>
-<li class="page_item page-item-148"><a href="../../faq/index.html">FAQ</a></li>
-<li class="page_item page-item-278"><a href="../../testimonials/index.html">Press &#038; Testimonials</a></li>
+ <li class="page_item page-item-197"><a href="../../services/">Services</a></li>
+<li class="page_item page-item-12 current_page_ancestor current_page_parent"><a href="../">Corporate Chaplaincy?</a></li>
+<li class="page_item page-item-148"><a href="../../faq/">FAQ</a></li>
+<li class="page_item page-item-278"><a href="../../testimonials/">Press &#038; Testimonials</a></li>
  
-<li><a href="../../../category/blog/index.html">Blog</a></li>
-<li><a href="../../../contact-us/index.html">Contact</a></li>
+<li><a href="../../../category/blog/">Blog</a></li>
+<li><a href="../../../contact-us/">Contact</a></li>
  </ul>  
 
 
@@ -186,7 +186,7 @@ var wpsc_ajax = {"ajaxurl":"http:\/\/www.corpchaps.com\/wp-admin\/admin-ajax.php
 
 
 				<div id="sidebar" role="complementary">
-<div id="excerpt">Whatever your situation, if you have been called to chaplaincy, there is a place for you.</div><ul id="sub-pages"><li><a href="../about/index.html">About</a></li><li><a href="../../../about-us/consider-a-career-in-corporate-chaplaincy/index.html">Careers</a></li><li><a href="../../../a-business-model-made-in-heaven/index.html">A Business Model Made in Heaven</a></li><li><a href="../missing-link/index.html">The Missing Link</a></li><li><a href="../chaplain-confidentiality-in-the-workplace-precedent-and-principle/index.html">Chaplain Confidentiality in the Workplace: Precedent and Principle</a></li><li><a href="../the-appearance-of-corporate-chaplains-in-the-workplace/index.html">The Appearance of Corporate Chaplains in the Workplace</a></li><li><a href="../the-coaching-and-training-of-corporate-chaplains/index.html">The Coaching and Training of Corporate Chaplains</a></li></ul></div>
+<div id="excerpt">Whatever your situation, if you have been called to chaplaincy, there is a place for you.</div><ul id="sub-pages"><li><a href="../about/">About</a></li><li><a href="../../../about-us/consider-a-career-in-corporate-chaplaincy/">Careers</a></li><li><a href="../../../a-business-model-made-in-heaven/">A Business Model Made in Heaven</a></li><li><a href="../missing-link/">The Missing Link</a></li><li><a href="../chaplain-confidentiality-in-the-workplace-precedent-and-principle/">Chaplain Confidentiality in the Workplace: Precedent and Principle</a></li><li><a href="../the-appearance-of-corporate-chaplains-in-the-workplace/">The Appearance of Corporate Chaplains in the Workplace</a></li><li><a href="../the-coaching-and-training-of-corporate-chaplains/">The Coaching and Training of Corporate Chaplains</a></li></ul></div>
 
 
 
@@ -207,8 +207,8 @@ var wpsc_ajax = {"ajaxurl":"http:\/\/www.corpchaps.com\/wp-admin\/admin-ajax.php
 <p>As long as there are people in the workplace, there will be a need for corporate chaplains. Not only do chaplains build relationships and promote goodwill, chaplains find joy each day as they provide resources and offer hope to employees. As a chaplain, you will have the opportunity to build community while advancing the fundamental human need for relationships in the marketplace, all while enjoying flexible hours and a regular, predictable income.</p>
 <p>Maybe you only have a few hours to dedicate to chaplaincy on a weekly basis, or maybe you are able to dedicate one full day each week. Maybe you would like to make chaplaincy a full-time career. You might even be thinking that you want to start a chaplaincy organization of your own because you see the need and no one to fill it in your area.</p>
 <p>Whatever your situation, if you have been called to chaplaincy, there is a place for you.</p>
-<p>If you only have a few hours to offer each week, you may be able to find an established chaplaincy organization for which you could work part-time. More information about the lives and backgrounds of part-time chaplains is available by reading our Chaplain Profiles. You can also view <a title="A Day in the Life of a Corporate Chaplain" href="../../../index.html%3Fp=436.html">&#8220;A Day in the Life of a Corporate Chaplain&#8221;</a> for more information about what a typical day might entail. To view these articles and others, please visit our <a title="Document Highlights" href="http://www.corpchaps.com/packages-2/sample-documents/">&#8220;Highlights&#8221; </a>page for more information.</p>
-<p>If there is not currently an independent chaplaincy organization based in your community, you may be able to find a national or regional organization that is willing to let you work part-time while you see if chaplaincy is right for you. Or, if you have a head for business and a heart for people, consider starting your own chaplaincy organization to serve the businesses in your community. For more information about what it&#8217;s like to establish a chaplaincy organization, read &#8220;<a title="A Week In The Life of A Corporate Chaplaincy Business Owner" href="../../../index.html%3Fp=458.html">A Week in the Life of a Corporate Chaplaincy Business Owner</a>&#8221; and the <a title="Case Study: Capital Chaplains" href="../../../index.html%3Fp=454.html">Case Study of Capital Chaplain</a>s, serving Madison, Wisconsin, and surrounding areas. Please visit our <a title="Document Highlights" href="http://www.corpchaps.com/packages-2/sample-documents/">&#8220;Highlights&#8221;</a> page for additional information about viewing these articles and others.</p>
+<p>If you only have a few hours to offer each week, you may be able to find an established chaplaincy organization for which you could work part-time. More information about the lives and backgrounds of part-time chaplains is available by reading our Chaplain Profiles. You can also view <a title="A Day in the Life of a Corporate Chaplain" href="../../../%3Fp=436.html">&#8220;A Day in the Life of a Corporate Chaplain&#8221;</a> for more information about what a typical day might entail. To view these articles and others, please visit our <a title="Document Highlights" href="http://www.corpchaps.com/packages-2/sample-documents/">&#8220;Highlights&#8221; </a>page for more information.</p>
+<p>If there is not currently an independent chaplaincy organization based in your community, you may be able to find a national or regional organization that is willing to let you work part-time while you see if chaplaincy is right for you. Or, if you have a head for business and a heart for people, consider starting your own chaplaincy organization to serve the businesses in your community. For more information about what it&#8217;s like to establish a chaplaincy organization, read &#8220;<a title="A Week In The Life of A Corporate Chaplaincy Business Owner" href="../../../%3Fp=458.html">A Week in the Life of a Corporate Chaplaincy Business Owner</a>&#8221; and the <a title="Case Study: Capital Chaplains" href="../../../%3Fp=454.html">Case Study of Capital Chaplain</a>s, serving Madison, Wisconsin, and surrounding areas. Please visit our <a title="Document Highlights" href="http://www.corpchaps.com/packages-2/sample-documents/">&#8220;Highlights&#8221;</a> page for additional information about viewing these articles and others.</p>
 <p>Whatever route you decide is best, you don&#8217;t have to do this alone. Corporate Chaplaincy Consulting exists to provide you with<a title="Packages" href="http://www.corpchaps.com/packages-2/"> resources and support</a> as you begin your own chaplaincy journey.</p>
 <p><strong>Corporate Chaplaincy Consulting</strong><br />
 <em>Mentoring and Equipping Emerging Workplace Chaplains</em></p>
@@ -229,14 +229,14 @@ var wpsc_ajax = {"ajaxurl":"http:\/\/www.corpchaps.com\/wp-admin\/admin-ajax.php
 					<h2><em>Do you want to </em><br/>Learn More?</h2>
 					<p>
 						To get all the information you need and check out all the resources on this site, simply check out our services page. You'll get trainng, documents and business plans that have been perfected through years of in-field experience.</p>
-	<p><a class="arrow" href="../../services/index.html">Services</a></p>
+	<p><a class="arrow" href="../../services/">Services</a></p>
 </div>
 	<div id="more">
 		<h2><strong>More</strong> Articles</h2>
 		<ul>
-			<li class="first"><a href="../../../a-business-model-made-in-heaven/index.html">A Business Model Made in Heaven</a></li>
-			<li><a href="../index.html">What is Corporate Chaplaincy?</a></li>
-			<li class="last"><a href="../../faq/index.html">Frequently Asked Questions</a></li>
+			<li class="first"><a href="../../../a-business-model-made-in-heaven/">A Business Model Made in Heaven</a></li>
+			<li><a href="../">What is Corporate Chaplaincy?</a></li>
+			<li class="last"><a href="../../faq/">Frequently Asked Questions</a></li>
 		</ul>
 	</div>		
 	<br class="clear">
@@ -249,13 +249,13 @@ var wpsc_ajax = {"ajaxurl":"http:\/\/www.corpchaps.com\/wp-admin\/admin-ajax.php
 					<a href="http://www.capchaps.org"><img src="../../../_img/interface/logo_footer.png" alt="Corporate Chaplaincy Consulting"></a>
 				</div>
 				<div id="copyright" class="col link">
-					<a href="../../../copyright-information/index.html" class="dark box">Privacy Policy</a>
+					<a href="../../../copyright-information/" class="dark box">Privacy Policy</a>
 				</div>
 				<div id="siteuse" class="col link">
-					<a href="../../../statement-of-agreement-for-use-of-site/index.html" class="dark box">Site Use Agreement</a>
+					<a href="../../../statement-of-agreement-for-use-of-site/" class="dark box">Site Use Agreement</a>
 				</div>
 <div id="backhome" class="col link">
-					<a href="../../../index.html" class="dark box">Home Page</a>
+					<a href="../../../" class="dark box">Home Page</a>
 				</div>
 				<div id="social-links" class="col link">
 			<a href="http://www.vimeo.com/corpchaps/videos" id="vimeo" target="_blank"class="icon"><img src="../../../_img/interface/transparent.png" alt="vimeo"></a>
