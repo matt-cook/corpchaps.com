@@ -3,7 +3,8 @@ title: Corporate Chaplaincy Consulting
 description:
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:categories/:title/
-url: "http://www.corpchaps.com" # the base hostname & protocol for your site
+url: "http://www.corpchaps.com"
+include: ['_css','_js','_img']
 defaults:
   -
     scope:
