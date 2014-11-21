@@ -1,0 +1,62 @@
+---
+title: Start A Corporate Chaplaincy Business
+permalink get-started/start-a-corporate-chaplaincy-business
+---
+				<p>Future home of prospective owner/manager package details</p>
+<p>OLD CONTENT:</p>
+<p>Prospective Owner/Manager Package ($450.00) Includes:</p>
+<h3>One hour of phone consulting</h3>
+<p>You can choose how this hour of phone consulting is spent. Ask any questions you want about the launch and operation of an independent corporate chaplaincy organization, or ask specific questions about Capital Chaplains. Seek counsel about the best way to approach your first prospective client company, or ask any questions that came to mind as you were reading through the documents downloaded from CorpChaps.Com—we highly recommend that you schedule this time after you have had the opportunity to look through the documents and compile a list of discussion topics and questions that you would like addressed.</p>
+<h3>Owner/Manager FAQ</h3>
+<p>This document contains the answers to fifteen Frequently Asked Questions about starting, owning, and managing an organization that offers corporate chaplaincy services (five pages—2434 words). Some of the questions addressed in this document include:</p>
+<ul>
+<li>How do you approach potential client organizations?</li>
+<li>How do the employees of client organizations initially receive chaplains?</li>
+<li>How do you decide what to pay your chaplains?</li>
+<li>How does ministry happen within the context of a for-profit business model?</li>
+<li>How do you approach talking about your faith as a corporate chaplain?</li>
+</ul>
+<h3>50 Lessons Learned In 5 Years</h3>
+<p>This document contains five years worth of lessons learned through research and trial and error. Each lesson has a Bible verse and an explanation to help you learn from the experiences and mistakes of those who have walked this road before you (over fifteen pages—7227 words). Some of the lessons addressed in this document include:</p>
+<p><em>“6. Decide on what will make your chaplaincy organization distinct, unique, and specifically suited to meet the needs of your community…<br />
+10. Define the boundaries of your theological tent…<br />
+14. Know the value of good stories…<br />
+23. Link up with chaplaincy partners who complement your gifts and talents…<br />
+37. Show up and do some life together: The role of relationships…”</em></p>
+<h3>Case Study: Capital Chaplains</h3>
+<p>This document<em> “follows the growth and development of Capital Chaplains from its initial stages as an idea in 2004 to when it reached sustainability as a full-time venture in 2009.” </em>(six pages of text and three pages of graphs—2999 words)</p>
+<p><em>“As you approach your own chaplaincy initiative, there will always be lessons that can be learned, and ideas that can be borrowed, from those who have walked this road before. You will need to determine what unique features will characterize your organization and help you to best serve the needs of your community, but you can use the information that you gain from the experiences, ideas, and even the mistakes of others to put together a business plan that will best match your leadership style with the ideal way to meet those needs.”</em></p>
+<h3>Profile: Chaplaincy Organization Owner/Manager</h3>
+<p>This document shares the experiences and insights of a corporate chaplain who owns and manages his own independent corporate chaplaincy organization (two pages—907 words).</p>
+<p><em>“Throughout his ministry experience, Steve has found joy in partnering with those working in the corporate world, but this partnership also allowed him to see the great need for someone to come alongside and provide support for employees and business owners throughout the community. … Watching employees take these struggles to work with them each day, Steve knew that he wanted to be able to come alongside people in a significant way that matched with his personal strengths.”</em></p>
+<h3>A Week In The Life of A Corporate Chaplaincy Business Owner</h3>
+<p>This document offers a taste of what a corporate chaplaincy business owner does to prepare and serve on a weekly basis, addressing both a typical week as it was when corporate chaplaincy was a part-time venture, and how the schedule changed once running a corporate chaplaincy organization became a fulltime venture (over two pages—1154 words).</p>
+<p><em>“When Capital Chaplains first began to provide corporate chaplaincy services to the organizations in and around Madison, Wisconsin, it was a part-time venture. Steve Cook, the owner and founding chaplain, was working four days a week as an associate pastor, and he was only able to devote one day each week to his new chaplaincy organization. From 2005 to 2009, Capital Chaplains grew to require a full-time commitment, and the look of a typical week for the owner of this independent corporate chaplaincy organization has changed significantly.”</em></p>
+<h3>Closing the Deal</h3>
+<p>Understanding how to serve as a chaplain and understanding how to best promote and thrive as a business owner are two very different sides of what it takes to own and manage a corporate chaplaincy organization. This document offers a basic “Business 101″ for the owners of corporate chaplaincy organizations (two pages—1112 words).</p>
+<p><em>“If you are a natural communicator, telling people about what you do and offering to help others may come easily. Asking for payment for the services you offer may be new, but when you begin to understand the real value you bring to the employer, it becomes easier…”</em></p>
+<h3>Client Company Letter of Agreement</h3>
+<p>This modifiable template offers you a complete Letter of Agreement for services to be contracted between a client company and the chaplaincy provider. You are welcome to adapt this document to meet your needs and use it when contracting with client companies (one page—216 words).</p>
+<p><em>“…We at [chaplaincy organization] have agreed to provide the services described on the attached pages in exchange for your support of the [chaplaincy organization] program and payment of the agreed upon fee….”</em></p>
+<h3>Client Company Sample Contract</h3>
+<p>This modifiable template offers you a complete contract for services between a client company and chaplaincy provider. You are welcome to adapt this document to meet your needs and use it when contracting with client companies (two pages—902 words).</p>
+<p><em>“[client organization] located at [address] and [chaplaincy organization] (hereinafter referred to as “CONTRACTOR”), a [state in which chaplaincy organization is based] [type of organization] located at [address], in consideration of the mutual promises contained herein and for other good and valuable consideration, agree as follows…”</em></p>
+<h3>Client Company Sample Reports</h3>
+<p>This modifiable template offers you a sample spreadsheet that allows you to confidentially document what you do and where you serve as a chaplain on a monthly and a daily basis. You are welcome to adapt this document to meet your needs and use it for your own record keeping, as well as when submitting reports to client companies (one page).</p>
+<h3>Independent Contractors vs. Employees</h3>
+<p>This document<em> “is designed to give you general information about how the roles of independent contractors vary from those of employees in the context of chaplaincy.”</em><br />
+(three pages—1321 words)</p>
+<p><em>“According to the IRS, ‘It is critical that you, the business owner, correctly determine whether the individuals providing services are employees or independent contractors…</em></p>
+<p><em>“If you plan to hire chaplains to help you with your chaplaincy venture, it is important that they are classified correctly as either employees or independent contractors. While there are guidelines to help business owners determine the proper status for the people they will be hiring, there are numerous grey areas, as well…”</em></p>
+<h3>Independent Contractor Application</h3>
+<p>This modifiable template offers you a complete application that you can give to prospective chaplains who wish to work with your chaplaincy organization. You are welcome to adapt this document to meet your needs (two pages).</p>
+<h3>Independent Contractor Sample Contract</h3>
+<p>This modifiable template offers you a complete contract between your chaplaincy organization and a chaplain who will be serving through your organization as an independent contractor. You are welcome to adapt this document to meet your needs and use it when offering contracts to chaplains (over three pages—1126 words).</p>
+<p><em>“Section I: Relationship of Parties…<br />
+Section II: Description of Services…<br />
+Section III: Compensation…<br />
+Section IV: Time is of the Essence…<br />
+Section V: Duration of Agreement, Termination, Extension…<br />
+Section VI: Alternative Dispute Resolution…<br />
+Section VII: Liability and Indemnification…<br />
+Section VIII: Other Terms…”</em></p>
