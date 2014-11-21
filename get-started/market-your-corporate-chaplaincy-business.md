@@ -1,6 +1,6 @@
 ---
 title: Market Your Business
-permalink: get-started/market-your-corporate-chaplaincy-business
+permalink: get-started/market-your-corporate-chaplaincy-business/
 ---
 				<p>Future home of marketing package details</p>
 <p>OLD CONTENT:</p>

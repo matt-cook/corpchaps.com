@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: info/what-is-cc-why-should-i-care/about
+permalink: info/what-is-cc-why-should-i-care/about/
 ---
 				<p>Welcome to the Corporate Chaplaincy Consulting website, where our mission is: <strong>to mentor and equip emerging corporate chaplains.</strong></p>
 <p>My name is Steve Cook, and in 2005 I started Capital Chaplains LLC, a corporate chaplaincy initiative based near Madison, Wisconsin, which serves the entire Capital Region of South-Central Wisconsin. By 2009, Capital Chaplains had contracts to provide a Chaplain Assistance Program for every employee and related family/household member in each of nine client organizations.</p>
@@ -18,4 +18,3 @@ Corporate Chaplaincy Consulting, Owner &amp; Director</p>
 <li><a href="../../../a-business-model-made-in-heaven/">Learn more about starting your own corporate chaplaincy initiative where you live.</a></li>
 </ol>
 <p>Disclaimer: Our mission at Corporate chaplaincy Consulting is to mentor and equip emerging corporate chaplains by sharing what we have learned through experience and research about the growing field of corporate chaplaincy. This site and its related consulting services are not intended to give legal or financial advice, nor do we guarantee your financial or chaplaincy success.</p>
-				

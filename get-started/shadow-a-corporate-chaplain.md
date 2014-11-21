@@ -1,6 +1,6 @@
 ---
 title: Shadow a Corporate Chaplain
-permalink: get-started/shadow-a-corporate-chaplain
+permalink: get-started/shadow-a-corporate-chaplain/
 ---
 				<p>Future home of shadow day details</p>
 <p>OLD CONTENT:</p>

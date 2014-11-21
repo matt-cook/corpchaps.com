@@ -1,6 +1,6 @@
 ---
 title: Start A Corporate Chaplaincy Business
-permalink get-started/start-a-corporate-chaplaincy-business
+permalink: get-started/start-a-corporate-chaplaincy-business/
 ---
 				<p>Future home of prospective owner/manager package details</p>
 <p>OLD CONTENT:</p>

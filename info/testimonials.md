@@ -1,6 +1,6 @@
 ---
 title: Video Testimonials
-permalink: info/testimonials
+permalink: info/testimonials/
 ---
 				<style type="text/css">
      table{margin-left:-20px}

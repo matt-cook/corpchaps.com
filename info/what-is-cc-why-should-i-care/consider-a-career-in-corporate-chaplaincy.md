@@ -1,6 +1,6 @@
 ---
 title: Careers
-permalink: info/what-is-cc-why-should-i-care/consider-a-career-in-corporate-chaplaincy
+permalink: info/what-is-cc-why-should-i-care/consider-a-career-in-corporate-chaplaincy/
 ---
 				<h2>Consider a career in corporate chaplaincy</h2>
 <p>The road that eventually leads to a career in corporate chaplaincy is often one that has journeyed through a life of service to others. For some, their careers as social workers, counselors, or pastors have always been about providing a listening ear and caring for those they serve. Others have volunteered with care ministries through their churches while spending their professional lives working in an office and observing the needs that exist in the corporate world. Still others have served as EAP (Employee Assistance Program) providers, but they have longed to help employees in a more personal, more proactive way. Through a mix of backgrounds and life experiences, people throughout the United States (and around the world) are seeing the need, coming together, and finding a way to support workers from all walks of life.</p>
@@ -19,4 +19,3 @@ permalink: info/what-is-cc-why-should-i-care/consider-a-career-in-corporate-chap
 <p>Whatever route you decide is best, you don&#8217;t have to do this alone. Corporate Chaplaincy Consulting exists to provide you with<a title="Packages" href="http://www.corpchaps.com/packages-2/"> resources and support</a> as you begin your own chaplaincy journey.</p>
 <p><strong>Corporate Chaplaincy Consulting</strong><br />
 <em>Mentoring and Equipping Emerging Workplace Chaplains</em></p>
-				

@@ -1,6 +1,6 @@
 ---
 title: Become a Corporate Chaplain
-permalink: get-started/become-a-corporate-chaplain
+permalink: get-started/become-a-corporate-chaplain/
 ---
 				<p>Future home of prospective chaplain package details</p>
 <p>OLD CONTENT:<br />
