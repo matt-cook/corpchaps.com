@@ -5,7 +5,7 @@ Description: Main theme for Corporate Chaplaincy Consulting
 Version: 1.0
 Author: Matt Cook & The Creative Company
 Author URI: http://www.lookitscook.com/
-Tags: 
+Tags:
 */
 @font-face {
 	font-family: 'ChunkFiveRegular';
@@ -39,7 +39,7 @@ a:hover{
 	position:relative;
 }
 #topbar{
-	font-family:verdana,sans-serif;	
+	font-family:verdana,sans-serif;
 	background:#3899bc;
 	text-align:right;
 	height:22px;
@@ -64,7 +64,7 @@ a.box, .arrow{
 }
 a.box{
 	background:#4c4c4c;
-	padding:6px;	
+	padding:6px;
 }
 #topbar input.input{
 	height:17px;
@@ -83,7 +83,7 @@ a.box{
 	padding:6px 17px 6px 6px;
 }
 #topbar input.arrow{
-	background-image:url(interface/arrow_top_bg.png);
+	background-image:url(../_img/interface/arrow_top_bg.png);
 	padding-bottom:5px;
 }
 #main{
@@ -182,7 +182,7 @@ ul#subnav li a{
 	height:61px;
 	float:left;
 	background-color:#4c4c4c;
-	background-image:url(interface/tab_bg.png);
+	background-image:url(../_img/interface/tab_bg.png);
 	margin:0 42px 0 43px;
 	position:relative;
 }
@@ -197,7 +197,7 @@ ul#subnav li a{
 	font-weight:bold;
 	text-transform:uppercase;
 	color:white;
-	background-image:url(interface/tab_corner_bg.png);
+	background-image:url(../_img/interface/tab_corner_bg.png);
 	background-repeat:no-repeat;
 	background-position:bottom right;
 }
@@ -300,13 +300,13 @@ a.box.red{
 	background-color:#d6412d;
 }
 #main #feat #business{
-	background-image:url(interface/feat_business_bg.jpg);
+	background-image:url(../_img/interface/feat_business_bg.jpg);
 }
 #main #feat #need{
-	background-image:url(interface/feat_need_bg.jpg);
+	background-image:url(../_img/interface/feat_need_bg.jpg);
 }
 #main #feat #wheel{
-	background-image:url(interface/feat_wheel_bg.jpg);
+	background-image:url(../_img/interface/feat_wheel_bg.jpg);
 }
 
 br.clear{
@@ -322,7 +322,7 @@ br.clear{
 	margin:0 10px -8px 0;
 }
 #secondary a.arrow{
-	background-image:url(interface/arrow_secondary_bg.png);
+	background-image:url(../_img/interface/arrow_secondary_bg.png);
 }
 #secondary .testimonial{
 	width:460px;
@@ -335,7 +335,7 @@ br.clear{
 }
 #secondary .testimonial .source{
 	padding:8px 0 8px 70px;
-	background-image:url(interface/testimonial_source_bg.png);
+	background-image:url(../_img/interface/testimonial_source_bg.png);
 	background-repeat:no-repeat;
 	background-position:25px 0;
 	font-family: verdana,sans-serif;
@@ -364,11 +364,11 @@ margin: 30px 0 20px 0;
 #main #sidebar{
 	float:right;
 	width:320px;
-	margin:20px 0 0 40px;	
+	margin:20px 0 0 40px;
 }
 #main #sidebar #excerpt,#main #sidebar #sideshoppingcart{
 	background-color:#E1F3F9;
-	background-image:url(interface/quote.png);
+	background-image:url(../_img/interface/quote.png);
 	background-position:10px 10px;
 	background-repeat:no-repeat;
 	font-family: "palatino linotype",palatino,serif;
@@ -378,7 +378,7 @@ margin: 30px 0 20px 0;
 	padding:20px;
 }
 #main #sidebar #sideshoppingcart{
-	background-image:url(interface/checkout.png);
+	background-image:url(../_img/interface/checkout.png);
 	background-position:230px 10px;
 	padding-top:1px;
 	font-size:14px;
@@ -437,7 +437,7 @@ margin: 30px 0 20px 0;
 	position:absolute;
 	bottom:0px;
 	left:0px;
-	background-image:url(interface/about_photo_bg.png);
+	background-image:url(../_img/interface/about_photo_bg.png);
 }
 #footertop #photo br{
 	width:28px;
@@ -524,7 +524,7 @@ a.box.dark{
 	background-color:black;
 }
 #footertop a.arrow{
-	background-image:url(interface/arrow_footertop_bg.png);
+	background-image:url(../_img/interface/arrow_footertop_bg.png);
 }
 #footerbottom{
 	background:#1d1d1d;
@@ -691,9 +691,9 @@ a.box.dark{
 	background-position:bottom left;
 }
 #social-links a:hover img{background-position:top left;}
-#vimeo img{background-image:url(interface/social-vimeo.png);}
-#twitter img{background-image:url(interface/social-twitter.png);}
-#facebook img{background-image:url(interface/social-facebook.png);}
+#vimeo img{background-image:url(../_img/interface/social-vimeo.png);}
+#twitter img{background-image:url(../_img/interface/social-twitter.png);}
+#facebook img{background-image:url(../_img/interface/social-facebook.png);}
 #partnership{
 	text-align:center;
 	color:#646464;
@@ -711,13 +711,13 @@ a.box.dark{
 	font-family: arial,sans-serif;
 	font-size:11px;
 	padding:10px;
-	margin:10px 0;	
+	margin:10px 0;
 	font-weight:bold;
 }
 #sub-pages li a{
 	color:#000;
 }
-	
+
 .tab .content p{
 	font-family:arial,sans-serif;
 	color:#e3e3e3;
