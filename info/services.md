@@ -140,7 +140,7 @@ Some corporate chaplains work part-time and serve onsite a few hours each week; 
      <li>
 	<a title="Client Company Sample Reports" href="index.html#p466" class="fancybox">Client Company Sample Reports</a>
 	<div class="hidden"><div id="p466"><strong>Client Company Sample Reports</strong><p>This modifiable template offers you a sample spreadsheet that allows you to confidentially document what you do and where you serve as a chaplain on a monthly and a daily basis. You are welcome to adapt this document to meet your needs and use it for your own record keeping, as well as when submitting reports to client companies (one page).</p>
-<p><a href="http://preview.corpchaps.com/uploads/2010/04/Client-Company-Sample-Report.jpg"><img class="alignnone size-full wp-image-490" style="border: 1px solid black;" title="Client Company Sample Report" src="http://preview.corpchaps.com/uploads/2010/04/Client-Company-Sample-Report.jpg" alt="" width="300" height="269" /></a></p>
+<p><a href="https://googledrive.com/host/0B-rUPb5gojEtSTFMU3FPb19yaDA/Client-Company-Sample-Report.jpg"><img class="alignnone size-full wp-image-490" style="border: 1px solid black;" title="Client Company Sample Report" src="https://googledrive.com/host/0B-rUPb5gojEtSTFMU3FPb19yaDA/Client-Company-Sample-Report.jpg" alt="" width="300" height="269" /></a></p>
 </div></div>
     </li>
      <li>
@@ -154,7 +154,7 @@ Some corporate chaplains work part-time and serve onsite a few hours each week; 
      <li>
 	<a title="Independent Contractor Application" href="index.html#p470" class="fancybox">Independent Contractor Application</a>
 	<div class="hidden"><div id="p470"><strong>Independent Contractor Application</strong><p>This modifiable template offers you a complete application that you can give to prospective chaplains who wish to work with your chaplaincy organization. You are welcome to adapt this document to meet your needs (two pages).</p>
-<p><a href="http://preview.corpchaps.com/uploads/2010/04/Independant-Contractor-Application.jpg"><img class="alignnone size-full wp-image-487" style="border: 1px solid black;" title="Independant Contractor Application" src="http://preview.corpchaps.com/uploads/2010/04/Independant-Contractor-Application.jpg" alt="" width="255" height="346" /></a></p>
+<p><a href="https://googledrive.com/host/0B-rUPb5gojEtSTFMU3FPb19yaDA/Independant-Contractor-Application.jpg"><img class="alignnone size-full wp-image-487" style="border: 1px solid black;" title="Independant Contractor Application" src="https://googledrive.com/host/0B-rUPb5gojEtSTFMU3FPb19yaDA/Independant-Contractor-Application.jpg" alt="" width="255" height="346" /></a></p>
 </div></div>
     </li>
      <li>
