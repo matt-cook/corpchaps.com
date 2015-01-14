@@ -270,7 +270,7 @@ br.clear{
 #footertop{
 	background:#4c4c4c;
 	text-align:left;
-	height:209px;
+	min-height:209px;
 	color:#aaaaaa;
 	font-family: arial,sans-serif;
 	font-size:12px;
@@ -281,19 +281,16 @@ br.clear{
 #footertop img.title{
 	margin:25px 0 15px 0;
 }
-#footertop #photo{
-	width:285px;
+#footertop #photo a{
 	height:209px;
 	position:relative;
 	display:block;
 }
 #footertop #photo img{
-	height:173px;
-	width:222px;
 	padding:54px 31px 0 32px;
 	position:absolute;
-	bottom:0px;
-	left:0px;
+	top:-18px;
+	right:0px;
 	background-image:url(../_img/interface/about_photo_bg.png);
 }
 #footertop #photo br{
