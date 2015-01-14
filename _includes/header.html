@@ -1,36 +1,76 @@
-  <div id="topbar" class="outer">
-      <a target="_blank" href="http://www.facebook.com/pages/Corporate-Chaplaincy-Consulting/240905042597630?v=info">facebook</a> | <a target="_blank" href="http://twitter.com/stevewcook">twitter</a> | <a href="../contact-us/">contact us</a>
+<nav id="topbar" class="navbar navbar-inverse">
+  <div class="container">
+    <div id="contactbar" class="">
+      <ul class="nav">
+        <li><a href="http://www.facebook.com/pages/Corporate-Chaplaincy-Consulting/240905042597630?v=info">Facebook</a></li>
+        <li><a href="http://twitter.com/stevewcook">Twitter</a></li>
+        <li><a href="{{ site.baseurl }}/contact-us">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div id="main" class="container">
+
+  <div id="banner" class="row">
+    <div class="col-xs-12">
+      <a id="logo" href="{{ site.baseurl }}/">
+        <img src="{{ site.baseurl }}/_img/interface/logo.png" alt="Corporate Chaplaincy Consulting">
+      </a>
+      <div class="caption">
+        <h2>Mentoring <em>&</em> Equipping</h2>
+        <h3>Emerging Workplace Chaplains</h3>
+      </div>
+    </div>
   </div>
 
-<div id="main" class="outer">
-   <div class="container">
+  <nav id="subnav" class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
 
-          <div id="header">
-        <a class="top" id="logo" href="../">
-            <img src="{{ site.baseurl }}/_img/interface/logo.png" alt="Corporate Chaplaincy Consulting">
-          </a>
-          <div id="banner">
-            <img src="{{ site.baseurl }}/_img/interface/banner.jpg" alt="Mentoring & Equipping">
-            <div class="caption">
-            <h2>Mentoring <em>&</em> Equipping</h2>
-            <h3>Emerging Workplace Chaplains</h3>
-            </div>
-          </div>
-          <br class="clear">
+          <li><a href="{{ site.baseurl }}/info/services/">Services</a></li>
+          <li><a href="{{ site.baseurl }}/info/what-is-cc-why-should-i-care/">Corporate Chaplaincy?</a></li>
+          <li><a href="{{ site.baseurl }}/info/faq/">FAQ</a></li>
+          <li><a href="{{ site.baseurl }}/info/testimonials/">Press &#038; Testimonials</a></li>
+          <li><a href="{{ site.baseurl }}/category/blog/">Blog</a></li>
+          <li><a href="{{ site.baseurl }}/contact-us/">Contact</a></li>
 
+          <!-- <li class="active"><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+          <li><a href="#">Action</a></li>
+          <li><a href="#">Another action</a></li>
+          <li><a href="#">Something else here</a></li>
+          <li class="divider"></li>
+          <li class="dropdown-header">Nav header</li>
+          <li><a href="#">Separated link</a></li>
+          <li><a href="#">One more separated link</a></li>
+        </ul>
+      </li> -->
 
-<ul id="subnav">
-<li><a href="{{ site.baseurl }}/info/services/">Services</a></li>
-<li><a href="{{ site.baseurl }}/info/what-is-cc-why-should-i-care/">Corporate Chaplaincy?</a></li>
-<li><a href="{{ site.baseurl }}/info/faq/">FAQ</a></li>
-<li><a href="{{ site.baseurl }}/info/testimonials/">Press &#038; Testimonials</a></li>
-<li><a href="{{ site.baseurl }}/category/blog/">Blog</a></li>
-<li><a href="{{ site.baseurl }}/contact-us/">Contact</a></li>
-</ul>
+    </ul>
+    <!-- <ul class="nav navbar-nav navbar-right">
+    <li class="active"><a href="./">Default <span class="sr-only">(current)</span></a></li>
+    <li><a href="../navbar-static-top/">Static top</a></li>
+    <li><a href="../navbar-fixed-top/">Fixed top</a></li>
+  </ul> -->
+  </div><!--/.nav-collapse -->
+  </div><!--/.container-fluid -->
+  </nav>
 
-
-
-        </div>
+<!--
 
 
 <div id="sidebar" role="complementary">
@@ -48,3 +88,5 @@
   </ul>
 
 </div>
+
+-->

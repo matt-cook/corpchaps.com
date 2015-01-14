@@ -16,6 +16,7 @@ body,html{
 	margin:0;
 	padding:0;
 	font-family: "times new roman",times,serif;
+	background:#fafaf3;
 }
 a img{border:none}
 a{
@@ -28,25 +29,32 @@ a{
 a:hover{
 	text-decoration:underline;
 }
-.outer{
-	width:100%;
-	text-align:center;
-	postion:relative;
-}
-.container{
-	margin:0 auto;
-	width:960px;
-	position:relative;
-}
+
 #topbar{
 	font-family:verdana,sans-serif;
 	background:#3899bc;
 	text-align:right;
 	height:22px;
+	border: none;
+	border-radius: 0;
+	min-height: 22px;
 	color:white;
 	line-height:20px;
 	font-size:11px;
 	text-transform:lowercase;
+}
+#topbar ul{
+	float:right;
+}
+#topbar li{
+	float:left;
+}
+#topbar li a:before{
+	content: '|';
+	padding-right:1em;
+}
+#topbar li:first-child a:before{
+	content: ''
 }
 #topbar a{
 	color:#fff;
@@ -89,67 +97,39 @@ a.box{
 #main{
 	background:#fafaf3;
 	text-align:left;
-	padding:0 0 00px 0;
 }
 #header{
 	padding:20px 0 0;
 	display:block;
 	height:120px;
 }
-#logo{
-	padding:0 0px 0 0;
-	float:left;
+#logo img{
+	border:none;
+	max-width:100%;
 }
-#banner{
-	float:right;
-	position:relative;
-	text-align:right;
-}
-#banner img{
-	border:1px solid #BFBFBF;
-}
-ul#subnav{
-	width:960px;
-	height:26px;
-	list-style-type:none;
-	padding:0;
-	margin:10px 0 0 0;
+#subnav{
+	min-height:26px;
 	background:#e1f3f9;
 	line-height:26px;
 	font-family: "palatino linotype",palatino,serif;
 	font-size:13px;
 	letter-spacing: 0.8pt;
+	border:none;
+	border-radius:0;
 	border-top:1px solid #BFBFBF;
 	text-align:center;
-
-
 }
-
-ul#subnav li{
-	text-align:center;
-	border:none;
-	margin:0 auto;
-	display:inline;
-	font-weight:bold;
-}
-ul#subnav li.parent a{
-	color:#629DAF;
-	text-transform:none;
-	font-size:20px;
-	margin-left:8px;
-	font-style:italic;
-	font-weight:normal;
-}
-ul#subnav li a{
-	color:black;
+#subnav .nav > li > a{
+	color:#000;
 	text-transform:uppercase;
-	margin:0 20px 0 20px;
-	text-align:center;
-	border:none;
-	padding:0;
-	display:inline;
+	font-weight:bold;
+	padding:0 20px;
+	height:26px;
+	line-height:26px;
 }
-
+#subnav .nav > li.active > a{
+	background:none;
+}
 #content h1 {
 	font: 34px 'ChunkFiveRegular', Arial, sans-serif;
 	letter-spacing: 0;
@@ -348,15 +328,11 @@ br.clear{
 	color:black;
 }
 #content{
-font-family: arial,sans-serif;
-font-size: 12px;
-letter-spacing: 0pt;
-line-height: 1.5;
-width:600px;
-text-align:justify;
-float:left;
-display:block;
-margin: 30px 0 20px 0;
+	font-family: arial,sans-serif;
+	font-size: 12px;
+	letter-spacing: 0pt;
+	line-height: 1.5;
+	text-align:justify;
 }
 #content h1,h2,h3,h4{
 	text-align:left;
@@ -593,53 +569,61 @@ a.box.dark{
 	font-weight:bold;
 }
 
-#video-container{
+#video{
 	background-color:#e3e3e3;
 	border:1px solid #BFBFBF;
-}
-#video{
-	border-right:1px solid #BFBFBF;
 	margin:0;
-	padding:0;
-	height:248px;
-	width:448px;
-	float:left;
-	background-color:#CCCCCC;
 }
+#video.row > div{
+	padding:0;
+}
+
 #video iframe{
 	border-right:8px solid #fff;
 }
 
-#video-container .caption{
+#video.row > div.caption{
 	font-family:verdana,sans-serif;
 	font-size:12px;
-	float:right;
-	height:228px;
-	width:460px;
-	padding:20px 20px 0 0;
+	padding:20px;
 }
-#video-container .caption h2{
+#video .caption h2{
 	font: 34px 'ChunkFiveRegular', Arial, sans-serif;
 	margin:0;
+	color:#000;
 }
-#video-container .caption h3{
+#video .caption h3{
 	font-family: "palatino linotype",palatino,serif;
 	font-style:italic;
 	font-size:24px;
-	margin:0;
+	margin:0 0 0.5em 0;
 	color:#d6412d;
+	font-weight:bold;
 }
-#video-container .caption a{
+#video .caption a{
 	color:#5192b4;
 }
-#banner .caption{
+#banner{
+	background-image:url(../_img/interface/banner.jpg);
+	background-size:cover;
+	background-position:center right;
+	background-repeat:no-repeat;
+	margin:0 0 20px 0;
+	padding-left:0;
+	min-height:86px;
+}
+#logo{
 	position:absolute;
+	left:0;
+	bottom:0;
 	top:0;
-	right:0;
+	background:#fafaf3;
+	padding:0 20px 0 0;
+	min-height:86px;
+}
+#banner .caption{
 	text-align:right;
-	height:80px;
-	width:740px;
-	padding:0 10px 0 0;
+	padding:0 0 7px 0;
 }
 #banner .caption h2{
 	font: 34px 'ChunkFiveRegular', Arial, sans-serif;
