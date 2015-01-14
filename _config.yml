@@ -1,9 +1,9 @@
 # Site settings
 title: Corporate Chaplaincy Consulting
 description:
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/corpchaps.com" 
 permalink: /:categories/:title/
-url: "http://www.corpchaps.com"
+url: "http://capital-chaplains.github.io/corpchaps.com/"
 include: ['_css','_js','_img']
 defaults:
   -
