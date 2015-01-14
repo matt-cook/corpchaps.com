@@ -350,29 +350,60 @@ br.clear{
 #footermiddle{
 	background:#292828;
 	text-align:left;
-	height:141px;
+	min-height:141px;
 }
 #footermiddle #logo{
 	padding:43px 0 0 0;
-	margin:0 35px 0 0;
 }
 #footermiddle #contact{
 		font-family: arial,sans-serif;
 		font-size:11px;
-		padding:48px 0 0 0;
-		margin:0 45px 0 0;
 }
-#footermiddle .link{
-	padding:55px 0 0 0;
-	margin:0 28px 0 0;
-}
-#footermiddle .link a.box.dark{
+
+#footermiddle a.box.dark{
 	padding-left:25px;
 	padding-right:25px;
 }
-#footermiddle #siteuse a.box.dark{
+#footermiddle a#siteuse .box.dark{
 	padding-left:10px;
 	padding-right:10px;
+}
+#footermiddle .link a{
+	font-size:11px;
+	height:30px;
+	color:#666666;
+	float:right;
+	display:block;
+	margin:55px 6px 0 6px;
+	line-height:17px;
+}
+#footermiddle .link a:hover{
+	color:#fff;
+}
+
+#footermiddle a.social{
+	background-color:#000;
+	height:30px;
+	width:30px;
+	line-height:30px;
+}
+#footermiddle .social img{
+	height:30px;
+	width:30px;
+	background-repeat:no-repeat;
+	background-position:bottom left;
+	margin: -3px 0 0 0;
+}
+#footermiddle a.social:hover img{background-position:top left;}
+#vimeo img{background-image:url(../_img/interface/social-vimeo.png);}
+#twitter img{background-image:url(../_img/interface/social-twitter.png);}
+#facebook img{background-image:url(../_img/interface/social-facebook.png);}
+#partnership{
+	text-align:center;
+	color:#646464;
+	font-family: arial,sans-serif;
+	font-size:12px;
+	padding:15px 20px 15px 0;
 }
 a.box.dark{
 	background-color:black;
@@ -473,45 +504,6 @@ a.box.dark{
 	text-shadow: 0px 1px 2px #000000;
 	filter: dropshadow(color=#000000, offx=1, offy=1);
 	font-weight:bold;
-}
-#footermiddle .link a{
-	font-size:11px;
-	height:30px;
-	line-height:30px;
-	color:#666666;
-}
-#footermiddle .link a:hover{
-	font-size:11px;
-	height:30px;
-	line-height:30px;
-	color:#fff;
-}
-
-#social-links.link a{
-	background-color:#000;
-	display:block;
-	height:30px;
-	width:30px;
-	margin:0 6px;
-	padding:0;
-	float:left;
-}
-#social-links img{
-	height:30px;
-	width:30px;
-	background-repeat:no-repeat;
-	background-position:bottom left;
-}
-#social-links a:hover img{background-position:top left;}
-#vimeo img{background-image:url(../_img/interface/social-vimeo.png);}
-#twitter img{background-image:url(../_img/interface/social-twitter.png);}
-#facebook img{background-image:url(../_img/interface/social-facebook.png);}
-#partnership{
-	text-align:center;
-	color:#646464;
-	font-family: arial,sans-serif;
-	font-size:12px;
-	padding:15px 20px 15px 0;
 }
 #sub-pages{
 	list-style-type:none;
