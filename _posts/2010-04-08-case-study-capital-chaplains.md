@@ -1,5 +1,5 @@
 ---
-title: Case Study: Capital Chaplains
+title: Capital Chaplains Case Study
 ---
 This document_ &#8220;follows the growth and development of Capital Chaplains from its initial stages as an idea in 2004 to when it reached sustainability as a full-time venture in 2009.&#8221; _(six pages of text and three pages of graphs—2999 words)
 

@@ -1,5 +1,5 @@
 ---
-title: Profile: Workplace Chaplain and Social Worker
+title: Workplace Chaplain and Social Worker Profile
 ---
 This document shares the experiences and insights of a Licensed Clinical Social Worker (LCSW) who is currently serving part-time as a workplace chaplain (over two pages—1141 words).
 

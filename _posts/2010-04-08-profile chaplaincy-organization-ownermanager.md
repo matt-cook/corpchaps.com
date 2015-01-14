@@ -1,5 +1,5 @@
 ---
-title: Profile: Chaplaincy Organization Owner/Manager
+title: Chaplaincy Organization Owner/Manager Profile
 ---
 This document shares the experiences and insights of a corporate chaplain who owns and manages his own independent corporate chaplaincy organization (two pages—907 words).
 

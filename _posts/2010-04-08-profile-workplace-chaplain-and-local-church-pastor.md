@@ -1,5 +1,5 @@
 ---
-title: Profile: Workplace Chaplain and Local Church Pastor
+title: Workplace Chaplain and Local Church Pastor Profile
 ---
 This document shares the experiences and insights of a local church pastor who is currently serving part-time as a workplace chaplain (two pages—989 words).
 

@@ -1,5 +1,5 @@
 ---
-title: Profile: Workplace Chaplain and retired EAP Provider
+title: Workplace Chaplain and retired EAP Provider Profile
 ---
 This document shares the experiences and insights of a retired EAP provider who is currently serving part-time as a workplace chaplain (over two pages—1195 words).
 

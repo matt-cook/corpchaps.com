@@ -59,6 +59,7 @@ a.box, .arrow{
 	text-decoration:none;
 	display:inline;
 	border:none;
+	font-size:12px;
 }
 a.box{
 	background:#4c4c4c;
@@ -79,6 +80,7 @@ a.box{
 	background-repeat:no-repeat;
 	background-position:top right;
 	padding:6px 17px 6px 6px;
+	background-size: auto 100%;
 }
 #topbar input.arrow{
 	background-image:url(../_img/interface/arrow_top_bg.png);
@@ -149,8 +151,11 @@ a.box{
 	min-height:300px;
 	position:relative;
 	width:100%;
-	margin:20px 10px;
+	margin:25px 10px;
 	padding:20px;
+	-webkit-box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.25);
+	-moz-box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.25);
+	box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.25);
 }
 
 #main #feat h2{
@@ -207,7 +212,9 @@ br.clear{
 	text-align:left;
 	padding:20px 0 20px 0;
 }
-
+#secondary .title{
+	margin:20px 0 40px 0;
+}
 #secondary .title img{
 	margin:0 10px -8px 0;
 }
@@ -215,9 +222,7 @@ br.clear{
 	background-image:url(../_img/interface/arrow_secondary_bg.png);
 }
 #secondary .testimonial{
-	width:460px;
-	float:left;
-	margin:25px 20px 0 0;
+
 }
 #secondary .testimonial .quote{
 	background-color:white;
@@ -453,6 +458,7 @@ a.box.dark{
 	font: 34px 'ChunkFiveRegular', Arial, sans-serif;
 	margin:0;
 	text-align:right;
+	color:#000;
 }
 #banner .caption h2 em{
 	color:#d6412d;
@@ -469,6 +475,7 @@ a.box.dark{
 	text-align:right;
 	text-shadow: 0px 1px 2px #000000;
 	filter: dropshadow(color=#000000, offx=1, offy=1);
+	font-weight:bold;
 }
 #footermiddle .link a{
 	font-size:11px;
