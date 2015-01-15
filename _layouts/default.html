@@ -7,10 +7,9 @@
 
     {% include header.html %}
 
-    <div id="content">
-
-    {{ content }}
-
+    <div class="row">
+      <div id="content" class="col-md-9">{{ content }}</div>
+      {% include sidebar.html %}
     </div>
 
     {% include footer.html %}
