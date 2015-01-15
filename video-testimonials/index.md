@@ -1,11 +1,15 @@
 ---
 title: Video Testimonials
 permalink: info/testimonials/
+quote: The chaplain is able to help employees work through the issues of life and, as a result, stay more focused at work.
+links:
+  -
+    url: info/testimonials/
+    title: Video Testimonials
+  -
+    url: info/testimonials/quotables/
+    title: Quotables
 ---
-				<style type="text/css">
-     table{margin-left:-20px}
-     td{padding:10px;}
-</style>
 <table style="width: 100%;">
 <tbody>
 <tr>

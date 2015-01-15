@@ -2,10 +2,11 @@
 title: Shadow a Corporate Chaplain
 permalink: get-started/shadow-a-corporate-chaplain/
 ---
-				<p>Future home of shadow day details</p>
-<p>OLD CONTENT:</p>
-<ol>
-<li>Two hours of phone consulting.</li>
-<li>One Shadowing Day in the Capital Region of South Central Wisconsin, USA.</li>
-</ol>
-<p>Please email (<a href="mailto:Steve@CorpChaps.Com">Steve@CorpChaps.Com</a>) for price and other details.</p>
+Future home of shadow day details
+
+OLD CONTENT:
+
+1.  Two hours of phone consulting.
+2.  One Shadowing Day in the Capital Region of South Central Wisconsin, USA.
+
+Please email ([Steve@CorpChaps.Com](mailto:Steve@CorpChaps.Com)) for price and other details.

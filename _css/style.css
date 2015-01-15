@@ -126,7 +126,7 @@ a.box{
 	font: 34px 'ChunkFiveRegular', Arial, sans-serif;
 	letter-spacing: 0;
 	line-height:32px;
-	margin:0;
+	margin:0.5em 0;
 	padding:0;
 	border-bottom:1px dashed #31829F;
 	color:#2F2F2F;

@@ -1,5 +1,6 @@
 ---
 title: Testimonials
+category: video-testimonials
 permalink: testimonials/
 ---
 <h2>Andy Gets His Questions Answered with a Shadow Day</h2>

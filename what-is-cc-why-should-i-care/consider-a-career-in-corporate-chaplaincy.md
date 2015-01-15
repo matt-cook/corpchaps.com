@@ -1,6 +1,29 @@
 ---
 title: Careers
 permalink: about-us/consider-a-career-in-corporate-chaplaincy/
+quote: Whatever your situation, if you have been called to chaplaincy, there is a place for you.
+links:
+  -
+    url: info/what-is-cc-why-should-i-care/about/
+    title: About
+  -
+    url: about-us/consider-a-career-in-corporate-chaplaincy/
+    title: Careers
+  -
+    url: a-business-model-made-in-heaven/
+    title: A Business Model Made in Heaven
+  -
+    url: info/what-is-cc-why-should-i-care/missing-link/
+    title: The Missing Link
+  -
+    url: info/what-is-cc-why-should-i-care/chaplain-confidentiality-in-the-workplace-precedent-and-principle/
+    title: Chaplain Confidentiality in the Workplace&#58; Precedent and Principle
+  -
+    url: info/what-is-cc-why-should-i-care/the-appearance-of-corporate-chaplains-in-the-workplace/
+    title: The Appearance of Corporate Chaplains in the Workplace
+  -
+    url: info/what-is-cc-why-should-i-care/the-coaching-and-training-of-corporate-chaplains/
+    title: The Coaching and Training of Corporate Chaplains
 ---
 ## Consider a career in corporate chaplaincy
 
@@ -26,9 +49,9 @@ Maybe you only have a few hours to dedicate to chaplaincy on a weekly basis, or 
 
 Whatever your situation, if you have been called to chaplaincy, there is a place for you.
 
-If you only have a few hours to offer each week, you may be able to find an established chaplaincy organization for which you could work part-time. More information about the lives and backgrounds of part-time chaplains is available by reading our Chaplain Profiles. You can also view [&#8220;A Day in the Life of a Corporate Chaplain&#8221;](../../%3Fp=436.html "A Day in the Life of a Corporate Chaplain") for more information about what a typical day might entail. To view these articles and others, please visit our [&#8220;Highlights&#8221; ](http://www.corpchaps.com/packages-2/sample-documents/ "Document Highlights")page for more information.
+If you only have a few hours to offer each week, you may be able to find an established chaplaincy organization for which you could work part-time. More information about the lives and backgrounds of part-time chaplains is available by reading our Chaplain Profiles. You can also view [&#8220;A Day in the Life of a Corporate Chaplain&#8221;](../../../%3Fp=436.html "A Day in the Life of a Corporate Chaplain") for more information about what a typical day might entail. To view these articles and others, please visit our [&#8220;Highlights&#8221; ](http://www.corpchaps.com/packages-2/sample-documents/ "Document Highlights")page for more information.
 
-If there is not currently an independent chaplaincy organization based in your community, you may be able to find a national or regional organization that is willing to let you work part-time while you see if chaplaincy is right for you. Or, if you have a head for business and a heart for people, consider starting your own chaplaincy organization to serve the businesses in your community. For more information about what it&#8217;s like to establish a chaplaincy organization, read &#8220;[A Week in the Life of a Corporate Chaplaincy Business Owner](../../%3Fp=458.html "A Week In The Life of A Corporate Chaplaincy Business Owner")&#8221; and the [Case Study of Capital Chaplain](../../%3Fp=454.html "Case Study: Capital Chaplains")s, serving Madison, Wisconsin, and surrounding areas. Please visit our [&#8220;Highlights&#8221;](http://www.corpchaps.com/packages-2/sample-documents/ "Document Highlights") page for additional information about viewing these articles and others.
+If there is not currently an independent chaplaincy organization based in your community, you may be able to find a national or regional organization that is willing to let you work part-time while you see if chaplaincy is right for you. Or, if you have a head for business and a heart for people, consider starting your own chaplaincy organization to serve the businesses in your community. For more information about what it&#8217;s like to establish a chaplaincy organization, read &#8220;[A Week in the Life of a Corporate Chaplaincy Business Owner](../../../%3Fp=458.html "A Week In The Life of A Corporate Chaplaincy Business Owner")&#8221; and the [Case Study of Capital Chaplain](../../../%3Fp=454.html "Case Study: Capital Chaplains")s, serving Madison, Wisconsin, and surrounding areas. Please visit our [&#8220;Highlights&#8221;](http://www.corpchaps.com/packages-2/sample-documents/ "Document Highlights") page for additional information about viewing these articles and others.
 
 Whatever route you decide is best, you don&#8217;t have to do this alone. Corporate Chaplaincy Consulting exists to provide you with[ resources and support](http://www.corpchaps.com/packages-2/ "Packages") as you begin your own chaplaincy journey.
 

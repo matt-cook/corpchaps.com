@@ -1,6 +1,0 @@
----
-title: The Appearance of Corporate Chaplains in the Workplace
-permalink: info/what-is-cc-why-should-i-care/the-appearence-of-corporate-chaplains-in-the-workplace/
----
-				<p><strong><a href="https://googledrive.com/host/0B-rUPb5gojEteThPR1lHNFZremM/110621-The-Appearance-of-Corporate-Chaplains-in-the-Workplace-Article.pdf">Download full document.</a></strong></p>
-<p>“The Appearance of Corporate Chaplains in the Workplace” begins with a scenario (partially based on an actual case) in which a business owner is aware that outside stressors are negatively affecting employee performance. After much research, he decides to involve a workplace chaplain and notices a marked decrease in absenteeism and a stabilization of the turnover rate. O’Connell goes on to discuss the general observations of the chaplain, and the personal circumstances and priorities that led to this particular business leader choosing invite a chaplain to support his employees. While this business leader’s situation is used as a specific example to help readers more easily understand how a chaplaincy program can help a company, more general information about the history, implementation, and roles of chaplaincy programs in the workplace are also addressed throughout the article.</p>

@@ -1,6 +1,15 @@
 ---
 title: Quotables
 permalink: info/testimonials/quotables/
+category: quotables
+quote: One of our main goals is to help people be comfortable bringing their whole selves to work. We believe a person doesn’t check their faith at the door when they arrive in the morning.
+links:
+  -
+    url: info/testimonials/
+    title: Video Testimonials
+  -
+    url: info/testimonials/quotables/
+    title: Quotables
 ---
 <p><em>&#8220;Our company has been recognized as one of Fortune’s ’Best Companies to Work For’ for the last three years. The chaplain program is a low-cost employee benefit that has gotten us more loyalty than our other ’standard’ benefits and resulted in lower turnover, improved morale and a general sense of ’caring’ on the company’s part about our employees’ well being.&#8221;</em><br />
 ~ <strong>David M. Weekley, Chairman of the Board, David Weekley Homes</strong></p>
@@ -33,4 +42,3 @@ permalink: info/testimonials/quotables/
 <p><em>Used with permission from <a href="http://www.mycorporatechaplain.com/">My Corporate Chaplain (http://www.mycorporatechaplain.com/)</a></em></p>
 <p><strong>Corporate Chaplaincy Consulting</strong><br />
 <em>Mentoring and Equipping Emerging Workplace Chaplains</em></p>
-	
