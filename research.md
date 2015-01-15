@@ -2,6 +2,10 @@
 title: Research
 permalink: research/
 quote: It has been said that great ideas change the world. I believe workplace chaplaincy is truly a great idea that is changing the world one person at a time.
+links:
+  -
+    url: research/
+    title: Research
 ---
 *   [Corporate Chaplaincy by Paul Uccello](https://googledrive.com/host/0B-rUPb5gojEteThPR1lHNFZremM/Corporate-Chaplaincy-by-Paul-Uccello.pdf)
 *   [The Appearance of Corporate Chaplains in the Workplace by Laura O’Connell](https://googledrive.com/host/0B-rUPb5gojEteThPR1lHNFZremM/The-Appearance-of-Corporate-Chaplains-in-the-Workplace-by-Laura-OConnell.pdf)

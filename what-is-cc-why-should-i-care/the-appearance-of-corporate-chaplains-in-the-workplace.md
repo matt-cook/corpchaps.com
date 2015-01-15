@@ -1,28 +1,7 @@
 ---
 title: The Appearance of Corporate Chaplains in the Workplace
 permalink: info/what-is-cc-why-should-i-care/the-appearance-of-corporate-chaplains-in-the-workplace/
-links:
-  -
-    url: info/what-is-cc-why-should-i-care/about/
-    title: About
-  -
-    url: about-us/consider-a-career-in-corporate-chaplaincy/
-    title: Careers
-  -
-    url: a-business-model-made-in-heaven/
-    title: A Business Model Made in Heaven
-  -
-    url: info/what-is-cc-why-should-i-care/missing-link/
-    title: The Missing Link
-  -
-    url: info/what-is-cc-why-should-i-care/chaplain-confidentiality-in-the-workplace-precedent-and-principle/
-    title: Chaplain Confidentiality in the Workplace&#58; Precedent and Principle
-  -
-    url: info/what-is-cc-why-should-i-care/the-appearance-of-corporate-chaplains-in-the-workplace/
-    title: The Appearance of Corporate Chaplains in the Workplace
-  -
-    url: info/what-is-cc-why-should-i-care/the-coaching-and-training-of-corporate-chaplains/
-    title: The Coaching and Training of Corporate Chaplains
+menu: about
 ---
 **[Download full document.](https://googledrive.com/host/0B-rUPb5gojEteThPR1lHNFZremM/110621-The-Appearance-of-Corporate-Chaplains-in-the-Workplace-Article.pdf)**
 
