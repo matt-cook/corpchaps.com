@@ -1,0 +1,5 @@
+---
+title: Robert Dehnert
+vimeo: 28416965
+---
+**Robert Dehnert, HR Manager at Pellitteri Waste Systems**, discusses corporate chaplaincy from a Human Resources perspective. Dehnert explains, “It’s not a big capital outlay in regard to expense, but the return is great.” The chaplain is able to help employees work through the issues of life and, as a result, stay more focused at work. Dehnert saw this specifically with one employee who risked losing his house. Not only did the chaplain come alongside the employee through this stressful time, he also served as an outside problem solver who was able to help the employee work with the bank to keep his home. Dehnert understands the importance of helping the employees he has, but he also understands the costs associated with losing an employee, “IfI keep one employee that I would have lost without the program, it’s paid for itself that year.”Watch this video to hear Dehnert offer his thoughts and advice to any company considering a chaplaincy program for their employees.

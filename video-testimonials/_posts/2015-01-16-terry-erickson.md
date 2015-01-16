@@ -1,0 +1,5 @@
+---
+title: Terry Erickson
+vimeo: 28417103
+---
+**Terry Erickson, serves as a chaplain at Coyle Carpet.** He talks about his calling to be a chaplain,and how serving as a chaplain matches his gifts. Additionally, he discusses the need for chaplains in the workplace. Highlighted by the fact that he has received invitations to officiate weddings and funerals from the employees he serves, he sees that people don’t have clergy in their life when they need it, and this allows him to fill that role for those who want him to.Additionally,“a lot of the folks really just don’t have friends to process life with, and by being there on a regular basis, I’m able to process with them, and then moments where there’s crisis, I’m able to be involved.” At first people were very suspicious, but as he has built trust with them, and as issues come up, the employees now all welcome his presence. Watch this video to see how Erickson, as a corporate chaplain, has been able to serve the employees through hospital visits,by following up with employees who have been let go from the company for various reasons,and through working with the families of employees.

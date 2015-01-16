@@ -1,0 +1,22 @@
+---
+title: Video Testimonials
+permalink: info/testimonials/
+quote: The chaplain is able to help employees work through the issues of life and, as a result, stay more focused at work.
+links:
+  -
+    url: info/testimonials/
+    title: Video Testimonials
+  -
+    url: info/testimonials/quotables/
+    title: Quotables
+---
+<div class="row">
+  {% for post in site.categories['video-testimonials'] %}
+    <div class="col-md-6">
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe src="http://player.vimeo.com/video/{{post.vimeo}}?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" class="embed-responsive-item" webkitAllowFullScreen allowFullScreen></iframe>
+      </div>
+      {{post.content}}
+    </div>
+  {% endfor %}
+</div>

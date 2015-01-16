@@ -1,0 +1,5 @@
+---
+title: Mike Coyle
+vimeo: 28416791
+---
+**Mike Coyle, Owner of Coyle Carpet**, explains how he has seen the value of a chaplaincy program from an owner’s perspective. Coyle initially asked Steve, the Owner and FoundingChaplain at Capital Chaplains, for help when he had an employee in crisis. Pleased with Steve’s ability to help and serve this employee, Coyle rolled out the program to the whole staff. “It’s difficult enough to run a business. We’d like to be able to help our employees through some of the crises, and we can do it now with the corporate chaplaincy.” While some employees had initial reservations, Coyle says, after seeing the program in action, 95% of his employees are using the program, and Terry, their corporate chaplain, has even performed the wedding services for employees who got married. Through crises, deaths, and marriages, the chaplain has been there to go through life with the employees. Watch this video to hear why Coyle believes that “Corporate chaplaincy really is a good value” and has created a better atmosphere within their store.

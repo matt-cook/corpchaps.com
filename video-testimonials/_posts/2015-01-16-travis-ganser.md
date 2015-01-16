@@ -1,0 +1,5 @@
+---
+title: Travis Ganser
+vimeo: 28417270
+---
+**Travis Ganser, President and Owner of the Ganser Company**, knows first hand: “When your personal life gets turned upside down, it does impact your work life.” He talks about his personal experiences with the corporate chaplain, and how he has seen the chaplaincy program benefit the company as a whole. Ganser’s wife was in the hospital and incapacitated due to complications with the birth of their child, and his child was in the NICU. Steve, Owner and Founding Chaplain at Capital Chaplains, gave him someone to talk to through this difficult time. For himself and his employees, Ganser has observed: “When people are whole at home, they are whole at work. Andw hen they are whole at work, they can produce the goals that you set out to produce.” Ganser understands that employees do a better job when they can better focus on their work, but that is not why they have the program. Watch this video to hear Ganser explain how the payback is more than just monetary.
