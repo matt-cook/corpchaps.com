@@ -4,6 +4,8 @@ permalink: info/services/
 ---
 All packages are immediately available for download as zip files. Zipping a file creates a compressed version of the file, and the zipped version of the file will have a .zip file extension. This smaller size drastically reduces the time that it will take the documents to download.
 
+### Title 3
+
 If you are using a  PC, you can unzip a file by right-clicking on the file and then clicking 'Extract' on the shortcut menu. If you are using a Mac, double-click on the file to unzip it. Once unzipped, modifiable documents are either Microsoft Word or Excel format, and all unmodifiable documents are in the PDF format.
 
 **Click on a document to view highlights.**
