@@ -1,0 +1,22 @@
+{% for link in site.data.menu[include.menu] %}
+  {% capture prefix %}{{ link.url | 4 }}{% endcapture %}
+    {% if link.submenu %}
+      <li class="dropdown">
+      <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"
+    {% else %}
+      <li><a
+    {% endif %}
+    {% if prefix contains 'http' %}
+      href="{{ link.url }}"
+    {% else %}
+        href="{{ site.baseurl }}{{ link.url }}"
+    {% endif %}>
+    {{ link.title }}{% if link.submenu %} <span class="caret"></span>{% endif %}
+    </a>
+    {% if link.submenu %}
+      <ul class="dropdown-menu" role="menu">
+        {% include menu.html menu=link.submenu %}
+      </ul>
+    {% endif %}
+  </li>
+{% endfor %}

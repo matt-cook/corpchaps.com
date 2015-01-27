@@ -34,11 +34,8 @@ a:hover{
 	font-size:11px;
 	text-transform:lowercase;
 }
-#topbar ul{
-	float:right;
-}
 #topbar li{
-	float:left;
+	display:inline;
 }
 #topbar li a:before{
 	content: '|';
@@ -50,6 +47,10 @@ a:hover{
 #topbar a{
 	color:#fff;
 	padding:0 5px;
+	display:inline;
+}
+#topbar li a:hover{
+	background:none;
 }
 a.box, .arrow{
 	font-family: "palatino linotype",palatino,serif;

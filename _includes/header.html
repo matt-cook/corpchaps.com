@@ -2,9 +2,7 @@
   <div class="container">
     <div id="contactbar" class="">
       <ul class="nav">
-        <li><a href="http://www.facebook.com/pages/Corporate-Chaplaincy-Consulting/240905042597630?v=info">Facebook</a></li>
-        <li><a href="http://twitter.com/stevewcook">Twitter</a></li>
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+        {% include menu.html menu="social" %}
       </ul>
     </div>
   </div>
@@ -36,21 +34,7 @@
       </div>
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
-          <li><a href="{{ site.baseurl }}/info/services/">Services</a></li>
-          <li class="dropdown">
-            <a href="{{ site.baseurl }}/info/what-is-cc-why-should-i-care/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-              Corporate Chaplaincy? <span class="caret"></span>
-            </a>
-            <ul class="dropdown-menu" role="menu">
-              {% for link in site.data.menu.about %}
-                <li><a href="{{ site.baseurl }}/{{ link.url }}">{{ link.title }}</a></li>
-              {% endfor %}
-            </ul>
-          </li>
-          <li><a href="{{ site.baseurl }}/info/faq/">FAQ</a></li>
-          <li><a href="{{ site.baseurl }}/info/testimonials/">Press &#038; Testimonials</a></li>
-          <li><a href="{{ site.baseurl }}/category/blog/">Blog</a></li>
-          <li><a href="{{ site.baseurl }}/contact-us/">Contact</a></li>
+          {% include menu.html menu="main" %}
         </ul>
       </div><!--/.nav-collapse -->
     </div><!--/.container-fluid -->
