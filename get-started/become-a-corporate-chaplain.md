@@ -1,6 +1,7 @@
 ---
 title: Become a Corporate Chaplain
 permalink: get-started/become-a-corporate-chaplain/
+menu: get-started
 ---
 Future home of prospective chaplain package details
 

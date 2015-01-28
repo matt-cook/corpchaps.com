@@ -1,6 +1,7 @@
 ---
 title: Bring Steve to You
 permalink: get-started/private-consultation/
+menu: get-started
 ---
 Future home of on-site consulting details
 

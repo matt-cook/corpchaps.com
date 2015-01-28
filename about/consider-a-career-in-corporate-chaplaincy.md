@@ -1,6 +1,6 @@
 ---
 title: Careers
-permalink: about-us/consider-a-career-in-corporate-chaplaincy/
+permalink: about/consider-a-career-in-corporate-chaplaincy/
 quote: Whatever your situation, if you have been called to chaplaincy, there is a place for you.
 menu: about
 ---

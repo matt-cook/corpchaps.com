@@ -1,6 +1,6 @@
 ---
 title: Chaplain Confidentiality in the Workplace
-permalink: info/what-is-cc-why-should-i-care/chaplain-confidentiality-in-the-workplace-precedent-and-principle/
+permalink: about/chaplain-confidentiality-in-the-workplace-precedent-and-principle/
 menu: about
 ---
 **[Download full document.](https://googledrive.com/host/0B-rUPb5gojEteThPR1lHNFZremM/110621-Chaplain-Confidentiality-in-the-Workplace-Article.pdf)**

@@ -1,6 +1,6 @@
 ---
 title: The Coaching and Training of Corporate Chaplains
-permalink: info/what-is-cc-why-should-i-care/the-coaching-and-training-of-corporate-chaplains/
+permalink: about/the-coaching-and-training-of-corporate-chaplains/
 menu: about
 ---
 **[Download full document.](https://googledrive.com/host/0B-rUPb5gojEteThPR1lHNFZremM/110621-The-Coaching-and-Training-of-Corporate-Chaplains-Article.pdf)**

@@ -1,6 +1,6 @@
 ---
-title: Services
-permalink: info/services/
+title: Buy Now
+permalink: buy-now/
 ---
 All packages are immediately available for download as zip files. Zipping a file creates a compressed version of the file, and the zipped version of the file will have a .zip file extension. This smaller size drastically reduces the time that it will take the documents to download.
 

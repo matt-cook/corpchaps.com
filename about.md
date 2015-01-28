@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: info/what-is-cc-why-should-i-care/about/
+permalink: about/
 menu: about
 ---
 Welcome to the Corporate Chaplaincy Consulting website, where our mission is: **to mentor and equip emerging corporate chaplains.**

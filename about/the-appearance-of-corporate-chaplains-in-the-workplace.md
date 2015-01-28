@@ -1,6 +1,6 @@
 ---
 title: The Appearance of Corporate Chaplains in the Workplace
-permalink: info/what-is-cc-why-should-i-care/the-appearance-of-corporate-chaplains-in-the-workplace/
+permalink: about/the-appearance-of-corporate-chaplains-in-the-workplace/
 menu: about
 ---
 **[Download full document.](https://googledrive.com/host/0B-rUPb5gojEteThPR1lHNFZremM/110621-The-Appearance-of-Corporate-Chaplains-in-the-Workplace-Article.pdf)**

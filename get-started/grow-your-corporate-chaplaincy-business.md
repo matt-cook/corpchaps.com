@@ -1,6 +1,7 @@
 ---
-title: Market Your Business
-permalink: get-started/market-your-corporate-chaplaincy-business/
+title: Grow Your Chaplaincy Business
+permalink: get-started/grow-your-corporate-chaplaincy-business/
+menu: get-started
 ---
 Future home of marketing package details
 

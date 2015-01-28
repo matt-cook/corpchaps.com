@@ -1,6 +1,7 @@
 ---
 title: Get Started
 permalink: get-started/
+menu: get-started
 ---
 We don&#8217;t actually want this to be a page that can be arrived at by clicking it in the main nav. Our preference would be that each of the 5 dropdown options (listed in bold below) are the links that can be clicked from the main nav.
 

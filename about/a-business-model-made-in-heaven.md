@@ -1,6 +1,6 @@
 ---
 title: A Business Model Made in Heaven
-permalink: a-business-model-made-in-heaven/
+permalink: about/a-business-model-made-in-heaven/
 quote: |
   Ministry is one thing. Starting a business is another. When starting a business,  
   there are many questions to consider. When starting a chaplaincy business, there
