@@ -1,0 +1,19 @@
+---
+title: Quotables
+permalink: quotables/
+category: quotables
+quote: One of our main goals is to help people be comfortable bringing their whole selves to work. We believe a person doesn’t check their faith at the door when they arrive in the morning.
+links:
+  -
+    url: /video-testimonials/
+    title: Video Testimonials
+  -
+    url: /quotables/
+    title: Quotables
+---
+{% for q in site.data.quotables %}
+  <p><em>&#8220;{{ q.quote }}&#8221;</em><br />
+  ~ <strong>{{ q.author }}</strong></p>
+{% endfor %}
+
+<p><em>Used with permission from <a href="http://www.mycorporatechaplain.com/">My Corporate Chaplain (http://www.mycorporatechaplain.com/)</a></em></p>
