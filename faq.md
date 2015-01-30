@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: info/faq/
+permalink: about/faq/
 quote: The vast majority of the approximately 4,000 corporate chaplains currently serving in the United States are professionally trained in another discipline.
 ---
 ## What is a corporate chaplain?
