@@ -1,0 +1,5 @@
+---
+title: Danielle Pellitteri
+vimeo: 28416183
+---
+**Danielle Pellitteri, Vice President of Sales at Pellitteri Waste Systems**, discusses how theChaplain Assistance Program benefits her employees more than a traditional EmployeeAssistance Program (EAP) would. It also allows her, as an employer, to help her employees with personal issues without the risk of crossing inappropriate boundaries. “The benefit is your people feel supported, and they are supported, and they get to have somebody outside of a manager,or an owner, or an HR person really truly care about them and following up with how they are doing in life.” For her employees, she sees her company’s chaplain “supporting them and being available to them as a resource when things are going great, and when things aren’t going so well.” Watch this video to see how Pellitteri has experienced the benefits of having a chaplain for herself and for her employees. She knows that no matter what comes up, she can trust that the company chaplain will be there to help.
