@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-permalink: copyright-information/
+permalink: privacy-policy/
 ---
 **What information do we collect?**
 

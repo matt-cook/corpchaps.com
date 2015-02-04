@@ -1,6 +1,6 @@
 ---
 title: Site Use Agreement
-permalink: statement-of-agreement-for-use-of-site
+permalink: site-use-agreement/
 ---
 Welcome to CorpChaps.Com, a.k.a. Corporate Chaplaincy Consulting! Corporate Chaplaincy Consulting and its associates provide their services to you subject to the following conditions.
 
