@@ -10,10 +10,6 @@ links:
   -
     url: /quotables/
     title: Quotables
+layout: quotables
 ---
-{% for q in site.data.quotables %}
-  <p><em>&#8220;{{ q.quote }}&#8221;</em><br />
-  ~ <strong>{{ q.author }}</strong></p>
-{% endfor %}
-
-<p><em>Used with permission from <a href="http://www.mycorporatechaplain.com/">My Corporate Chaplain (http://www.mycorporatechaplain.com/)</a></em></p>
+_Used with permission from [My Corporate Chaplain (http://www.mycorporatechaplain.com/)](http://www.mycorporatechaplain.com/)_
