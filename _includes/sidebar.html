@@ -1,18 +1,16 @@
-<div id="sidebar" role="complementary" class="col-md-3">
-  {% if page.quote %}
-  <div id="excerpt">{{ page.quote }}</div>
-  {% endif %}
-  {% if page.menu %}
-    <ul id="sub-pages">
-      {% for link in site.data.menu[page.menu] %}
+{% if page.quote %}
+<div id="excerpt">{{ page.quote }}</div>
+{% endif %}
+{% if page.menu %}
+  <ul id="sub-pages">
+    {% for link in site.data.menu[page.menu] %}
+    <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% elsif page.links %}
+  <ul id="sub-pages">
+      {% for link in page.links %}
       <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
       {% endfor %}
-    </ul>
-  {% elsif page.links %}
-    <ul id="sub-pages">
-        {% for link in page.links %}
-        <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
-        {% endfor %}
-    </ul>
-  {% endif %}
-</div>
+  </ul>
+{% endif %}
