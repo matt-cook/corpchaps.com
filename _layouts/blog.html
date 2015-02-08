@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{% if page.posts %}
-    {% assign posts = site.categories.[page.posts] %}
+{% if page.category %}
+    {% assign posts = site.categories.[page.category] %}
 {% else %}
     {% assign posts = site.posts %}
 {% endif %}
@@ -36,7 +36,7 @@ layout: default
     {% include sidebar.html %}
     <ul class="categories">
       {% for category in site.categories %}
-        <li>{{ category }}</li>
+        <li>{{ category.title }}</li>
       {% endfor %}
     </ul>
   </div>
