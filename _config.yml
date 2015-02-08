@@ -5,7 +5,7 @@ keywords: For-profit corporate chaplaincy,chaplaincy business model,chaplaincy o
 baseurl: "/corpchaps.com"
 permalink: /:categories/:title/
 image: http://capital-chaplains.github.io/corpchaps.com/_img/interface/logo.png
-url: "http://capital-chaplains.github.io/corpchaps.com/"
+url: "http://capital-chaplains.github.io/corpchaps.com"
 include: ['_css','_js','_img']
 defaults:
   -
