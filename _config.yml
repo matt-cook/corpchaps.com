@@ -1,7 +1,7 @@
 # Site settings
 title: Corporate Chaplaincy Consulting
 description:
-baseurl: "/corpchaps.com" 
+baseurl: "/corpchaps.com"
 permalink: /:categories/:title/
 url: "http://capital-chaplains.github.io/corpchaps.com/"
 include: ['_css','_js','_img']
@@ -20,6 +20,7 @@ defaults:
       layout: "page"
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
