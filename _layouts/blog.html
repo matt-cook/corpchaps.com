@@ -12,12 +12,12 @@ layout: default
 <div id="posts">
   {% for post in posts %}
     <div class="post">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       {% if post.thumbnail %}
         <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="thumbnail">
       {% endif %}
       {{ post.excerpt }}
-      <p class="more"><a href="{{ post.url }}">Read more...</a></p>
+      <p class="more"><a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
       {% if post.author %}
         <p class="author">{{ post.author }}</p>
       {% endif %}
