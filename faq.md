@@ -37,7 +37,7 @@ If you can relate to any of the scenarios mentioned on this page, perhaps servin
 
 Since 2005, we at Corporate Chaplaincy Consulting and Capital Chaplains have gained a considerable amount of knowledge and insight regarding the running of a successful for-profit corporate chaplaincy initiative, and we are happy to be of assistance to you in any way that we can as you begin your journey.
 
-As we at Corporate Chaplaincy Consulting and Capital Chaplains continue to work with a variety of people on a variety of levels to become one of the key resources for the corporate chaplaincy movement, the goal of CorpChaps.Com is to provide the [resources](http://www.corpchaps.com/packages-2/ "Packages") necessary in order to mentor and equip those entering this emerging industry.
+As we at Corporate Chaplaincy Consulting and Capital Chaplains continue to work with a variety of people on a variety of levels to become one of the key resources for the corporate chaplaincy movement, the goal of CorpChaps.Com is to provide the resources necessary in order to mentor and equip those entering this emerging industry.
 
 **Corporate Chaplaincy Consulting**
 
