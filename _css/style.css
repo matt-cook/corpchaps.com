@@ -135,6 +135,10 @@ a.box{
 #content h2{
 	color:#31829F;
 }
+#content h3{
+	font: 20px;
+	color:red;
+}
 #content a{
 	color:#27809F;
 }
