@@ -29,10 +29,10 @@ While a given workday of one corporate chaplain may share similarities with anot
 ## 5 Personal Journeys to Corporate Chaplaincy
 Corporate chaplains come from a variety of backgrounds. Some integrate chaplaincy into their existing careers while others transition into full-time corporate chaplaincy. Read the stories of five people who felt called to workplace chaplaincy: a church pastor, a social worker, a retired Employee Assistance Program provider, a military chaplain, and a hospice chaplain.
 
-**PLUS, you’ll also receive the Chaplain Services Info Sheet for FREE!**
+### PLUS, you’ll also receive the Chaplain Services Info Sheet for FREE!
 Included at no additional cost, this Microsoft Word document is a modifiable template that outlines the services offered by a traditional Chaplain Assistance Program. You can adapt this document to meet your needs and use it when explaining your chaplaincy services to potential client companies.
 
-Take the first step now!
+### Take the first step now!
 A rewarding new career is within reach. Just click on the “Buy Now” button below and get started!
 
 *Please note that this ebook is available only as a PDF download. It is not available in Kindle, ePub, or hard-copy format.*
