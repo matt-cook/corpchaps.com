@@ -15,9 +15,9 @@ The <span style="color:red">number-goes-here</span>-page Become a Corporate Chap
 
 ## 17 FAQ about Corporate Chaplaincy
 Find answers to the top questions about corporate chaplaincy and how it works in the workplace. Questions include:
-* Why should a business have a corporate chaplaincy program?
-* Do chaplains push religion or focus primarily on the religious needs of the employees?
-* What type of training do chaplains have, and what is the commitment to ongoing continuing education?
+*   Why should a business have a corporate chaplaincy program?
+*   Do chaplains push religion or focus primarily on the religious needs of the employees?
+*   What type of training do chaplains have, and what is the commitment to ongoing continuing education?
 
 ## 21 Winning Qualities of a Corporate Chaplain
 A corporate chaplain’s job description is more about their character—who they are at heart and how they serve their clientele—than a cut-and-dry list of day-to-day responsibilities. Learn the who, what, when, where, why, and how of corporate chaplaincy through this list of characteristics important for those serving as workplace chaplains.
