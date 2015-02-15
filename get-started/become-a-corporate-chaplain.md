@@ -15,6 +15,7 @@ The <span style="color:red">number-goes-here</span>-page Become a Corporate Chap
 
 ## 17 FAQ about Corporate Chaplaincy
 Find answers to the top questions about corporate chaplaincy and how it works in the workplace. Questions include:
+
 *   Why should a business have a corporate chaplaincy program?
 *   Do chaplains push religion or focus primarily on the religious needs of the employees?
 *   What type of training do chaplains have, and what is the commitment to ongoing continuing education?
