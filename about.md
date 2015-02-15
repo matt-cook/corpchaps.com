@@ -3,7 +3,9 @@ title: About
 permalink: about/
 menu: about
 ---
-Welcome to the Corporate Chaplaincy Consulting website, where our mission is: **to mentor and equip emerging corporate chaplains.**
+Welcome to the Corporate Chaplaincy Consulting website, where our mission is **to mentor and equip emerging corporate chaplains.**
+
+
 
 In the midst of our fractured, high-stress world, people need a safe place to talk through problems. Even more, they need someone to walk with them in the midst of difficult circumstances.
 
