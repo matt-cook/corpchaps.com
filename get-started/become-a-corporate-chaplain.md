@@ -10,6 +10,7 @@ Workplace chaplains reach out and bring care where it is needed most, and where 
 Take the first step toward a rewarding career as a corporate chaplain and purchase the Become a Corporate Chaplain ebook.
 
 The <span style="color:red">number-goes-here</span>-page Become a Corporate Chaplain ebook will help you discern whether corporate chaplaincy is right for you, show you what to expect in your new profession, and help you get your own Chaplain Assistance Program off and running.
+
 ### Here’s what included in your Become a Corporate Chaplain ebook:
 
 ## 17 FAQ about Corporate Chaplaincy
