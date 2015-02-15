@@ -5,8 +5,6 @@ menu: about
 ---
 Welcome to the Corporate Chaplaincy Consulting website, where our mission is **to mentor and equip emerging corporate chaplains.**
 
-
-
 In the midst of our fractured, high-stress world, people need a safe place to talk through problems. Even more, they need someone to walk with them in the midst of difficult circumstances.
 
 My name is Steve Cook, and since 2005 when I started Capital Chaplains LLC, a corporate chaplaincy initiative based near Madison that serves the entire capital region of south central Wisconsin, it’s been my privilege to meet that need for employees in diverse organizations. I’d love to help you start your own corporate chaplaincy business so that organizations in your area can also experience the gifts a corporate chaplain brings to individual employees and to businesses as a whole.
@@ -23,9 +21,9 @@ So many organizations need the help that chaplains can offer. Perhaps God is cal
 
 _Steve_
 
-Capital Chaplains, LLC, Owner &amp; Founding Chaplain
+Capital Chaplains LLC, Owner &amp; Founding Chaplain
 
 Corporate Chaplaincy Consulting, Owner &amp; Director
 
 
-Disclaimer: Our mission at Corporate chaplaincy Consulting is to mentor and equip emerging corporate chaplains by sharing what we have learned through experience and research about the growing field of corporate chaplaincy. This site and its related consulting services are not intended to give legal or financial advice, nor do we guarantee your financial or chaplaincy success.
+<span style="font-size:10">Disclaimer: Our mission at Corporate chaplaincy Consulting is to mentor and equip emerging corporate chaplains by sharing what we have learned through experience and research about the growing field of corporate chaplaincy. This site and its related consulting services are not intended to give legal or financial advice, nor do we guarantee your financial or chaplaincy success.</span>
