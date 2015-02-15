@@ -17,8 +17,6 @@ Even more, today Capital Chaplains has contracts to provide a Chaplain Assistanc
 
 So many organizations need the help that chaplains can offer. Perhaps God is calling you to be part of the solution in your city. I’d love to walk with you as you consider starting a corporate chaplaincy initiative of your own. 
 
-[Contact me](www.corpchaps.com/contact/) to begin your journey today.
-
 _Steve_
 
 Capital Chaplains LLC, Owner &amp; Founding Chaplain
@@ -26,4 +24,4 @@ Capital Chaplains LLC, Owner &amp; Founding Chaplain
 Corporate Chaplaincy Consulting, Owner &amp; Director
 
 
-<span style="font-size:10">Disclaimer: Our mission at Corporate chaplaincy Consulting is to mentor and equip emerging corporate chaplains by sharing what we have learned through experience and research about the growing field of corporate chaplaincy. This site and its related consulting services are not intended to give legal or financial advice, nor do we guarantee your financial or chaplaincy success.</span>
+<span style="font-size:10">Disclaimer: Our mission at Corporate Chaplaincy Consulting is to mentor and equip emerging corporate chaplains by sharing what we have learned through experience and research about the growing field of corporate chaplaincy. This site and its related consulting services are not intended to give legal or financial advice, nor do we guarantee your financial or chaplaincy success.</span>
