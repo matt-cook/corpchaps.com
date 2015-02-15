@@ -3,28 +3,27 @@ title: About
 permalink: about/
 menu: about
 ---
-Welcome to the Corporate Chaplaincy Consulting website, where our mission is: **to mentor and equip emerging corporate chaplains.**
+Welcome to the Corporate Chaplaincy Consulting website, where our mission is: **to mentor and equip emerging corporate chaplains.**
 
-My name is Steve Cook, and in 2005 I started Capital Chaplains LLC, a corporate chaplaincy initiative based near Madison, Wisconsin, which serves the entire Capital Region of South-Central Wisconsin. By 2009, Capital Chaplains had contracts to provide a Chaplain Assistance Program for every employee and related family/household member in each of nine client organizations.
+In the midst of our fractured, high-stress world, people need a safe place to talk through problems. Even more, they need someone to walk with them in the midst of difficult circumstances.
 
-As a former local church pastor, I not only lead this chaplaincy initiative on a full-time basis, but I have contracted with six other part-time chaplains to assist me with the work. From 2005 to 2009, Capital Chaplains grew from a part-time venture to full-time income, with this growth occurring during the worst recession since the great depression. Five of the nine Capital Chaplains client companies started chaplaincy programs in 2009 alone! Since chaplains are onsite to walk alongside workers through the joys and struggles of whatever life brings, corporate chaplaincy is a growth industry in and out of a business downturn.
+My name is Steve Cook, and since 2005 when I started Capital Chaplains LLC, a corporate chaplaincy initiative based near Madison that serves the entire capital region of south central Wisconsin, it’s been my privilege to meet that need for employees in diverse organizations. I’d love to help you start your own corporate chaplaincy business so that organizations in your area can also experience the gifts a corporate chaplain brings to individual employees and to businesses as a whole.
 
-Every month I receive inquiries from people around the USA just like you, who have an interest in corporate chaplaincy and have extensive questions about this new initiative. As a result, we at Corporate Chaplaincy Consulting and Capital Chaplains have come together to create a site that will provide a variety of resources and documents written for both prospective chaplains and those looking to start their own local chaplaincy initiatives. We will take you behind the scenes and through the details of how Capital Chaplains was developed—including both the materials that we have developed along the way (that I wish I had in 2005!) and the lessons that we have learned over the years—all with the goal of helping you as you venture into the emerging industry of corporate chaplaincy.
+I know from my own life that the shift from serving as a chaplain to owning a chaplaincy organization can feel like a big one. But the sole mission of Corporate Chaplaincy Consulting is to mentor and equip emerging corporate chaplains like yourself. The resources I provide offer step-by-step guidance for your journey, from building relationships with local business owners and marketing your organization to providing ongoing training for the chaplains you hire as part of your team. 
 
-All the best as you begin this next step on your journey.
+The journey takes patience and perseverance, but I’ve seen God lead and sustain me in incredible ways. After several years of leading Capital Chaplains part-time and <span style="color:red">**[fill in what else Steve was doing here. Part-time pastor?]**</span>, it now provides my full income and full-time work. I have also contracted six other part-time chaplains to assist me. 
+
+Even more, today Capital Chaplains has contracts to provide a Chaplain Assistance Program for every employee and related family/household member in each of nine client organizations. And it experienced some of its greatest growth during the worst recession since the Great Depression. Five of the nine Capital Chaplains client companies started chaplaincy programs in 2009 alone! 
+
+So many organizations need the help that chaplains can offer. Perhaps God is calling you to be part of the solution in your city. I’d love to walk with you as you consider starting a corporate chaplaincy initiative of your own. 
+
+[Contact me](www.corpchaps.com/contact/) to begin your journey today.
 
 _Steve_
 
-Steve Cook
-
-Capital Chaplains LLC, Owner &amp; Founding Chaplain
+Capital Chaplains, LLC, Owner &amp; Founding Chaplain
 
 Corporate Chaplaincy Consulting, Owner &amp; Director
 
-**Next Steps:**
-
-1.  [Get a sampling of the resources and services offered in this site.](http://www.corpchaps.com/packages-2/)
-2.  [Learn more about becoming a corporate chaplain.](../../../about-us/consider-a-career-in-corporate-chaplaincy/)
-3.  [Learn more about starting your own corporate chaplaincy initiative where you live.](../../../a-business-model-made-in-heaven/)
 
 Disclaimer: Our mission at Corporate chaplaincy Consulting is to mentor and equip emerging corporate chaplains by sharing what we have learned through experience and research about the growing field of corporate chaplaincy. This site and its related consulting services are not intended to give legal or financial advice, nor do we guarantee your financial or chaplaincy success.
