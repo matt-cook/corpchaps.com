@@ -247,7 +247,7 @@ br.clear{
 	font-family: arial,sans-serif;
 	letter-spacing: 0pt;
 	line-height: 1.5;
-	text-align:justify;
+	text-align:left;
 }
 #content h1,h2,h3,h4{
 	text-align:left;
