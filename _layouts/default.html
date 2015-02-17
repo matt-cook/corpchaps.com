@@ -1,19 +1,11 @@
-<!DOCTYPE html>
-<html>
-
-  {% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-
-    <div class="row">
-      <div id="content" class="col-md-9">{{ content }}</div>
-      {% include sidebar.html %}
-    </div>
-
-    {% include footer.html %}
-
-  </body>
-
-</html>
+---
+layout: blank
+---
+<div class="row">
+  <div id="content" class="col-md-9">
+    {{ content }}
+  </div>
+  <div id="sidebar" role="complementary" class="col-md-3">
+    {% include sidebar.html %}
+  </div>
+</div>

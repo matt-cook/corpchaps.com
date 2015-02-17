@@ -1,0 +1,35 @@
+---
+layout: default
+menu: blog
+---
+{% if page.category %}
+    {% assign posts = site.categories.[page.category] %}
+{% else %}
+    {% assign posts = site.posts %}
+{% endif %}
+
+<h1>{{ page.title }}</h1>
+{{ content }}
+<div id="posts">
+  {% for post in posts %}
+    <div class="post">
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      {% if post.thumbnail %}
+        <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="thumbnail">
+      {% endif %}
+      {{ post.excerpt }}
+      <p class="more"><a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
+      {% if post.author %}
+        <p class="author">{{ post.author }}</p>
+      {% endif %}
+      <p class="date">{{ post.date | date: "%-d %B %Y" }}</p>
+      {% if post.tags.size > 0 %}
+        <ul class="tags">
+        {% for tag in post.tags %}
+          <li>{{ post.tag }}</li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>

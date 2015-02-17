@@ -135,6 +135,9 @@ a.box{
 #content h2{
 	color:#31829F;
 }
+#content h3{
+	color:#2F2F2F;
+}
 #content a{
 	color:#27809F;
 }
@@ -160,7 +163,7 @@ a.box{
 }
 
 #main #feat h2{
-	font: 40px 'ChunkFiveRegular', Arial, sans-serif;
+	font: 30px 'ChunkFiveRegular', Arial, sans-serif;
 	letter-spacing: 0;
 	line-height:36px;
 	font-weight:normal;
@@ -169,7 +172,7 @@ a.box{
 	padding:0;
 }
 .title h2{
-	font: 40px 'ChunkFiveRegular', Arial, sans-serif;
+	font: 30px 'ChunkFiveRegular', Arial, sans-serif;
 	letter-spacing: 0;
 	line-height:20px;
 	font-weight:normal;
@@ -247,7 +250,7 @@ br.clear{
 	font-family: arial,sans-serif;
 	letter-spacing: 0pt;
 	line-height: 1.5;
-	text-align:justify;
+	text-align:left;
 }
 #content h1,h2,h3,h4{
 	text-align:left;

@@ -1,9 +1,11 @@
 # Site settings
 title: Corporate Chaplaincy Consulting
-description:
-baseurl: "/corpchaps.com" 
+description: For-profit Corporate Chaplaincy is an effective chaplaincy business model that allows you to focus on the clients of your chaplaincy organization.
+keywords: For-profit corporate chaplaincy,chaplaincy business model,chaplaincy organization
+baseurl: "/corpchaps.com"
 permalink: /:categories/:title/
-url: "http://capital-chaplains.github.io/corpchaps.com/"
+image: http://capital-chaplains.github.io/corpchaps.com/_img/interface/logo.png
+url: "http://capital-chaplains.github.io/corpchaps.com"
 include: ['_css','_js','_img']
 defaults:
   -
@@ -20,6 +22,7 @@ defaults:
       layout: "page"
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
