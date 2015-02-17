@@ -3,9 +3,9 @@ title: Quotables
 permalink: quotables/
 layout: page
 ---
+{{ content }}
+
 {% for q in site.data.quotables %}
   <p><em>&#8220;{{ q.quote }}&#8221;</em><br />
   ~ <strong>{{ q.author }}</strong></p>
 {% endfor %}
-
-{{ content }}
