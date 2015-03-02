@@ -79,4 +79,4 @@ These marketing materials are your shortcut to promoting your new business and s
 ### A rewarding business opportunity awaits you!
 Start helping organizations in your area experience the gifts that corporate chaplains bring to individual employees and to businesses as a whole. Just click on the “Buy Now” button below to access the tools and strategies you need for success in this industry!
 
-<span style=color:red>BUY NOW</span>
+<span style="color:red">BUY NOW</span>
