@@ -25,7 +25,7 @@ We highly recommend scheduling your phone consultation after you have had the op
 ***Want more personal attention than an hour can provide? You can [Bring Steve to You](www.corpchaps.com/get-started/bring-steve-to-you/)!***
 
 ## Start Your Chaplaincy Business ebook
-Why reinvent the wheel? In this ebook, you’ll get seven chapters of practical insight into what it takes to build a unique, sustainable chaplaincy business. You’ll learn time-tested best practices that will equip you to grow your chaplaincy organization and serve the needs of your community.
+Why reinvent the wheel? In this ebook, you receive seven chapters of practical insight into what it takes to build a unique, sustainable chaplaincy business. You’ll learn time-tested best practices that will equip you to grow your chaplaincy organization and serve the needs of your community.
 
 Here’s a peek inside each chapter:
 
@@ -55,7 +55,7 @@ Understanding how to serve as a chaplain and understanding how to best promote a
 ### Independent Contractors vs. Employees
 Learn how the roles of independent contractors differ from those of employees as it pertains to hiring additional chaplains for your organization.
 
-## 5 Legal & Business Sample Documents
+## Legal & Business Sample Documents
 We’ve prepared five documents to get your business up and running, so there’s no need to start from scratch. You’re encouraged to adapt each document to meet your needs when contracting with client companies, drafting reports, and hiring chaplains. While these documents are not substitute for legal counsel, they will give you a foundation.
 
 *   **Client Company Letter of Agreement** for outlining services to be contracted between your chaplaincy organization and a client company.
