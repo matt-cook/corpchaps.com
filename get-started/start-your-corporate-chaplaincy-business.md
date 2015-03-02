@@ -32,10 +32,10 @@ Here’s a peek inside each chapter:
 ### 15 FAQ about Running a Chaplaincy Business
 Find answers to the primary questions about starting, owning, and managing an organization that offers corporate chaplaincy services. Questions include:
 
-* How do you approach potential client organizations?
-* How do you decide what to pay your chaplains?
-* What are the benefits of a for-profit versus a non-profit business model for chaplaincy?
-* How does ministry happen within the context of a for-profit business model?
+*   How do you approach potential client organizations?
+*   How do you decide what to pay your chaplains?
+*   What are the benefits of a for-profit versus a non-profit business model for chaplaincy?
+*   How does ministry happen within the context of a for-profit business model?
 
 ### 50 Lessons Learned In 5 Years
 Glean from five years’ worth of lessons learned through research and trial and error. Each lesson is accompanied by a Bible verse and an explanation to help you learn from the experiences and mistakes of those who’ve walked the for-profit chaplaincy road before you.
@@ -57,23 +57,24 @@ Learn how the roles of independent contractors differ from those of employees as
 
 ## 5 Legal & Business Sample Documents
 We’ve prepared five documents to get your business up and running, so there’s no need to start from scratch. You’re encouraged to adapt each document to meet your needs when contracting with client companies, drafting reports, and hiring chaplains. While these documents are not substitute for legal counsel, they will give you a foundation.
-* **Client Company Letter of Agreement** for outlining services to be contracted between your chaplaincy organization and a client company.
-* **Client Company Contract** for contracting services between a client company and chaplaincy provider.
-* **Client Company Reporting Spreadsheet** for confidentially documenting what you do and where you serve on a daily and monthly basis.
-* **Independent Contractor Application** for prospective chaplains who wish to work with your chaplaincy organization.
-* **Independent Contractor Contract** for contracting with chaplains who will serve through your organization as independent contractors.
+
+*   **Client Company Letter of Agreement** for outlining services to be contracted between your chaplaincy organization and a client company.
+*   **Client Company Contract** for contracting services between a client company and chaplaincy provider.
+*   **Client Company Reporting Spreadsheet** for confidentially documenting what you do and where you serve on a daily and monthly basis.
+*   **Independent Contractor Application** for prospective chaplains who wish to work with your chaplaincy organization.
+*   **Independent Contractor Contract** for contracting with chaplains who will serve through your organization as independent contractors.
 
 ## Multimedia Marketing Tools
 These marketing materials are your shortcut to promoting your new business and signing client companies. You can put our ideas to work and make them your own by simply editing these templates.
 
-* **Life is Hard postcard** for mailing to or sharing with prospective client companies (Microsoft Publisher).
-* **Corporate Chaplaincy Overview** for briefly presenting the value of workplace chaplaincy to prospective client companies (Microsoft PowerPoint).
-* **Corporate Chaplaincy Brochure** for reinforcing awareness of your corporate chaplaincy business offline (format?).
-* **Corporate Chaplaincy: Giving the Gift of Hope** for presenting a deeper look at the value of chaplains attending to employees’ minds, bodies, and spirits (Microsoft PowerPoint).
-* **Corporate Chaplaincy: The Missing Link in Business** for presenting the impact that chaplains can have on a prospective client company’s bottom line (available as an article and as a Microsoft PowerPoint).
-* **The Case for Corporate Chaplaincy** for presenting prospective client companies with key questions about caring for their employees, facts about marketplace trends that affect all organizations, major news coverage of corporate chaplaincy, and how your Chaplain Assistance Program is the best investment they can make in their people (Microsoft PowerPoint).
-* **Chaplaincy Promo Video** <span style="color:red">what does this contain?</span>
-* **Fee Chart** for offering prospective client companies four Chaplain Assistance Program options based on number of employee visits, type of clients, mode of service, relationship ranking, and fee range (Microsoft Word).
+*   **Life is Hard postcard** for mailing to or sharing with prospective client companies (Microsoft Publisher).
+*   **Corporate Chaplaincy Overview** for briefly presenting the value of workplace chaplaincy to prospective client companies (Microsoft PowerPoint).
+*   **Corporate Chaplaincy Brochure** for reinforcing awareness of your corporate chaplaincy business offline (format?).
+*   **Corporate Chaplaincy: Giving the Gift of Hope** for presenting a deeper look at the value of chaplains attending to employees’ minds, bodies, and spirits (Microsoft PowerPoint).
+*   **Corporate Chaplaincy: The Missing Link in Business** for presenting the impact that chaplains can have on a prospective client company’s bottom line (available as an article and as a Microsoft PowerPoint).
+*   **The Case for Corporate Chaplaincy** for presenting prospective client companies with key questions about caring for their employees, facts about marketplace trends that affect all organizations, major news coverage of corporate chaplaincy, and how your Chaplain Assistance Program is the best investment they can make in their people (Microsoft PowerPoint).
+*   **Chaplaincy Promo Video** <span style="color:red">what does this contain?</span>
+*   **Fee Chart** for offering prospective client companies four Chaplain Assistance Program options based on number of employee visits, type of clients, mode of service, relationship ranking, and fee range (Microsoft Word).
 
 ### A rewarding business opportunity awaits you!
 Start helping organizations in your area experience the gifts that corporate chaplains bring to individual employees and to businesses as a whole. Just click on the “Buy Now” button below to access the tools and strategies you need for success in this industry!
