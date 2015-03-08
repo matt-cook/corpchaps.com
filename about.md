@@ -1,6 +1,6 @@
 ---
-title: About
-permalink: about/
+title: Our Vision
+permalink: about/our-vision/
 menu: about
 ---
 Welcome to the Corporate Chaplaincy Consulting website, where **our mission is to mentor and equip emerging workplace chaplains.**
