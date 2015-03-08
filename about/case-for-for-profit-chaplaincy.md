@@ -1,13 +1,11 @@
 ---
-title: A Business Model Made in Heaven
-permalink: about/a-business-model-made-in-heaven/
+title: The Case for For-Profit Chaplaincy
+permalink: about/case-for-for-profit-chaplaincy/
 quote: |
-  Ministry is one thing. Starting a business is another. When starting a business,  
-  there are many questions to consider. When starting a chaplaincy business, there
-  is one more" Would a for-profit or not-for-profit business model be best?
+  Ministry is one thing. Starting a business is another. When starting a business, there are many questions to consider. When starting a chaplaincy business, there is one more" Would a for-profit or not-for-profit business model be best?
 menu: about
 ---
-## The Case for For-Profit Corporate Chaplaincy
+## The Case for For-Profit Chaplaincy
 
 Ministry is one thing. Starting a business is another. When starting a business, there are many questions to consider. When starting a chaplaincy business, there is one more: Would a for-profit or not-for-profit business model be best?
 
@@ -49,7 +47,3 @@ Other key benefits include:
 Leading, teaching, guiding, communicating, and helping others make up the foundation of a great chaplaincy business.
 
 As when starting any new business, your chaplaincy organization may take awhile to develop into a self-sustaining entity. Consequently, it is important to have an alternate source of income during the first few years as you get your business off the ground. Meeting potential client companies, building trust, and earning their business takes time. When starting a for-profit chaplaincy organization, you can focus entirely on acquiring and serving clients without the distraction of diverting attention to the purpose of seeking and serving donors.
-
-**Corporate Chaplaincy Consulting**
-
-_Mentoring and Equipping Emerging Workplace Chaplains_
