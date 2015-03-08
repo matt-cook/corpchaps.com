@@ -1,6 +1,6 @@
 ---
-title: Corporate Chaplaincy?
-permalink: about/what-is-cc-why-should-i-care/
+title: The Need for Corporate Chaplaincy
+permalink: about/need-for-corporate-chaplaincy/
 quote: Chaplains reach out and bring care where it is needed most, and where it can make a meaningful difference.
 menu: about
 ---
