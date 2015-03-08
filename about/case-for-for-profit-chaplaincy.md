@@ -5,8 +5,6 @@ quote: |
   Ministry is one thing. Starting a business is another. When starting a business, there are many questions to consider. When starting a chaplaincy business, there is one more" Would a for-profit or not-for-profit business model be best?
 menu: about
 ---
-## The Case for For-Profit Chaplaincy
-
 Ministry is one thing. Starting a business is another. When starting a business, there are many questions to consider. When starting a chaplaincy business, there is one more: Would a for-profit or not-for-profit business model be best?
 
 If you are coming from a non-profit background, it may seem easier to get people to support your cause if it is presented as a not-for-profit social venture. This, coupled with tax breaks that non-profits can offer to donors, can make finding investors seem less daunting, but it is important to think long term.
