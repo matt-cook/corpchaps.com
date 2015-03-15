@@ -26,8 +26,8 @@ A corporate chaplain’s job description is more about their character—who the
 ## A Day in the Life of a Corporate Chaplain
 While a given workday of one corporate chaplain may share similarities with another chaplain, it is difficult to label any day as “typical.” Get a taste of what a corporate chaplain does to prepare and serve on a daily basis.
 
-## 5 Personal Journeys to Corporate Chaplaincy
-Corporate chaplains come from a variety of backgrounds. Some integrate chaplaincy into their existing careers while others transition into full-time corporate chaplaincy. Read the stories of five people who felt called to workplace chaplaincy: a church pastor, a social worker, a retired Employee Assistance Program provider, a military chaplain, and a hospice chaplain.
+## 3 Personal Journeys to Corporate Chaplaincy
+Corporate chaplains come from a variety of backgrounds. Some integrate chaplaincy into their existing careers while others transition into full-time corporate chaplaincy. Read the stories of five people who felt called to workplace chaplaincy: a church pastor, a social worker, and a retired Employee Assistance Program provider.
 
 ### PLUS, you’ll also receive the Chaplain Services Info Sheet for FREE!
 Included at no additional cost, this Microsoft Word document is a modifiable template that outlines the services offered by a traditional Chaplain Assistance Program. You can adapt this document to meet your needs and use it when explaining your chaplaincy services to potential client companies.
