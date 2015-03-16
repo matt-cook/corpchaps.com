@@ -11,7 +11,7 @@ Take the first step toward a rewarding career as a corporate chaplain and purcha
 
 The <span style="color:red">number-goes-here</span>-page Become a Corporate Chaplain ebook will help you discern whether corporate chaplaincy is right for you, show you what to expect in your new profession, and help you get your own Chaplain Assistance Program off and running.
 
-### Here’s what included in your Become a Corporate Chaplain ebook:
+### For just $45.00, here’s what is included in your Become a Corporate Chaplain ebook:
 
 ## 17 FAQ about Corporate Chaplaincy
 Find answers to the top questions about corporate chaplaincy and how it works in the workplace. Questions include:
@@ -33,7 +33,7 @@ Corporate chaplains come from a variety of backgrounds. Some integrate chaplainc
 Included at no additional cost, this Microsoft Word document is a modifiable template that outlines the services offered by a traditional Chaplain Assistance Program. You can adapt this document to meet your needs and use it when explaining your chaplaincy services to potential client companies.
 
 ### Take the first step now!
-A rewarding new career is within reach. Just click on the “Buy Now” button below and get started!
+A rewarding new career is within reach for only $45.00. Just click on the “Buy Now” button below and get started!
 
 *Please note that this ebook is available only as a PDF download. It is not available in Kindle, ePub, or hard-copy format.*
 

@@ -11,9 +11,9 @@ The Start Your Chaplaincy Business Kit is designed to help you make the shift fr
 
 The combination of resources in the Start Your Chaplaincy Business Kit—spanning a personal consultation, a <span style="color:red">number-goes-here</span>-page ebook, sample legal and business documents, and multimedia marketing materials—will give you the expert guidance you need to establish a sustainable chaplaincy business.
 
-### Here’s what’s included in the Start Your Chaplaincy Business Kit:
+### Here’s what is included in the Start Your Chaplaincy Business Kit:
 
-## 60-Minute Phone Consultation
+## 60-Minute Phone Consultation <span style="color:red">($)</span>
 The hour is yours to spend asking Steve Cook, owner of Corporate Chaplaincy Consulting, any questions you feel will help you get your chaplaincy business up and running.
 
 As a pioneer in corporate chaplaincy, Steve’s <span style="color:red">number-goes-here</span>+ years’ experience—in which he took his own Capital Chaplains, LLC, from part-time endeavor to full-time, income-generating business—are at your disposal.
@@ -24,7 +24,7 @@ We highly recommend scheduling your phone consultation after you have had the op
 
 ***Want more personal attention than an hour can provide? You can [Bring Steve to You](www.corpchaps.com/get-started/bring-steve-to-you/)!***
 
-## Start Your Chaplaincy Business ebook
+## Start Your Chaplaincy Business ebook <span style="color:red">($90)</span>
 Why reinvent the wheel? In this ebook, you receive seven chapters of practical insight into what it takes to build a unique, sustainable chaplaincy business. You’ll learn time-tested best practices that will equip you to grow your chaplaincy organization and serve the needs of your community.
 
 Here’s a peek inside each chapter:
@@ -49,6 +49,9 @@ Get inside the mind and heart of a corporate chaplain who followed his calling t
 ### A Week in the Life of a Corporate Chaplaincy Business Owner
 Get a detailed look at what a corporate chaplaincy business owner does to prepare and serve on a weekly basis. You’ll get a picture of how to start your own organization on a part-time basis, as well as how to manage your schedule once you’re operating full time.
 
+### Faith at Work
+Learn how to navigate religious expression in the workplace in this summary of key points from the Equal Employment Opportunity Commission, the American Center for Law and Justice, and other key constituents.
+
 ### Closing the Deal
 Understanding how to serve as a chaplain and understanding how to best promote and thrive as a business owner are two very different sides of what it takes to own and manage a corporate chaplaincy organization. Consider this chapter “Business 101” designed specifically for owners of corporate chaplaincy organizations.
 
@@ -61,10 +64,11 @@ We’ve prepared five documents to get your business up and running, so there’
 *   **Client Company Letter of Agreement** for outlining services to be contracted between your chaplaincy organization and a client company.
 *   **Client Company Contract** for contracting services between a client company and chaplaincy provider.
 *   **Client Company Reporting Spreadsheet** for confidentially documenting what you do and where you serve on a daily and monthly basis.
+*   **Chaplain Qualifications** to present to prospective Associate Chaplains and Senior/Team Leader Chaplains who wish to work with your chaplaincy organization.
 *   **Independent Contractor Application** for prospective chaplains who wish to work with your chaplaincy organization.
 *   **Independent Contractor Contract** for contracting with chaplains who will serve through your organization as independent contractors.
 
-## Multimedia Marketing Tools
+## Multimedia Marketing Tools <span style="color:red">($350)</span>
 These marketing materials are your shortcut to promoting your new business and signing client companies. You can put our ideas to work and make them your own by simply editing these templates.
 
 *   **Life is Hard postcard** for mailing to or sharing with prospective client companies (Microsoft Publisher).
@@ -74,9 +78,14 @@ These marketing materials are your shortcut to promoting your new business and s
 *   **Corporate Chaplaincy: The Missing Link in Business** for presenting the impact that chaplains can have on a prospective client company’s bottom line (available as an article and as a Microsoft PowerPoint).
 *   **The Case for Corporate Chaplaincy** for presenting prospective client companies with key questions about caring for their employees, facts about marketplace trends that affect all organizations, major news coverage of corporate chaplaincy, and how your Chaplain Assistance Program is the best investment they can make in their people (Microsoft PowerPoint).
 *   **Chaplaincy Promo Video** <span style="color:red">what does this contain?</span>
+*   **Employee FAQ Handout** for each of your client companies to share with their employees about the nature of the Chaplain Assistance Program in place at their company (Microsoft Word).
 *   **Fee Chart** for offering prospective client companies four Chaplain Assistance Program options based on number of employee visits, type of clients, mode of service, relationship ranking, and fee range (Microsoft Word).
 
 ### A rewarding business opportunity awaits you!
-Start helping organizations in your area experience the gifts that corporate chaplains bring to individual employees and to businesses as a whole. Just click on the “Buy Now” button below to access the tools and strategies you need for success in this industry!
+When you add all these resources together, the total value is <span style="color:red">$800.</span>
+
+Start helping organizations in your area experience the gifts that corporate chaplains bring to individual employees and to businesses as a whole.
+
+Just click on the “Buy Now” button below to access the tools and strategies you need for success in this industry!
 
 <span style="color:red">BUY NOW</span>
