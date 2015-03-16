@@ -62,7 +62,8 @@ Learn how the roles of independent contractors differ from those of employees as
 We’ve prepared five documents to get your business up and running, so there’s no need to start from scratch. You’re encouraged to adapt each document to meet your needs when contracting with client companies, drafting reports, and hiring chaplains. While these documents are not substitute for legal counsel, they will give you a foundation.
 
 *   **Client Company Letter of Agreement** for outlining services to be contracted between your chaplaincy organization and a client company.
-*   **Client Company Contract** for contracting services between a client company and chaplaincy provider.
+*   **Client Company Proposal** for proposing services between a client company and chaplaincy provider.
+*   **Client Company Contract** for a more detailed contract of services between a client company and chaplaincy provider.
 *   **Client Company Reporting Spreadsheet** for confidentially documenting what you do and where you serve on a daily and monthly basis.
 *   **Chaplain Qualifications** to present to prospective Associate Chaplains and Senior/Team Leader Chaplains who wish to work with your chaplaincy organization.
 *   **Independent Contractor Application** for prospective chaplains who wish to work with your chaplaincy organization.
