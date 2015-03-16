@@ -13,7 +13,7 @@ The combination of resources in the Start Your Chaplaincy Business Kit—spannin
 
 ### Here’s what is included in the Start Your Chaplaincy Business Kit:
 
-## 60-Minute Phone Consultation <span style="color:red">($)</span>
+## 60-Minute Phone Consultation <span style="color:red">($XX)</span>
 The hour is yours to spend asking Steve Cook, owner of Corporate Chaplaincy Consulting, any questions you feel will help you get your chaplaincy business up and running.
 
 As a pioneer in corporate chaplaincy, Steve’s <span style="color:red">number-goes-here</span>+ years’ experience—in which he took his own Capital Chaplains, LLC, from part-time endeavor to full-time, income-generating business—are at your disposal.
@@ -58,7 +58,7 @@ Understanding how to serve as a chaplain and understanding how to best promote a
 ### Independent Contractors vs. Employees
 Learn how the roles of independent contractors differ from those of employees as it pertains to hiring additional chaplains for your organization.
 
-## Legal & Business Sample Documents
+## Legal & Business Sample Documents <span style="color:red">($XXX)</span>
 We’ve prepared five documents to get your business up and running, so there’s no need to start from scratch. You’re encouraged to adapt each document to meet your needs when contracting with client companies, drafting reports, and hiring chaplains. While these documents are not substitute for legal counsel, they will give you a foundation.
 
 *   **Client Company Letter of Agreement** for outlining services to be contracted between your chaplaincy organization and a client company.
