@@ -78,7 +78,6 @@ These marketing materials are your shortcut to promoting your new business and s
 *   **Corporate Chaplaincy: Giving the Gift of Hope** for presenting a deeper look at the value of chaplains attending to employees’ minds, bodies, and spirits (Microsoft PowerPoint).
 *   **Corporate Chaplaincy: The Missing Link in Business** for presenting the impact that chaplains can have on a prospective client company’s bottom line (available as an article and as a Microsoft PowerPoint).
 *   **The Case for Corporate Chaplaincy** for presenting prospective client companies with key questions about caring for their employees, facts about marketplace trends that affect all organizations, major news coverage of corporate chaplaincy, and how your Chaplain Assistance Program is the best investment they can make in their people (Microsoft PowerPoint).
-*   **Chaplaincy Promo Video** <span style="color:red">what does this contain?</span>
 *   **Employee FAQ Handout** for each of your client companies to share with their employees about the nature of the Chaplain Assistance Program in place at their company (Microsoft Word).
 *   **Fee Chart** for offering prospective client companies four Chaplain Assistance Program options based on number of employee visits, type of clients, mode of service, relationship ranking, and fee range (Microsoft Word).
 
