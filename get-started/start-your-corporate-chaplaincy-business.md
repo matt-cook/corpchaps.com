@@ -29,7 +29,7 @@ Why reinvent the wheel? In this ebook, you receive seven chapters of practical i
 
 Here’s a peek inside each chapter:
 
-### 15 FAQ about Running a Chaplaincy Business
+**15 FAQ about Running a Chaplaincy Business**
 Find answers to the primary questions about starting, owning, and managing an organization that offers corporate chaplaincy services. Questions include:
 
 *   How do you approach potential client organizations?
@@ -37,25 +37,25 @@ Find answers to the primary questions about starting, owning, and managing an or
 *   What are the benefits of a for-profit versus a non-profit business model for chaplaincy?
 *   How does ministry happen within the context of a for-profit business model?
 
-### 50 Lessons Learned In 5 Years
+**50 Lessons Learned In 5 Years**
 Glean from five years’ worth of lessons learned through research and trial and error. Each lesson is accompanied by a Bible verse and an explanation to help you learn from the experiences and mistakes of those who’ve walked the for-profit chaplaincy road before you.
 
-### The Rise of Capital Chaplains LLC
+**The Rise of Capital Chaplains LLC**
 Follow the growth of Capital Chaplains from a mere idea in 2004 to a part-time operation to a sustainable full-time venture in 2009.
 
-### Personal Journey to Chaplaincy Organization Owner
+**Personal Journey to Chaplaincy Organization Owner**
 Get inside the mind and heart of a corporate chaplain who followed his calling to own and manage his own corporate chaplaincy organization.
 
-### A Week in the Life of a Corporate Chaplaincy Business Owner
+**A Week in the Life of a Corporate Chaplaincy Business Owner**
 Get a detailed look at what a corporate chaplaincy business owner does to prepare and serve on a weekly basis. You’ll get a picture of how to start your own organization on a part-time basis, as well as how to manage your schedule once you’re operating full time.
 
-### Faith at Work
+**Faith at Work**
 Learn how to navigate religious expression in the workplace in this summary of key points from the Equal Employment Opportunity Commission, the American Center for Law and Justice, and other key constituents.
 
-### Closing the Deal
+**Closing the Deal**
 Understanding how to serve as a chaplain and understanding how to best promote and thrive as a business owner are two very different sides of what it takes to own and manage a corporate chaplaincy organization. Consider this chapter “Business 101” designed specifically for owners of corporate chaplaincy organizations.
 
-### Independent Contractors vs. Employees
+**Independent Contractors vs. Employees**
 Learn how the roles of independent contractors differ from those of employees as it pertains to hiring additional chaplains for your organization.
 
 ## Legal & Business Sample Documents <span style="color:red">($XXX)</span>
