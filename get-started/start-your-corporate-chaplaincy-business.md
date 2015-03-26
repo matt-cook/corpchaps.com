@@ -52,7 +52,7 @@ Get a detailed look at what a corporate chaplaincy business owner does to prepar
 **Faith at Work**
 Learn how to navigate religious expression in the workplace in this summary of key points from the Equal Employment Opportunity Commission, the American Center for Law and Justice, and other key constituents.
 
-**Closing the Deal**
+**Closing the Deal: How to Build Your Client Base**
 Understanding how to serve as a chaplain and understanding how to best promote and thrive as a business owner are two very different sides of what it takes to own and manage a corporate chaplaincy organization. Consider this chapter “Business 101” designed specifically for owners of corporate chaplaincy organizations.
 
 **Independent Contractors vs. Employees**
