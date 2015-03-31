@@ -7,24 +7,13 @@ Would you like to make an even bigger difference in the lives of individuals and
 
 So many businesses need the help that chaplains like you offer ‒ and you can help by starting a for-profit corporate chaplaincy in your area. And with minimal competition in this emerging industry, chaplaincy as a for-profit business has tremendous growth potential in the marketplace. Now is a great time to start!
 
-The Start Your Chaplaincy Business Kit is designed to help you make the shift from serving as an individual chaplain to owning a chaplaincy organization, whether you've been a chaplain for years or have only recently been inspired by our [Become a Corporate Chaplain ebook](www.corpchaps.com/get-started/become-a-corporate-chaplain/).
+The Start Your Chaplaincy Business Kit is designed to help you make the shift from serving as an individual chaplain to owning a chaplaincy organization, whether you've been a chaplain for years or have only recently been inspired by our [Consider Corporate Chaplaincy ebook](www.corpchaps.com/get-started/consider-corporate-chaplaincy/).
 
-The combination of resources in the Start Your Chaplaincy Business Kit—spanning a personal consultation, a <span style="color:red">number-goes-here</span>-page ebook, sample legal and business documents, and multimedia marketing materials—will give you the expert guidance you need to establish a sustainable chaplaincy business.
+The combination of resources in the Start Your Chaplaincy Business Kit—spanning a <span style="color:red">74</span>-page ebook, sample legal and business documents, multimedia marketing materials, and a personal consultation—will give you the expert guidance you need to establish a sustainable chaplaincy business.
 
 ### Here’s what is included in the Start Your Chaplaincy Business Kit:
 
-## 60-Minute Phone Consultation <span style="color:red">($XX)</span>
-The hour is yours to spend asking Steve Cook, owner of Corporate Chaplaincy Consulting, any questions you feel will help you get your chaplaincy business up and running.
-
-As a pioneer in corporate chaplaincy, Steve’s <span style="color:red">number-goes-here</span>+ years’ experience—in which he took his own Capital Chaplains, LLC, from part-time endeavor to full-time, income-generating business—are at your disposal.
-
-We highly recommend scheduling your phone consultation after you have had the opportunity to look over the documents included in the Start a Chaplaincy Business Kit (see document descriptions below). And, we recommend compiling a list of discussion topics and questions to insure your call addresses as many of your needs as possible in the allotted time.
-
-<span style="color:red">What does the follow up look like for how they schedule this call???</span>
-
-***Want more personal attention than an hour can provide? You can [Bring Steve to You](www.corpchaps.com/get-started/bring-steve-to-you/)!***
-
-## Start Your Chaplaincy Business ebook <span style="color:red">($90)</span>
+## Start Your Chaplaincy Business ebook
 Why reinvent the wheel? In this ebook, you receive seven chapters of practical insight into what it takes to build a unique, sustainable chaplaincy business. You’ll learn time-tested best practices that will equip you to grow your chaplaincy organization and serve the needs of your community.
 
 Here’s a peek inside each chapter:
@@ -58,7 +47,9 @@ Understanding how to serve as a chaplain and understanding how to best promote a
 **Independent Contractors vs. Employees**
 Learn how the roles of independent contractors differ from those of employees as it pertains to hiring additional chaplains for your organization.
 
-## Legal & Business Sample Documents <span style="color:red">($XXX)</span>
+*Please note that this ebook is available only as a PDF download. It is not available in Kindle, ePub, or hard-copy format.*
+
+## Legal & Business Sample Documents
 We’ve prepared five documents to get your business up and running, so there’s no need to start from scratch. You’re encouraged to adapt each document to meet your needs when contracting with client companies, drafting reports, and hiring chaplains. While these documents are not substitute for legal counsel, they will give you a foundation.
 
 *   **Client Company Letter of Agreement** for outlining services to be contracted between your chaplaincy organization and a client company.
@@ -69,7 +60,7 @@ We’ve prepared five documents to get your business up and running, so there’
 *   **Independent Contractor Application** for prospective chaplains who wish to work with your chaplaincy organization.
 *   **Independent Contractor Contract** for contracting with chaplains who will serve through your organization as independent contractors.
 
-## Multimedia Marketing Tools <span style="color:red">($350)</span>
+## Multimedia Marketing Tools
 These marketing materials are your shortcut to promoting your new business and signing client companies. You can put our ideas to work and make them your own by simply editing these templates.
 
 *   **Life is Hard postcard** for mailing to or sharing with prospective client companies (Microsoft Publisher).
@@ -81,8 +72,19 @@ These marketing materials are your shortcut to promoting your new business and s
 *   **Employee FAQ Handout** for each of your client companies to share with their employees about the nature of the Chaplain Assistance Program in place at their company (Microsoft Word).
 *   **Fee Chart** for offering prospective client companies four Chaplain Assistance Program options based on number of employee visits, type of clients, mode of service, relationship ranking, and fee range (Microsoft Word).
 
+## 60-Minute Phone Consultation
+The hour is yours to spend asking Steve Cook, owner of Corporate Chaplaincy Consulting, any questions you feel will help you get your chaplaincy business up and running.
+
+As a pioneer in corporate chaplaincy, Steve’s <span style="color:red">number-goes-here</span>+ years’ experience—in which he took his own Capital Chaplains, LLC, from part-time endeavor to full-time, income-generating business—are at your disposal.
+
+We highly recommend scheduling your phone consultation after you have had the opportunity to look over the documents included in the Start a Chaplaincy Business Kit (see document descriptions above). And, we recommend compiling a list of discussion topics and questions to insure your call addresses as many of your needs as possible in the allotted time.
+
+We will be in touch via email within 1-2 business days after your purchase to arrange your 60-minute phone consultation.
+
+***Want more personal attention than an hour can provide? You can [Bring Steve to You](www.corpchaps.com/get-started/bring-steve-to-you/)!***
+
 ### A rewarding business opportunity awaits you!
-When you add all these resources together, the total value is <span style="color:red">$800.</span>
+<span style="color:red">$950.00 PRICE TAG ICON</span>
 
 Start helping organizations in your area experience the gifts that corporate chaplains bring to individual employees and to businesses as a whole.
 
