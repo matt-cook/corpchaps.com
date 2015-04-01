@@ -2,11 +2,17 @@
 title: Text Formatting Example
 permalink: template/
 ---
+
 #H1 Title Size
+
 ##H2 Title Size
+
 ###H3 Title Size
+
 ####H4 Title Size
+
 #####H5 Title Size
+
 ######H6 Title Size
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ornare volutpat nisl in viverra. Nunc sit amet enim ligula. Sed mattis augue vitae diam lacinia congue. ~~Strike-through text~~ Phasellus pulvinar lacinia feugiat. [Link to homepage](/) In vestibulum metus sed elit tristique accumsan. *Italic text should go inside asterisks. Suspendisse congue interdum mi,* vitae vestibulum nisi ullamcorper ac. 
@@ -33,7 +39,11 @@ Sed laoreet lacus suscipit porttitor vulputate. In at nisi tincidunt, pellentesq
 
 > I'm a block quote. Curabitur elit neque, venenatis eu turpis suscipit, rutrum tempor est. In varius lacinia dui non blandit. [Link to Google](http//www.google.com) Mauris aliquam congue vestibulum. Mauris ipsum dolor, volutpat et tellus id, congue ultrices quam. Nunc auctor suscipit ex, in porttitor urna ultricies sit amet.
 
-Nulla volutpat porttitor ex ut dignissim. Etiam id vestibulum mauris, eget posuere nunc. Integer dictum mi vitae neque pharetra euismod. Integer id ligula eu elit volutpat ullamcorper.
+Nulla volutpat porttitor ex ut dignissim. Etiam id vestibulum mauris, eget posuere nunc. 
+
+***
+
+Integer dictum mi vitae neque pharetra euismod. Integer id ligula eu elit volutpat ullamcorper.
 
 ***
 
