@@ -20,7 +20,9 @@ a{
 a:hover{
 	text-decoration:underline;
 }
-
+textarea {
+    resize: none;
+}
 #topbar{
 	font-family:verdana,sans-serif;
 	background:#3899bc;
