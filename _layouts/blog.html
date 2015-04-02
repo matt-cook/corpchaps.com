@@ -3,9 +3,9 @@ layout: default
 menu: blog
 ---
 {% if page.category %}
-    {% assign posts = site.categories.[page.category] %}
+    {% assign posts = site.categories.["business-skills"] %}
 {% else %}
-    {% assign posts = site.posts %}
+    {% assign posts = site.categories.["business-skills"] %}
 {% endif %}
 
 <h1>{{ page.title }}</h1>
