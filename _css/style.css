@@ -140,7 +140,9 @@ hr{
 	border-bottom:1px dashed #31829F;
 }
 #content h2{
-	color:#31829F;
+	color:#d6412d;
+	font: 34px 'ChunkFiveRegular', Arial, sans-serif;
+	font-size:1.75em;
 }
 #content h3{
 	color:#2F2F2F;
