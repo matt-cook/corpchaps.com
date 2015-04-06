@@ -9,7 +9,7 @@ If you are using a  PC, you can unzip a file by right-clicking on the file and t
 
 <div class="row" id="products">
 {% for post in site.categories.store %}
-  <div class="product col-md-4">
+  <div class="product col-md-6">
     <h3>{{ post.title }}</h3>
 
     <!-- <a href="{{ site.baseurl }}{{ post.url }}">
