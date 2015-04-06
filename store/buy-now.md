@@ -18,8 +18,8 @@ If you are using a  PC, you can unzip a file by right-clicking on the file and t
     <p class="description">{{ post.description }}</p>
     <a class="arrow learn" href="{{ site.baseurl }}{{ post.url }}">Learn More</a>
     {% if post.gumroad %}
-    <a class="arrow" href="https://gumroad.com/l/{{ post.gumroad }}?wanted=true">
-      Buy now
+    <a class="arrow" href="https://gumroad.com/l/{{ post.gumroad }}">
+      Buy now (${{ post.price }}0)
     </a>
   </div>
   {% endif %}
