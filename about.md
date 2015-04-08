@@ -1,8 +1,11 @@
 ---
 title: Our Vision
 permalink: about/our-vision/
+
 menu: about
 ---
+![Steve Cook](111117 Steve Cook CapChaps Pic.jpg)
+
 Welcome to the Corporate Chaplaincy Consulting website, where **our mission is to mentor and equip emerging workplace chaplains.**
 
 In the midst of our fractured, high-stress world, people need a safe place to talk through problems. Even more, they need someone to walk with them in the midst of difficult circumstances.
