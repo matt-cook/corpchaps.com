@@ -4,7 +4,7 @@ permalink: about/our-vision/
 
 menu: about
 ---
-![Steve Cook](111117 Steve Cook CapChaps Pic.jpg)
+<img src="111117 Steve Cook CapChaps Pic.jpg" alt="Steve Cook" style="width:200px;height:300px">
 
 Welcome to the Corporate Chaplaincy Consulting website, where **our mission is to mentor and equip emerging workplace chaplains.**
 
