@@ -5,7 +5,7 @@ permalink: about/our-vision/
 menu: about
 ---
 
-<img src="111117 Steve Cook CapChaps Pic.jpg" alt="Steve Cook" style="width:200px;height:300px"> Welcome to the Corporate Chaplaincy Consulting website, where **our mission is to mentor and equip emerging workplace chaplains.**
+Welcome to the Corporate Chaplaincy Consulting website, where **our mission is to mentor and equip emerging workplace chaplains.**
 
 In the midst of our fractured, high-stress world, people need a safe place to talk through problems. Even more, they need someone to walk with them in the midst of difficult circumstances.
 
@@ -21,7 +21,7 @@ So many organizations need the help that chaplains can offer. **Perhaps God is c
 
 
 
-_Steve_
+![Steve Cook](SteveCookCapChapsPic.jpg) _Steve_
 
 Capital Chaplains LLC, Owner &amp; Founding Chaplain
 
