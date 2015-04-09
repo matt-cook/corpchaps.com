@@ -1,7 +1,8 @@
 ---
-title: Who Needs a Chaplain?
+permalink: /blog/who-needs-a-chaplain title: Who Needs a Chaplain? 
 author: Steve Cook
 tags: chaplain, corporate, corporate chaplaincy
+image: Who needs a chaplain.jpg 
 ---
 Terry Erickson serves as a chaplain at Coyle Carpet&#8211;a role he&#8217;s in because of his own calling and gifts as well as the great need for chaplains in the workplace.
 
