@@ -8,6 +8,7 @@ body,html{
 	padding:0;
 	font-family: "times new roman",times,serif;
 	background:#fafaf3;
+	font-size:17.5px;
 }
 a img{border:none}
 a{
@@ -20,7 +21,9 @@ a{
 a:hover{
 	text-decoration:underline;
 }
-
+textarea {
+    resize: none;
+}
 #topbar{
 	font-family:verdana,sans-serif;
 	background:#3899bc;
@@ -128,12 +131,18 @@ a.box{
 	letter-spacing: 0;
 	line-height:32px;
 	margin:0.5em 0;
-	padding:0;
+	padding:0 0 0.25em 0;
 	border-bottom:1px dashed #31829F;
 	color:#2F2F2F;
 }
+hr{
+	border:none;
+	border-bottom:1px dashed #31829F;
+}
 #content h2{
-	color:#31829F;
+	color:#d6412d;
+	font: 34px 'ChunkFiveRegular', Arial, sans-serif;
+	font-size:1.75em;
 }
 #content h3{
 	color:#2F2F2F;
@@ -520,4 +529,57 @@ a.box.dark{
 }
 #sub-pages li a{
 	color:#000;
+}
+h1 > a:hover, h2 > a:hover{
+	text-decoration:none;
+}
+#posts img.thumbnail{
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+	height:170px;
+	width:300px;
+	float:left;
+	margin:0 1em 0 0;
+}
+#posts h2{
+	margin:0.1em 0 0.15em 0;
+}
+#posts .date, #posts .author, .post-meta{
+	margin:0;
+	font-weight:bold;
+	font-size:0.75em;
+}
+.post-meta{
+	margin-bottom:0.75em;
+}
+.post-content{
+	margin-bottom:2em;
+}
+#posts .author{
+	margin-bottom:0.33em;
+}
+#posts .more{
+	font-weight:bold;
+	text-transform:uppercase;
+	font-size:0.8em;
+}
+#content #products a.arrow{
+	color:#fff;
+	text-align:center;
+	padding: 10px;
+	border-radius: 6px;
+}
+#content #products a.arrow.learn{
+	background-color:#27809F;
+}
+#products .description{
+	font-size:0.8em;
+}
+#products img{
+	height:120px;
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
 }

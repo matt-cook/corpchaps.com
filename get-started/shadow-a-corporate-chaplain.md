@@ -1,5 +1,5 @@
 ---
-title: Shadow a Chaplain
+title: Shadow a Corporate Chaplain
 permalink: get-started/shadow-a-corporate-chaplain/
 menu: get-started
 ---

@@ -1,7 +1,34 @@
 ---
 layout: default
 menu: blog
+links:
+  -
+    title: Business Skills
+    url: /blog/category/business-skills
+  -
+    title: Chaplain Profiles
+    url: /blog/category/chaplain-profiles
+  -
+    title: In the News
+    url: /blog/category/in-the-news
+  -
+    title: Leadership Development
+    url: /blog/category/leadership-development
+  -
+    title: Professional Development
+    url: /blog/category/professional-development
+  -
+    title: Research
+    url: /blog/category/research
+  -
+    title: Self-care
+    url: /blog/category/self-care
 ---
+
+
+
+
+
 {% if page.category %}
     {% assign posts = site.categories.[page.category] %}
 {% else %}
@@ -13,23 +40,26 @@ menu: blog
 <div id="posts">
   {% for post in posts %}
     <div class="post">
+      <p class="date">{{ post.date | date: "%-d %B %Y" }}</p>
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      {% if post.thumbnail %}
-        <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="thumbnail">
+      {% if post.author %}
+        <p class="author">by {{ post.author }}</p>
+      {% endif %}
+      {% if post.image %}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <img src="{{ site.baseurl }}/_img/interface/transparent.png" alt="{{ post.title }}" style="background-image:url({{ post.image }})" class="thumbnail">
+      </a>
       {% endif %}
       {{ post.excerpt }}
       <p class="more"><a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
-      {% if post.author %}
-        <p class="author">{{ post.author }}</p>
-      {% endif %}
-      <p class="date">{{ post.date | date: "%-d %B %Y" }}</p>
-      {% if post.tags.size > 0 %}
+      <!-- {% if post.tags.size > 0 %}
         <ul class="tags">
         {% for tag in post.tags %}
           <li>{{ post.tag }}</li>
         {% endfor %}
         </ul>
-      {% endif %}
+      {% endif %} -->
     </div>
+    <hr>
   {% endfor %}
 </div>

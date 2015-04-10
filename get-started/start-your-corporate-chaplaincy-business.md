@@ -1,15 +1,15 @@
 ---
 title: Start Your Chaplaincy Business
-permalink: get-started/start-your-corporate-chaplaincy-business/
+permalink: get-started/start-your-chaplaincy-business/
 menu: get-started
 ---
 Would you like to make an even bigger difference in the lives of individuals and organizations?
 
 So many businesses need the help that chaplains like you offer ‒ and you can help by starting a for-profit corporate chaplaincy in your area. And with minimal competition in this emerging industry, chaplaincy as a for-profit business has tremendous growth potential in the marketplace. Now is a great time to start!
 
-The Start Your Chaplaincy Business Kit is designed to help you make the shift from serving as an individual chaplain to owning a chaplaincy organization, whether you've been a chaplain for years or have only recently been inspired by our [Consider Corporate Chaplaincy ebook](www.corpchaps.com/get-started/consider-corporate-chaplaincy/).
+The Start Your Chaplaincy Business Kit is designed to help you make the shift from serving as an individual chaplain to owning a chaplaincy organization, whether you've been a chaplain for years or have only recently been inspired by our [Consider Corporate Chaplaincy ebook](/get-started/consider-corporate-chaplaincy/).
 
-The combination of resources in the Start Your Chaplaincy Business Kit—spanning a <span style="color:red">74</span>-page ebook, sample legal and business documents, multimedia marketing materials, and a personal consultation—will give you the expert guidance you need to establish a sustainable chaplaincy business.
+The combination of resources in the Start Your Chaplaincy Business Kit—spanning a <span style="color:red">75</span>-page ebook, sample legal and business documents, multimedia marketing materials, and a personal consultation—will give you the expert guidance you need to establish a sustainable chaplaincy business.
 
 ### Here’s what is included in the Start Your Chaplaincy Business Kit:
 
@@ -49,7 +49,7 @@ Learn how the roles of independent contractors differ from those of employees as
 
 *Please note that this ebook is available only as a PDF download. It is not available in Kindle, ePub, or hard-copy format.*
 
-## Legal & Business Sample Documents
+## Legal and Business Sample Documents
 We’ve prepared five documents to get your business up and running, so there’s no need to start from scratch. You’re encouraged to adapt each document to meet your needs when contracting with client companies, drafting reports, and hiring chaplains. While these documents are not substitute for legal counsel, they will give you a foundation.
 
 *   **Client Company Letter of Agreement** for outlining services to be contracted between your chaplaincy organization and a client company.
