@@ -2,6 +2,7 @@
 permalink: blog/what-role-can-you-play-in-corporate-chaplaincy
 title: What Role Can You Play in Corporate Chaplaincy?
 tags: workplace chaplaincy, job skills, gifts
+category: business-skills
 abstract: What are you good at? What comes so naturally to you that you know that you were just made to do it?
 title: What Role Can You Play in Corporate Chaplaincy?
 ---

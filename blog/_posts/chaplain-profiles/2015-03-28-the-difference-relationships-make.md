@@ -3,6 +3,7 @@ permalink: blog/the-difference-relationships-make
 title: The Difference Relationships Make
 author: Steve Cook
 tags: corporate chaplaincy, relationships, chaplaincy EAP
+category: chaplain-profiles
 abstract: Diane Hanson, former Development Director with [Capital Chaplains](http://www.capchaps.org) and [a business owner herself](http://www.thinkinginsync.com), loved her time as a corporate chaplain and the ways she was able to build real relationships with employees at the businesses she served.
 title: The Difference Relationships Make
 ---
