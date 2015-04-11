@@ -1,7 +1,13 @@
 ---
 title: Who Needs a Chaplain?
+<<<<<<< HEAD:blog/_posts/2011-10-19-workplace-chaplaincy-from-a-chaplain%E2%80%99s-perspective.md
 author: Sarah Schilling, Lisa Rieck
 tags: chaplain, corpate, corpate chaplaincy
+=======
+author: Steve Cook
+tags: chaplain, corporate, corporate chaplaincy
+image: Who needs a chaplain.jpg
+>>>>>>> origin/gh-pages:blog/_drafts/2011-10-19-workplace-chaplaincy-from-a-chaplain%E2%80%99s-perspective.md
 ---
 Terry Erickson serves as a chaplain at Coyle Carpet&#8211;a role he&#8217;s in because of his own calling and gifts as well as the great need for chaplains in the workplace.
 

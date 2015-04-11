@@ -11,17 +11,30 @@ If you are using a  PC, you can unzip a file by right-clicking on the file and t
 
 <div class="row" id="products">
 {% for post in site.categories.store %}
+<<<<<<< HEAD
   <div class="product col-md-4">
+=======
+  <div class="product col-md-6">
+>>>>>>> origin/gh-pages
     <h3>{{ post.title }}</h3>
 
     <!-- <a href="{{ site.baseurl }}{{ post.url }}">
       <img src="{{ site.baseurl }}/_img/interface/transparent.png" alt="{{ post.title }}" style="background-image:url({{ post.image }})" class="thumbnail">
     </a> -->
     <p class="description">{{ post.description }}</p>
+<<<<<<< HEAD
     <a class="arrow learn" href="{{ site.baseurl }}{{ post.url }}">Learn More</a>
     {% if post.gumroad %}
     <a class="arrow" href="https://gumroad.com/l/{{ post.gumroad }}?wanted=true">
       Buy now
+=======
+    {% if post["learn-more"] %}
+      <a class="arrow learn" href="{{ site.baseurl }}{{ post["learn-more"] }}">Learn More</a>
+    {% endif %}
+    {% if post.gumroad %}
+    <a class="arrow" href="https://gumroad.com/l/{{ post.gumroad }}">
+      Buy now (${{ post.price }}0)
+>>>>>>> origin/gh-pages
     </a>
   </div>
   {% endif %}

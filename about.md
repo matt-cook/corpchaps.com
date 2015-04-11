@@ -1,8 +1,10 @@
 ---
 title: Our Vision
 permalink: about/our-vision/
+
 menu: about
 ---
+
 Welcome to the Corporate Chaplaincy Consulting website, where **our mission is to mentor and equip emerging workplace chaplains.**
 
 In the midst of our fractured, high-stress world, people need a safe place to talk through problems. Even more, they need someone to walk with them in the midst of difficult circumstances.
@@ -17,7 +19,9 @@ Even more, today, Capital Chaplains has contracts to provide a Chaplain Assistan
 
 So many organizations need the help that chaplains can offer. **Perhaps God is calling you to be part of the solution in your city.** I’d love to walk with you as you consider starting a corporate chaplaincy initiative of your own. 
 
-_Steve_
+
+
+![Steve Cook](SteveCookCapChapsPic.jpg) _Steve_
 
 Capital Chaplains LLC, Owner &amp; Founding Chaplain
 

@@ -9,6 +9,12 @@ body,html{
 	font-family: "times new roman",times,serif;
 	background:#fafaf3;
 	font-size:17.5px;
+<<<<<<< HEAD
+=======
+}
+p{
+	margin: 0 0 20px;
+>>>>>>> origin/gh-pages
 }
 a img{border:none}
 a{
