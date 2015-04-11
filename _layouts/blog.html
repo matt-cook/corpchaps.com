@@ -39,7 +39,7 @@ links:
 {{ content }}
 <div id="posts">
   {% for post in posts %}
-    <div class="post">
+    <div class="post clear">
       <p class="date">{{ post.date | date: "%-d %B %Y" }}</p>
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       {% if post.author %}

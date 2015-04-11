@@ -13,6 +13,9 @@ body,html{
 p{
 	margin: 0 0 20px;
 }
+.clear{
+	clear:both;
+}
 a img{border:none}
 a{
 	text-decoration:none;
