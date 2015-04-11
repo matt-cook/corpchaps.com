@@ -2,7 +2,7 @@
 title: Are You a Chaplain?
 author: Cindy
 tags: chaplain, care, skills
-abstract: “Are you a chaplain?” The question makes sense, and I get it a lot when people find out that I work with Capital Chaplains. The answer, however, is: No. 
+abstract: “Are you a chaplain?” The question makes sense, and I get it a lot when people find out that I work with Capital Chaplains. The answer, however, is "No." 
 title: Are You a Chaplain?
 ---
 “Are you a chaplain?” The question makes sense, and I get it a lot when people find out that I work with Capital Chaplains. The answer, however, is: No.
