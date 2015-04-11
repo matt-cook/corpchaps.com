@@ -3,6 +3,8 @@ title: Shadow a Corporate Chaplain
 permalink: get-started/shadow-a-corporate-chaplain/
 menu: get-started
 ---
+DO CHANGES TO THIS PAGE SYNC???
+
 Future home of shadow day details
 
 OLD CONTENT:
