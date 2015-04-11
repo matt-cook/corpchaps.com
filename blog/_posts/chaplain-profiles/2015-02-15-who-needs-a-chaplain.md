@@ -1,5 +1,5 @@
 ---
-permalink: /blog/who-needs-a-chaplain
+permalink: blog/who-needs-a-chaplain
 title: Who Needs a Chaplain? 
 author: Steve Cook
 tags: chaplain, corporate, corporate chaplaincy
