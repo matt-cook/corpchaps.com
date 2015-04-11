@@ -2,7 +2,7 @@
 title: Professional Development Test
 author: Matt Cook
 tags: chaplain, corpate, corpate chaplaincy
-image: http://placekitten.com/g/200/350
+image: SteveCookCapChapsPic.jpg
 category: professional-development
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet luctus quam. Sed nec laoreet massa, quis suscipit orci. Pellentesque porta volutpat congue. Cras elit lectus, porta quis ex sed, molestie egestas ligula. Aenean congue, enim et interdum hendrerit, velit odio accumsan est, quis dapibus dolor lectus eget elit. Aliquam eget odio vestibulum, bibendum nulla quis, aliquet sem. Sed tempus nulla vel justo molestie, vel euismod turpis vehicula. Nullam arcu odio, tristique sit amet tempor sit amet, consectetur posuere mi. Vestibulum consectetur arcu non lectus sagittis pharetra. Nam aliquam, massa at vestibulum mollis, urna elit ultrices lacus, ac feugiat quam massa vel nisl. Donec mauris turpis, faucibus vel ultrices sed, fringilla non ex. Quisque porttitor blandit dui. Cras egestas justo a ornare suscipit. Nam id turpis eu nibh fermentum rutrum at vel nunc.

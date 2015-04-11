@@ -2,9 +2,12 @@
 title: Corporate Chaplaincy Consulting
 description: For-profit Corporate Chaplaincy is an effective chaplaincy business model that allows you to focus on the clients of your chaplaincy organization.
 keywords: For-profit corporate chaplaincy,chaplaincy business model,chaplaincy organization
-baseurl: "/corpchaps.com"
+baseurl: ""
 permalink: /:categories/:title/
 image: http://capital-chaplains.github.io/corpchaps.com/_img/interface/logo.png
+imagefolder: https://googledrive.com/host/0B-rUPb5gojEtSTFMU3FPb19yaDA/
+docfolder: https://googledrive.com/host/0B-rUPb5gojEteThPR1lHNFZremM/
+publicfolder: https://googledrive.com/host/0B16RYgIOGJNPam5RZ3lHMGstZWs
 url: "http://capital-chaplains.github.io/corpchaps.com"
 include: ['_css','_js','_img']
 defaults:

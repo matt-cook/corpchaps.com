@@ -47,7 +47,7 @@ links:
       {% endif %}
       {% if post.image %}
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <img src="{{ site.baseurl }}/_img/interface/transparent.png" alt="{{ post.title }}" style="background-image:url({{ post.image }})" class="thumbnail">
+        <img src="{{ site.baseurl }}/_img/interface/transparent.png" alt="{{ post.title }}" style="background-image:url({{ site.imagefolder }}{{ post.image }})" class="thumbnail">
       </a>
       {% endif %}
       {{ post.excerpt }}
