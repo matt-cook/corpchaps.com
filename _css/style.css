@@ -293,21 +293,6 @@ br.clear{
 #footertop img.title{
 	margin:25px 0 15px 0;
 }
-#footertop #photo a{
-	height:209px;
-	position:relative;
-	display:block;
-}
-#footertop #photo img{
-	padding:54px 31px 0 32px;
-	position:absolute;
-	top:-18px;
-	right:0px;
-	background-image:url(../_img/interface/about_photo_bg.png);
-}
-#footertop #photo br{
-	width:28px;
-}
 #footertop #mission{
 	width:460px;
 	padding:15px 0 0 0;
@@ -315,11 +300,15 @@ br.clear{
 #footertop #mission a{
 	color:white;
 }
+#footertop #mission p{
+	font-size: 1.65em;
+  font-family: serif;
+  margin: 1em;
+}
 #footertop #learn{
 	width:600px;
 	float:left;
 	padding:20px 0 20px 0;
-
 }
 #footertop #learn h2{
 	font: 34px 'ChunkFiveRegular', Arial, sans-serif;
