@@ -1,6 +1,6 @@
 ---
 title: Prospective Owner/Manager Package
-price: 450.00
+price: 950.00
 gumroad: dQFcn
 menu: store
 image: http://placekitten.com/g/200/300

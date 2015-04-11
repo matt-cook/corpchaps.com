@@ -50,4 +50,3 @@ Please email <a href="mailto:Steve@CorpChaps.Com">Steve@CorpChaps.Com</a> for pr
 
 </div>
 </div>
-<script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>

@@ -61,7 +61,8 @@ textarea {
 #topbar li a:hover{
 	background:none;
 }
-a.box, .arrow{
+
+a.box, .arrow, a.button, #content a.button{
 	font-family: "palatino linotype",palatino,serif;
 	color:white;
 	text-transform: uppercase;
@@ -85,7 +86,7 @@ a.box{
 	margin:0;
 	padding:4px 5px 5px 5px;
 }
-.arrow{
+.arrow, a.button{
 	background-color:#d6412d;
 	background-repeat:no-repeat;
 	background-position:top right;
@@ -562,7 +563,7 @@ h1 > a:hover, h2 > a:hover{
 	text-transform:uppercase;
 	font-size:0.8em;
 }
-#content #products a.arrow{
+#content #products a.arrow, a.button{
 	color:#fff;
 	text-align:center;
 	padding: 10px;
