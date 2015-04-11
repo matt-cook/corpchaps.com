@@ -9,7 +9,7 @@ So many businesses need the help that chaplains like you offer ‒ and you can h
 
 The Start Your Chaplaincy Business Kit is designed to help you make the shift from serving as an individual chaplain to owning a chaplaincy organization, whether you've been a chaplain for years or have only recently been inspired by our [Consider Corporate Chaplaincy ebook](/get-started/consider-corporate-chaplaincy/).
 
-The combination of resources in the Start Your Chaplaincy Business Kit—spanning a <span style="color:red">75</span>-page ebook, sample legal and business documents, multimedia marketing materials, and a personal consultation—will give you the expert guidance you need to establish a sustainable chaplaincy business.
+The combination of resources in the Start Your Chaplaincy Business Kit—spanning a <span style="color:red">TEST</span>-page ebook, sample legal and business documents, multimedia marketing materials, and a personal consultation—will give you the expert guidance you need to establish a sustainable chaplaincy business.
 
 ### Here’s what is included in the Start Your Chaplaincy Business Kit:
 
