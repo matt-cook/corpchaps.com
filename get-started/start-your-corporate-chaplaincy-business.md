@@ -84,10 +84,12 @@ We will be in touch via email within 1-2 business days after your purchase to ar
 ***Want more personal attention than an hour can provide? You can [Bring Steve to You](www.corpchaps.com/get-started/bring-steve-to-you/)!***
 
 ### A rewarding business opportunity awaits you!
-<span style="color:red">$950.00 PRICE TAG ICON</span>
+<!-- <span style="color:red">$950.00 PRICE TAG ICON</span> -->
 
 Start helping organizations in your area experience the gifts that corporate chaplains bring to individual employees and to businesses as a whole.
 
 Just click on the “Buy Now” button below to access the tools and strategies you need for success in this industry!
 
-<span style="color:red">BUY NOW</span>
+<a class="button" href="https://gumroad.com/l/dQFcn">
+      Buy now ($950.00)
+    </a>
