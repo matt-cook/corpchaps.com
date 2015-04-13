@@ -4,37 +4,25 @@ permalink: buy-now/
 menu: store
 ---
 Here you can find all our current product and service offerings. To get a more detailed description, click on the “Learn More” button at the end of each description. If you need assistance, you can [email us] (mailto:info@corpchaps.com) or call 608-217-7261.
- 
+
 All packages are immediately available for download as zip files. Zipping a file creates a compressed version of the file, and the zipped version of the file will have a .zip file extension. This smaller size drastically reduces the time that it will take the documents to download.
 
 If you are using a  PC, you can unzip a file by right-clicking on the file and then clicking 'Extract' on the shortcut menu. If you are using a Mac, double-click on the file to unzip it. Once unzipped, modifiable documents are either Microsoft Word or Excel format, and all unmodifiable documents are in the PDF format.
 
 <div class="row" id="products">
 {% for post in site.categories.store %}
-<<<<<<< HEAD
-  <div class="product col-md-4">
-=======
-  <div class="product col-md-6">
->>>>>>> origin/gh-pages
     <h3>{{ post.title }}</h3>
 
     <!-- <a href="{{ site.baseurl }}{{ post.url }}">
       <img src="{{ site.baseurl }}/_img/interface/transparent.png" alt="{{ post.title }}" style="background-image:url({{ post.image }})" class="thumbnail">
     </a> -->
     <p class="description">{{ post.description }}</p>
-<<<<<<< HEAD
-    <a class="arrow learn" href="{{ site.baseurl }}{{ post.url }}">Learn More</a>
-    {% if post.gumroad %}
-    <a class="arrow" href="https://gumroad.com/l/{{ post.gumroad }}?wanted=true">
-      Buy now
-=======
     {% if post["learn-more"] %}
       <a class="arrow learn" href="{{ site.baseurl }}{{ post["learn-more"] }}">Learn More</a>
     {% endif %}
     {% if post.gumroad %}
     <a class="arrow" href="https://gumroad.com/l/{{ post.gumroad }}">
       Buy now (${{ post.price }}0)
->>>>>>> origin/gh-pages
     </a>
   </div>
   {% endif %}

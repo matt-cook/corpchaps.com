@@ -3,8 +3,7 @@ permalink: blog/what-role-can-you-play-in-corporate-chaplaincy
 title: What Role Can You Play in Corporate Chaplaincy?
 tags: workplace chaplaincy, job skills, gifts
 abstract: What are you good at? What comes so naturally to you that you know that you were just made to do it?
-image: puzzle.jpg 
-title: What Role Can You Play in Corporate Chaplaincy?
+image: puzzle.jpg
 ---
 What are you good at? What comes so naturally to you that you know that you were just made to do it?
 
@@ -18,10 +17,10 @@ The best fit is when we figure out how we can best use our gifts and skills to m
 
 Businesses need chaplains&#8212;but chaplains need someone with a business mind to create corporate chaplaincy organizations. If you feel called to corporate chaplaincy, how do you know which role is best for you? You might also be called to do both! Here are a few questions to consider:
 
-* Do you have the gift of leadership? 
-* Are you a team builder? 
-* Do you have the gifts of discernment and mercy? 
-* Are you a care pastor who has no interest in business? 
+* Do you have the gift of leadership?
+* Are you a team builder?
+* Do you have the gifts of discernment and mercy?
+* Are you a care pastor who has no interest in business?
 * Do you feel that your gifts and life experiences have prepared you to be a chaplain?
 
 Understanding your gifts is the first step in determining whether God has called you to serve as a full-time chaplain, split your time between serving as a chaplain and establishing a chaplaincy organization in your region, or work in another way to support corporate chaplains so that they can work one-on-one with employees.

@@ -1,5 +1,4 @@
 ---
-title: 
 title: A Senior Leader Shares Her Perspective on Workplace Chaplaincy
 ---
 In this week’s featured video, Karon Morton, Vice President and Director of Operations at InterVarsity’s National Service Center in Madison, Wisconsin, discusses the tragedy that initiated the launch of a Chaplain Assistance Program (CAP) at InterVarsity and, as a manager, the benefits that she has seen since the implementation of the program.
