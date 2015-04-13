@@ -3,6 +3,7 @@ permalink: blog/job-of-workplace-chaplain
 title: The Job of a Workplace Chaplain
 author: Steve Cook
 tags: corporate chaplaincy, workplace chaplaincy, responsibilities
+image: candle.JPG
 abstract: What exactly does a workplace chaplain do?
 ---
 Corporate chaplaincy is an emerging industry, but the role of the corporate chaplain is a familiar one. Much like military chaplains care for soldiers and their families, corporate chaplaincy provides a chaplain in the workplace to care for employees and their families.

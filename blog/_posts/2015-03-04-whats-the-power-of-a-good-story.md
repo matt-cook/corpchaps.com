@@ -4,6 +4,7 @@ title: What&#8217;s the  Power of a Good Story?
 author: Cindy Liu
 tags: business skills, corporate chaplaincy
 abstract: A good story is powerful. Stories help us connect to a person and relate to their life.
+image: powerstory.jpg
 title: What’s the Power of a Good Story?
 ---
 A good story is powerful. Stories help us connect to a person and relate to their life.
