@@ -5,13 +5,15 @@ permalink: template/
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ornare volutpat nisl in viverra. Nunc sit amet enim ligula. Sed mattis augue vitae diam lacinia congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ornare volutpat nisl in viverra. Nunc sit amet enim ligula. Sed mattis augue vitae diam lacinia congue.
 
-<<<<<<< HEAD
+<<<<<<< HEAD - TEST
+
 =======
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ornare volutpat nisl in viverra. Nunc sit amet enim ligula. Sed mattis augue vitae diam lacinia congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ornare volutpat nisl in viverra.
 
 Nunc sit amet enim ligula. Sed mattis augue vitae diam lacinia congue.
 
->>>>>>> origin/gh-pages
+>>>>>>> origin/gh-pages TEST
+
 #H1 Title Size
 
 ##H2 Title Size
