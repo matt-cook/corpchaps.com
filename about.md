@@ -21,7 +21,7 @@ So many organizations need the help that chaplains can offer. **Perhaps God is c
 
 
 
-![Steve Cook]({{ site.imagefolder }}SteveCookCapChapsPic.jpg) _Steve_
+![Steve Cook]({{ site.imagefolder }}SteveCookheadshot.jpg) _Steve_
 
 Capital Chaplains LLC, Owner &amp; Founding Chaplain
 
