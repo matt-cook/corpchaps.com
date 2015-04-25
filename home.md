@@ -9,4 +9,6 @@ permalink: /
 
 Corporate chaplains have the great privilege of inspiring hope in people on a daily basis. We want to help you be that resource for others. 
 
-Corporate Chaplaincy Consulting provides marketplace-tested resources for both prospective chaplains and those who want to start their own local chaplaincy initiative. Start your journey today!
+Corporate Chaplaincy Consulting provides marketplace-tested resources for both [prospective chaplains](http://capital-chaplains.github.io/corpchaps.com/get-started/consider-corporate-chaplaincy/) and those who want to start their own [local chaplaincy initiative](http://capital-chaplains.github.io/corpchaps.com/get-started/start-your-corporate-chaplaincy-business/). 
+
+#### Start your journey today!
