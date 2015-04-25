@@ -1,11 +1,9 @@
 ---
-title: The Need for Corporate Chaplaincy
-permalink: about/need-for-corporate-chaplaincy/
+title: What is Corporate Chaplaincy?
+permalink: about/what-is-corporate-chaplaincy/
 quote: Chaplains reach out and bring care where it is needed most, and where it can make a meaningful difference.
 menu: about
 ---
-## What is corporate chaplaincy?
-
 There&#8217;s no denying it: Americans are stressed out. Working beyond the forty-hour work week, fulfilling the responsibilities of home, commuting and running errands on inadequate sleep—all contribute to the lack of margin and high stress many people experience daily. And there&#8217;s no break from the stress; tension at work affects home life, and personal challenges come to work with employees, resulting in low productivity, low morale, and high absenteeism.
 
 In addition, many people do not have anyone to turn to at work or outside work during the challenging times of life. 
@@ -16,11 +14,11 @@ A CAP is a benefit for employees and their households and immediate family membe
 
 Chaplain Assistance Programs are:
 
-* **free to employees.** An organization contracts with and pays an outside corporate chaplaincy provider for the service.
-* **voluntary.** Chaplains are available 24 hours a day, 7 days a week, 365 days a year for any employee who wants support, but no one can be forced to utilize the benefit.
-* **relational.** Corporate chaplains spend regular time at a worksite building relationships with employees and getting to know them, which makes CAPs more effective and more highly utilized than traditional Employee Assistance Programs.
-* **confidential.** CAPs provide a neutral space for employees to share their struggles safely without having to fear that others in the office will hear about them. Chaplains will only break their commitment to confidentiality in situations where they’re required to do so by law.
-* **available for people of all faiths (or no faith).** Corporate chaplains let employees who are interested initiate conversations about faith and spirituality. For employees who aren’t interested or don’t bring up faith in conversation, chaplains serve more as a life coach.
+* **Free to employees.** An organization contracts with and pays an outside corporate chaplaincy provider for the service.
+* **Voluntary.** Chaplains are available 24 hours a day, 7 days a week, 365 days a year for any employee who wants support, but no one can be forced to utilize the benefit.
+* **Relational.** Corporate chaplains spend regular time at a worksite building relationships with employees and getting to know them, which makes CAPs more effective and more highly utilized than traditional Employee Assistance Programs.
+* **Confidential.** CAPs provide a neutral space for employees to share their struggles safely without having to fear that others in the office will hear about them. Chaplains will only break their commitment to confidentiality in situations where they’re required to do so by law.
+* **Available for people of all faiths (or no faith).** Corporate chaplains let employees who are interested initiate conversations about faith and spirituality. For employees who aren’t interested or don’t bring up faith in conversation, chaplains serve more as a life coach.
 
 CAPs are also **effective.** Research has shown that the implementation of a Chaplain Assistance Program:
 
