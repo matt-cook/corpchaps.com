@@ -9,7 +9,9 @@ OLD CONTENT:
 
 ### On-Site Consulting
 
-One day of consulting anywhere in the USA.
+One day of consulting anywhere in the USA. including information about on-site consulting outside of the USA.
+
+We will be in touch via email within 1-2 business days after your purchase to make arrangements for your on-site consultation.
 
 ### Closing subhead here xxx
 
@@ -21,6 +23,6 @@ Just click on the “BUY NOW” button below to access the tools and strategies 
       BUY NOW ($1,950)
     </a>
     
-*PLEASE NOTE: A **$975 down payment** is required at checkout. You will pay your balance upon finalizing your Shadow Day arrangements via phone or email. For questions regarding the payment process, please [email Steve](mailto:steve@corpchaps.com).*
+*NOTE: Total price does not include Steve's transportation to and from your location, housing, or food. A **$975 down payment** is required at checkout. You will pay your balance upon finalizing your on-site consulting arrangements via phone or email. For questions regarding the payment process, please [email Steve](mailto:steve@corpchaps.com).*
 
-including information about on-site consulting outside of the USA.
+
