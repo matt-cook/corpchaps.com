@@ -54,4 +54,4 @@ Choose to immerse yourself in this hands-on coaching experience to discover and 
       BUY NOW ($1,450)
     </a>
 
-*PLEASE NOTE: A **$725 down payment** is required at checkout. You will pay your balance upon finalizing your Shadow Day arrangements via phone or email. For questions regarding the payment process, please [email Steve](mailto:steve@corpchaps.com).*
+*NOTE: Total price does not include your transportation to and from Madison, Wis., housing, or food. A **$725 down payment** is required at checkout. You will pay your balance upon finalizing your Shadow Day arrangements via phone or email. For questions regarding the payment process, please [email Steve](mailto:steve@corpchaps.com).*
