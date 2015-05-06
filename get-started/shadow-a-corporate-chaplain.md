@@ -27,6 +27,8 @@ You can use this time to:
 
 The phone consultation is ultimately led by you, and Steve will work to insure you get the most out of your call. You’ll be best prepared for the call by compiling a list of discussion topics and questions and sending them to Steve ahead of time to insure your call addresses as many of your needs as possible in the allotted time.
 
+We will be in touch via email within 1-2 business days after your purchase to arrange your phone consultation.
+
 *Note: You can use the entire two hours in one session or divide it into two one-hour sessions.*
 
 ## Shadow Day in South Central Wisconsin
@@ -44,9 +46,9 @@ To make the absolute most of your visit, you’ll be able to ask lots of questio
 
 No matter which client companies or chaplains you observe during your time in south central Wisconsin, you’ll walk away with lots of practical information, new perspectives, and action steps toward your own chaplaincy goals.
 
-### Closing subhead xxxx
+### Find out for yourself how far you can go! 
 
-Just click on the “BUY NOW” button below to xxxx!
+Choose to immerse yourself in this hands-on coaching experience to discover and hone your potential. Just click on the “BUY NOW” button below to get started!
 
 <a class="button" href="https://gumroad.com/l/dQFcn">
       BUY NOW ($1,450)
