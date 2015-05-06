@@ -63,11 +63,11 @@ We’ve prepared five documents to get your business up and running, so there’
 ## Multimedia Marketing Tools
 These marketing materials are your shortcut to promoting your new business and signing client companies. You can put our ideas to work and make them your own by simply editing these templates.
 
-*   **Life is Hard postcard** for mailing to or sharing with prospective client companies (Microsoft Publisher).
+*   **Life is Hard postcard** for mailing to or sharing with prospective client companies (Microsoft Word, prints 4 postcards on 8.5" x 11").
 *   **Corporate Chaplaincy Overview** for briefly presenting the value of workplace chaplaincy to prospective client companies (Microsoft PowerPoint).
-*   **Corporate Chaplaincy Brochure** for reinforcing awareness of your corporate chaplaincy business offline (format?).
+*   **Corporate Chaplaincy Brochure** for reinforcing awareness of your corporate chaplaincy business offline (Microsoft Word, trifold 8.5 x 11).
 *   **Corporate Chaplaincy: Giving the Gift of Hope** for presenting a deeper look at the value of chaplains attending to employees’ minds, bodies, and spirits (Microsoft PowerPoint).
-*   **Corporate Chaplaincy: The Missing Link in Business** for presenting the impact that chaplains can have on a prospective client company’s bottom line (available as an article and as a Microsoft PowerPoint).
+*   **Corporate Chaplaincy: The Missing Link in Business** for presenting the impact that chaplains can have on a prospective client company’s bottom line (provided as both a printable article in Microsoft Word and and as a presentation in Microsoft PowerPoint).
 *   **The Case for Corporate Chaplaincy** for presenting prospective client companies with key questions about caring for their employees, facts about marketplace trends that affect all organizations, major news coverage of corporate chaplaincy, and how your Chaplain Assistance Program is the best investment they can make in their people (Microsoft PowerPoint).
 *   **Employee FAQ Handout** for each of your client companies to share with their employees about the nature of the Chaplain Assistance Program in place at their company (Microsoft Word).
 *   **Fee Chart** for offering prospective client companies four Chaplain Assistance Program options based on number of employee visits, type of clients, mode of service, relationship ranking, and fee range (Microsoft Word).
