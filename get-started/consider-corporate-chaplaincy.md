@@ -49,8 +49,9 @@ Included at no additional cost, you can spend 30 minutes asking Steve Cook, owne
 We will be in touch via email within 1-2 business days after your purchase to arrange your FREE 30-minute phone consultation.
 
 ### Take the first step now!
-<!-- <span style="color:red">$45.00 PRICE TAG ICON</span> --> A rewarding new career is within reach for only $45.00. Just click on the “Buy Now” button below and get started!
+
+A rewarding new career is within reach for only $45.00. Just click on the “BUY NOW” button below and get started!
 
 <a class="button" href="https://gumroad.com/l/aJPd">
-      Buy now ($45.00)
+      BUY NOW ($45.00)
     </a>

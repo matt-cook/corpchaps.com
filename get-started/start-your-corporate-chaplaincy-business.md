@@ -87,8 +87,8 @@ We will be in touch via email within 1-2 business days after your purchase to ar
 
 Start helping organizations in your area experience the gifts that corporate chaplains bring to individual employees and to businesses as a whole.
 
-Just click on the “Buy Now” button below to access the tools and strategies you need for success in this industry!
+Just click on the “BUY NOW” button below to access the tools and strategies you need for success in this industry!
 
 <a class="button" href="https://gumroad.com/l/dQFcn">
-      Buy now ($950.00)
+      BUY NOW ($950.00)
     </a>

@@ -11,4 +11,16 @@ OLD CONTENT:
 
 One day of consulting anywhere in the USA.
 
-Please email ([Steve@CorpChaps.Com](mailto:Steve@CorpChaps.Com)) for price and other details, including information about on-site consulting outside of the USA.
+### Closing subhead here xxx
+
+Start helping organizations in your area experience the gifts that corporate chaplains bring to individual employees and to businesses as a whole.
+
+Just click on the “BUY NOW” button below to access the tools and strategies you need for success in this industry!
+
+<a class="button" href="https://gumroad.com/l/dQFcn">
+      BUY NOW ($1,950)
+    </a>
+    
+*PLEASE NOTE: A **$975 down payment** is required at checkout. You will pay your balance upon finalizing your Shadow Day arrangements via phone or email. For questions regarding the payment process, please [email Steve](mailto:steve@corpchaps.com).*
+
+including information about on-site consulting outside of the USA.

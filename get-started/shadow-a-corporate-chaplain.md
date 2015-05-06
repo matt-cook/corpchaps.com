@@ -44,6 +44,12 @@ To make the absolute most of your visit, you’ll be able to ask lots of questio
 
 No matter which client companies or chaplains you observe during your time in south central Wisconsin, you’ll walk away with lots of practical information, new perspectives, and action steps toward your own chaplaincy goals.
 
+### Closing subhead xxxx
+
+Just click on the “BUY NOW” button below to xxxx!
+
 <a class="button" href="https://gumroad.com/l/dQFcn">
-      Buy now ($725 down payment)
+      BUY NOW ($1,450)
     </a>
+
+*PLEASE NOTE: A **$725 down payment** is required at checkout. You will pay your balance upon finalizing your Shadow Day arrangements via phone or email. For questions regarding the payment process, please [email Steve](mailto:steve@corpchaps.com).*
