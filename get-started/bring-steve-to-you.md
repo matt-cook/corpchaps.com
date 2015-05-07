@@ -3,21 +3,29 @@ title: Bring Steve to You
 permalink: get-started/bring-steve-to-you/
 menu: get-started
 ---
-Future home of on-site consulting details
+Pain-point question
 
-OLD CONTENT:
+The importance/ROI of a consultant
 
-### On-Site Consulting
+The Bring Steve to You package ___s you exponential to 
+
+
+### Here's what's included when you Bring Steve to You:
+
+## 8-12 Hours of On-Site Consultation
+
 
 One day of consulting anywhere in the USA. including information about on-site consulting outside of the USA.
 
+
+
 We will be in touch via email within 1-2 business days after your purchase to make arrangements for your on-site consultation.
 
-### Closing subhead here xxx
+### Closing subhead here xxxx
 
-Start helping organizations in your area experience the gifts that corporate chaplains bring to individual employees and to businesses as a whole.
+Start xxxx.
 
-Just click on the “BUY NOW” button below to access the tools and strategies you need for success in this industry!
+Just click on the “BUY NOW” button below to xxxx!
 
 <a class="button" href="https://gumroad.com/l/dQFcn">
       BUY NOW ($1,950)
