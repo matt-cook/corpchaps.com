@@ -27,7 +27,7 @@ Start xxxx.
 
 Just click on the “BUY NOW” button below to xxxx!
 
-<a class="button" href="https://gumroad.com/l/dQFcn">
+<a class="button" href="https://gum.co/bring-steve-to-you">
       BUY NOW ($1,950)
     </a>
     

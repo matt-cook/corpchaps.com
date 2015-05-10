@@ -50,7 +50,7 @@ No matter which client companies or chaplains you observe during your time in so
 
 Choose to immerse yourself in this hands-on coaching experience to discover and hone your potential. Just click on the “BUY NOW” button below to get started!
 
-<a class="button" href="https://gumroad.com/l/dQFcn">
+<a class="button" href="https://gum.co/shadow-a-corporate-chaplain">
       BUY NOW ($1,450)
     </a>
 

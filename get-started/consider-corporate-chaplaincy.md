@@ -52,6 +52,6 @@ We will be in touch via email within 1-2 business days after your purchase to ar
 
 A rewarding new career is within reach for only $45.00. Just click on the “BUY NOW” button below and get started!
 
-<a class="button" href="https://gumroad.com/l/aJPd">
+<a class="button" href="https://gum.co/consider-corporate-chaplaincy">
       BUY NOW ($45.00)
     </a>

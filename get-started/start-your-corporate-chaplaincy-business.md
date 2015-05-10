@@ -89,6 +89,6 @@ Start helping organizations in your area experience the gifts that corporate cha
 
 Just click on the “BUY NOW” button below to access the tools and strategies you need for success in this industry!
 
-<a class="button" href="https://gumroad.com/l/dQFcn">
+<a class="button" href="https://gum.co/start-your-chaplaincy-business">
       BUY NOW ($950.00)
     </a>
