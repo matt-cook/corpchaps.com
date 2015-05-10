@@ -42,7 +42,7 @@ The Shadow a Corporate Chaplain package gives you two distinct opportunities to 
 <hr>
 
 ## Bring Steve to You
-When you Bring Steve to You, you receive 8-12 hours of on-site consulting anywhere in the U.S. Steve and you will craft an itinerary for the day that is tailor-made for goals and context.
+When you Bring Steve to You, you receive 8-12 hours of on-site consulting anywhere in the U.S. Steve and you will craft an itinerary for the day that is tailor-made for your goals and context.
 
 Please [email Steve](mailto:steve@corpchaps.com) for information about on-site consulting outside of the USA.
 
