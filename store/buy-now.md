@@ -17,6 +17,7 @@ The Consider Corporate Chaplaincy Kit includes an ebook, starter marketing mater
       BUY NOW ($45.00)
     </a>
 
+<hr>
 
 ## Start Your Chaplaincy Business
 The Start Your Chaplaincy Business Kit is designed to help you make the shift from serving as an individual chaplain to owning a chaplaincy organization. The phone consultation, ebook, sample legal and business documents, and multimedia marketing materials will give you the expert guidance and practical tools you need to establish a sustainable chaplaincy business.
@@ -26,7 +27,8 @@ The Start Your Chaplaincy Business Kit is designed to help you make the shift fr
       BUY NOW ($950.00)
     </a>
 
-    
+<hr>
+
 ## Shadow a Corporate Chaplain
 The Shadow a Corporate Chaplain package gives you two distinct opportunities to grow your business and yourself: two hours of one-on-one phone consulting and 8-12 hours shadowing chaplains in South Central Wisconsin.
 
@@ -37,6 +39,7 @@ The Shadow a Corporate Chaplain package gives you two distinct opportunities to 
       BUY NOW ($1,450.00)
     </a>
 
+<hr>
 
 ## Bring Steve to You
 When you Bring Steve to You for a day of on-site consulting
