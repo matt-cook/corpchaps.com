@@ -46,6 +46,6 @@ Please [email Steve](mailto:steve@corpchaps.com) for price and other details, in
 *$975 down payment required at checkout.*
 
 <a class="button" href="www.corpchaps.com/get-started/bring-steve-to-you">
-      LEARN MORE</a>  |  <a class="button" href="https://gum.co/bring-steve-to-you">
+      LEARN MORE</a> <a class="button" href="https://gum.co/bring-steve-to-you">
       BUY NOW ($1,950.00)
     </a>
