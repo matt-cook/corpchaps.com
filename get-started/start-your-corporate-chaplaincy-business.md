@@ -75,7 +75,7 @@ These marketing materials are your shortcut to promoting your new business and s
 ## 60-Minute Phone Consultation
 The hour is yours to spend asking Steve Cook, owner of Corporate Chaplaincy Consulting, any questions you feel will help you get your chaplaincy business up and running.
 
-As a pioneer in corporate chaplaincy, Steve’s <span style="color:red">number-goes-here</span>+ years’ experience—in which he took his own Capital Chaplains, LLC, from part-time endeavor to full-time, income-generating business—are at your disposal.
+As a pioneer in corporate chaplaincy, Steve’s 10+ years’ experience—in which he took his own Capital Chaplains, LLC, from part-time endeavor to full-time, income-generating business—are at your disposal.
 
 We highly recommend scheduling your phone consultation after you have had the opportunity to look over the documents included in the Start a Chaplaincy Business Kit (see document descriptions above). And, we recommend compiling a list of discussion topics and questions to insure your call addresses as many of your needs as possible in the allotted time.
 
