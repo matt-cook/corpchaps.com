@@ -1,5 +1,5 @@
 ---
-title: What is Corporate Chaplaincy?
+title: What Is Corporate Chaplaincy?
 permalink: about/what-is-corporate-chaplaincy/
 quote: Chaplains reach out and bring care where it is needed most, and where it can make a meaningful difference.
 menu: about
@@ -25,7 +25,7 @@ CAPs are also **effective.** Research has shown that the implementation of a Cha
 * reduces the costly consequences of poor problem solving (e.g., suicide, substance abuse, workplace violence and/or sabotage, etc.)
 * increases the probability of early awareness of and intervention in situations of physical or emotional overload and the onset of related physical and emotional dysfunction
 * provides a source of support and resources in times of personal crises
-improves attitudes, cooperation, and performance
+* improves attitudes, cooperation, and performance
 * increases loyalty and trustworthiness
 * increases dedication to company goals, priorities, and objectives
 * reduces staff conflicts
