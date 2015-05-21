@@ -7,7 +7,7 @@ menu: about
 ---
 Ministry is one thing. Starting a business is another. Starting any kind of business raises many questions. Starting a chaplaincy business raises one more: Would a for-profit or not-for-profit business model be best?
 
-At first glance, a not-for-profit model might seem like the obvious choice, given the tax breaks donors receive and investors&#8217;s seeming eagerness to support non-profit social ventures. But it is important to think long term.
+At first glance, a not-for-profit model might seem like the obvious choice, given the tax breaks donors receive and investors&#8217; seeming eagerness to support non-profit social ventures. But it is important to think long term.
 
 The ultimate goal is a sustainable business model that will be able to focus on providing chaplaincy services in the community for years to come. And for-profit corporate chaplaincy can meet this goal for a variety of unique reasons.
  
