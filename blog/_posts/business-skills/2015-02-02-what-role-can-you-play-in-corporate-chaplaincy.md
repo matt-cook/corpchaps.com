@@ -9,7 +9,7 @@ What are you good at? What comes so naturally to you that you know that you were
 
 We are all gifted with unique strengths. Sometimes we are able to see the strengths and weaknesses in ourselves from a young age. We might, for instance, find that we are the one our friends turn to when they need to talk, or we might notice that we always seem to play the role of peacemaker among our siblings. In other cases, it can take us well into adulthood before we find that “perfect fit” where we feel like we are doing what we were made to do, if we find it at all.
 
-Just knowing what you’re good at is only part of the equation, though. Knowing how to take those gifts and apply them is also a key component, and that&#8211;s where many people get stuck. In some cases, people find their passion and are determined to start a business doing what they love, only to find out that they have no idea how to run a business.
+Just knowing what you’re good at is only part of the equation, though. Knowing how to take those gifts and apply them is also a key component, and that's where many people get stuck. In some cases, people find their passion and are determined to start a business doing what they love, only to find out that they have no idea how to run a business.
 
 The best fit is when we figure out how we can best use our gifts and skills to make this world a better place and then can also find a way to pay the bills in the process.
 
