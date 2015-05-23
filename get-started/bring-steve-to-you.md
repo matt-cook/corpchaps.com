@@ -5,11 +5,11 @@ menu: get-started
 ---
 Do you sense there are things you could be doing better with your chaplaincy business, but you don't quite know where to start?
 
-Or do you feel like you're heading in the right direction, but would like a fresh set of eyes to fine tune the ideas you've already developed?
+Or do you feel like you're heading in the right direction, but would like a fresh set of eyes to fine-tune the ideas you've already developed?
 
 High performers in any field typically have a coach or mentor. Likewise, whether you're starting a new chaplaincy organization or growing an existing business, hiring Steve Cook for an on-site consultation can be a cost-effective way to leverage his specialized knowledge.
 
-### Here's what's included when you Bring Steve to You:
+### Here's what's included when you purchase the Bring Steve to You package:
 
 ## 8-12 Hours of On-Site Consultation
 
