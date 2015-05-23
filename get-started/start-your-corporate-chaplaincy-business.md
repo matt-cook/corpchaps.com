@@ -5,7 +5,7 @@ menu: get-started
 ---
 Would you like to make an even bigger difference in the lives of individuals and organizations?
 
-So many businesses need the help that chaplains like you offer—and you can help by starting a for-profit corporate chaplaincy in your area. And with minimal competition in this emerging industry, chaplaincy as a for-profit business has tremendous growth potential in the marketplace. Now is a great time to start!
+So many businesses need the help that chaplains like you offer—and you can help by starting a for-profit corporate chaplaincy organization in your area. And with minimal competition in this emerging industry, chaplaincy as a for-profit business has tremendous growth potential in the marketplace. Now is a great time to start!
 
 The Start Your Chaplaincy Business Kit is designed to help you make the shift from serving as an individual chaplain to owning a chaplaincy organization, whether you've been a chaplain for years or have only recently been inspired by our [Consider Corporate Chaplaincy Kit](/get-started/consider-corporate-chaplaincy/).
 
@@ -18,7 +18,7 @@ Why reinvent the wheel? In this ebook, you receive seven chapters of practical i
 
 Here’s a peek inside each chapter:
 
-**15 FAQ about Running a Chaplaincy Business**
+**15 FAQs about Running a Chaplaincy Business:**
 Find answers to the primary questions about starting, owning, and managing an organization that offers corporate chaplaincy services. Questions include:
 
 *   How do you approach potential client organizations?
@@ -26,25 +26,25 @@ Find answers to the primary questions about starting, owning, and managing an or
 *   What are the benefits of a for-profit versus a non-profit business model for chaplaincy?
 *   How does ministry happen within the context of a for-profit business model?
 
-**50 Lessons Learned In 5 Years**
+**50 Lessons Learned In 5 Years:**
 Glean from five years’ worth of lessons learned through research and trial and error. Each lesson is accompanied by a Bible verse and an explanation to help you learn from the experiences and mistakes of those who’ve walked the for-profit chaplaincy road before you.
 
-**The Rise of Capital Chaplains LLC**
+**The Rise of Capital Chaplains, LLC:**
 Follow the growth of Capital Chaplains from a mere idea in 2004 to a part-time operation to a sustainable full-time venture in 2009.
 
-**Personal Journey to Chaplaincy Organization Owner**
+**Personal Journey to Chaplaincy Organization Owner:**
 Get inside the mind and heart of a corporate chaplain who followed his calling to own and manage his own corporate chaplaincy organization.
 
-**A Week in the Life of a Corporate Chaplaincy Business Owner**
+**A Week in the Life of a Corporate Chaplaincy Business Owner:**
 Get a detailed look at what a corporate chaplaincy business owner does to prepare and serve on a weekly basis. You’ll get a picture of how to start your own organization on a part-time basis, as well as how to manage your schedule once you’re operating full time.
 
-**Faith at Work**
+**Faith at Work:**
 Learn how to navigate religious expression in the workplace in this summary of key points from the Equal Employment Opportunity Commission, the American Center for Law and Justice, and other key constituents.
 
-**Closing the Deal: How to Build Your Client Base**
+**Closing the Deal: How to Build Your Client Base:**
 Understanding how to serve as a chaplain and understanding how to best promote and thrive as a business owner are two very different sides of what it takes to own and manage a corporate chaplaincy organization. Consider this chapter “Business 101” designed specifically for owners of corporate chaplaincy organizations.
 
-**Independent Contractors vs. Employees**
+**Independent Contractors vs. Employees:**
 Learn how the roles of independent contractors differ from those of employees as it pertains to hiring additional chaplains for your organization.
 
 *Please note that this ebook is available only as a PDF download. It is not available in Kindle, ePub, or hard-copy format.*
@@ -63,7 +63,7 @@ We’ve prepared five documents to get your business up and running, so there’
 ## Multimedia Marketing Tools
 These marketing materials are your shortcut to promoting your new business and signing client companies. You can put our ideas to work and make them your own by simply editing these templates.
 
-*   **Life is Hard postcard** for mailing to or sharing with prospective client companies (Microsoft Word, prints 4 postcards on 8.5" x 11").
+*   **Life Is Hard postcard** for mailing to or sharing with prospective client companies (Microsoft Word, prints 4 postcards on 8.5" x 11").
 *   **Corporate Chaplaincy Overview** for briefly presenting the value of workplace chaplaincy to prospective client companies (Microsoft PowerPoint).
 *   **Corporate Chaplaincy Brochure** for reinforcing awareness of your corporate chaplaincy business offline (Microsoft Word, trifold 8.5 x 11).
 *   **Corporate Chaplaincy: Giving the Gift of Hope** for presenting a deeper look at the value of chaplains attending to employees’ minds, bodies, and spirits (Microsoft PowerPoint).
