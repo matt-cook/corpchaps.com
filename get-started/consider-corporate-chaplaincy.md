@@ -18,7 +18,7 @@ In this 30-page ebook, you receive four detailed chapters that will give you ins
 
 Here's what you'll find in the ebook:
 
-**17 FAQ about Corporate Chaplaincy**
+**17 FAQs about Corporate Chaplaincy**
 Find answers to the top questions about corporate chaplaincy and how it works in the workplace. Questions include:
 
 *   Why should a business have a corporate chaplaincy program?
