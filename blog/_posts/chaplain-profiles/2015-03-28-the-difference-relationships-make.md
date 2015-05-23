@@ -12,4 +12,4 @@ Diane has great insight into people&#8212;an important skill for a chaplain. She
 
 <iframe src="http://player.vimeo.com/video/28416257?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" frameborder="0" width="400" height="225"></iframe>
 
-This video is made possible by the generous partnership of Bryan Feller (ChaplainsInc.com and bryanfellerassociates.com), a client of Corporate Chaplaincy Consulting (CorpChaps.Com).
+This video is made possible by the generous partnership of Bryan Feller (ChaplainsInc.com and bryanfellerassociates.com), a client of Corporate Chaplaincy Consulting.
