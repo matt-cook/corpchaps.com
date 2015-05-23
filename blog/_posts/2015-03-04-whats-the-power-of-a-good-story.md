@@ -25,3 +25,5 @@ Nou Her is one such employee. She has chosen to share her story about when life 
 <iframe src="http://player.vimeo.com/video/28416945?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" frameborder="0" width="400" height="225"></iframe>
 
 Ever been there? Ever had one of your employees there? How might a corporate chaplain have helped?
+
+This video is made possible by the generous partnership of Bryan Feller (ChaplainsInc.com and bryanfellerassociates.com), a client of Corporate Chaplaincy Consulting.

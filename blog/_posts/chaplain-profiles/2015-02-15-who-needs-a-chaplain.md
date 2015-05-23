@@ -10,9 +10,9 @@ Terry Erickson serves as a chaplain at Coyle Carpet&#8212;a role he&#8217;s in b
 
 ## The Need
 
-As Terry has ministered to employees at Coyle Carpet, he&#8217;s realized that many people don&#8217;t have a pastor in their life&#8211;and that at some point, they&#8217;ll need one. He&#8217;s been able to fill that role for those at Coyle Carpet by officiating weddings and funerals.
+As Terry has ministered to employees at Coyle Carpet, he&#8217;s realized that many people don&#8217;t have a pastor in their life&#8212;and that at some point, they&#8217;ll need one. He&#8217;s been able to fill that role for those at Coyle Carpet by officiating weddings and funerals.
 
-Additionally, Terry has observed, “a lot of the folks really just don’t have friends to process life with, and by being there on a regular basis, I’m able to process with them, and then moments where there’s a crisis, I’m able to be involved.”
+Additionally, Terry has observed, “A lot of the folks really just don’t have friends to process life with, and by being there on a regular basis, I’m able to process with them, and then moments where there’s a crisis, I’m able to be involved.”
 
 ## The Privilege
 
@@ -22,4 +22,4 @@ As a corporate chaplain, he&#8217;s invited in to employees&#8217; lives&#8212;t
 
 <iframe src="http://player.vimeo.com/video/28417103?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" frameborder="0" width="400" height="225"></iframe>
 
-This video is made possible by the generous partnership of Bryan Feller (ChaplainsInc.com and bryanfellerassociates.com), a client of Corporate Chaplaincy Consulting (CorpChaps.Com).
+This video is made possible by the generous partnership of Bryan Feller (ChaplainsInc.com and bryanfellerassociates.com), a client of Corporate Chaplaincy Consulting.
