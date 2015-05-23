@@ -67,17 +67,17 @@ These marketing materials are your shortcut to promoting your new business and s
 *   **Corporate Chaplaincy Overview** for briefly presenting the value of workplace chaplaincy to prospective client companies (Microsoft PowerPoint).
 *   **Corporate Chaplaincy Brochure** for reinforcing awareness of your corporate chaplaincy business offline (Microsoft Word, trifold 8.5" x 11").
 *   **Corporate Chaplaincy: Giving the Gift of Hope** for presenting a deeper look at the value of chaplains attending to employees’ minds, bodies, and spirits (Microsoft PowerPoint).
-*   **Corporate Chaplaincy: The Missing Link in Business** for presenting the impact that chaplains can have on a prospective client company’s bottom line (provided as both a printable article in Microsoft Word and and as a presentation in Microsoft PowerPoint).
+*   **Corporate Chaplaincy: The Missing Link in Business** for presenting the impact that chaplains can have on a prospective client company’s bottom line (provided as both a printable article in Microsoft Word and as a presentation in Microsoft PowerPoint).
 *   **The Case for Corporate Chaplaincy** for presenting prospective client companies with key questions about caring for their employees, facts about marketplace trends that affect all organizations, major news coverage of corporate chaplaincy, and how your Chaplain Assistance Program is the best investment they can make in their people (Microsoft PowerPoint).
 *   **Employee FAQ Handout** for each of your client companies to share with their employees about the nature of the Chaplain Assistance Program in place at their company (Microsoft Word).
-*   **Fee Chart** for offering prospective client companies four Chaplain Assistance Program options based on number of employee visits, type of clients, mode of service, relationship ranking, and fee range (Microsoft Word).
+*   **Fee Chart** for offering prospective client companies four Chaplain Assistance Program options based on the number of employee visits, type of clients, mode of service, relationship ranking, and fee range (Microsoft Word).
 
 ## 60-Minute Phone Consultation
 The hour is yours to spend asking Steve Cook, owner of Corporate Chaplaincy Consulting, any questions you feel will help you get your chaplaincy business up and running.
 
-As a pioneer in corporate chaplaincy, Steve’s 10+ years’ experience—in which he took his own Capital Chaplains, LLC, from part-time endeavor to full-time, income-generating business—are at your disposal.
+As a pioneer in corporate chaplaincy, Steve’s 10+ years of experience—in which he took his own Capital Chaplains, LLC, from part-time endeavor to full-time, income-generating business—are at your disposal.
 
-We highly recommend scheduling your phone consultation after you have had the opportunity to look over the documents included in the Start a Chaplaincy Business Kit (see document descriptions above). And, we recommend compiling a list of discussion topics and questions to insure your call addresses as many of your needs as possible in the allotted time.
+We highly recommend scheduling your phone consultation after you have had the opportunity to look over the documents included in the Start Your Chaplaincy Business Kit (see document descriptions above). And, we recommend compiling a list of discussion topics and questions to insure your call addresses as many of your needs as possible in the allotted time.
 
 We will be in touch via email within 1-2 business days after your purchase to arrange your 60-minute phone consultation.
 
