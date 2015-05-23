@@ -44,7 +44,7 @@ This Microsoft Word document is a modifiable template that outlines the services
 This modifiable Microsoft Word document can be used to promote the key benefits of Chaplain Assistance Programs to potential client companies.
 
 ## FREE 30-Minute Phone Consultation
-Included at no additional cost, you can spend 30 minutes asking Steve Cook, owner of Corporate Chaplaincy Consulting, any questions you feel will help you discern your calling to corporate chaplaincy, clarify anything you've read in the Consider Corporate Chaplaincy ebook or other documents, or set initial action steps for your career.
+Included at no additional cost, you can spend 30 minutes asking Steve Cook, owner of Corporate Chaplaincy Consulting, any questions you feel will help you discern your calling to corporate chaplaincy. You can also spend the time clarifying anything you've read in the Consider Corporate Chaplaincy ebook or other documents, or setting initial action steps for your career.
 
 We will be in touch via email within 1-2 business days after your purchase to arrange your FREE 30-minute phone consultation.
 
