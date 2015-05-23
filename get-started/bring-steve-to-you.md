@@ -19,10 +19,10 @@ Steve can provide a veteran point of view and evaluation that could be the short
 
 Previous clients have used their on-site consultation day for a variety of business development goals:
 
-*   Vision casting
-*   Strategizing
-*   Training chaplains
-*   Refining sales presentations
+*   vision casting
+*   strategizing
+*   training chaplains
+*   refining sales presentations
 *   ...and more.
 
 The day is yours.
@@ -31,7 +31,7 @@ We will be in touch via email within 1-2 business days after your purchase to ma
 
 ### Get the customized help you deserve!
 
-Bring Steve to You to find the solutions to your specific chaplaincy challenges and situations.
+Bring Steve to you to find the solutions to your specific chaplaincy challenges and situations.
 
 Just click on the “BUY NOW” button below to ultimately save time and money, and achieve better results!
 
