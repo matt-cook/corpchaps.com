@@ -3,13 +3,13 @@ title: Shadow a Corporate Chaplain
 permalink: get-started/shadow-a-corporate-chaplain/
 menu: get-started
 ---
-Do you want to reach your chaplaincy business goals faster? Or, if you’re new to corporate chaplaincy altogether, do you want to find out whether it’s the right field for you? There’s just no comparison for firsthand experience.
+Do you want to reach your chaplaincy business goals faster? Or, if you’re new to corporate chaplaincy altogether, do you want to find out whether it’s the right field for you? There’s just no comparison to firsthand experience.
 
 Take a step closer to achieving your goals by talking to and observing those who’ve been working as corporate chaplains for years.
 
 The Shadow a Corporate Chaplain package gives you two distinct opportunities to grow your business and yourself: one-on-one phone consulting and on-site shadowing.
 
-### Here’s what’s included when you Shadow a Corporate Chaplain:
+### Here’s what’s included when you purchase the Shadow a Corporate Chaplain package:
 
 ## Two-Hour Phone Consultation
 Steve Cook, owner of Corporate Chaplaincy Consulting, LLC, is available to answer any questions you feel will move you forward toward your chaplaincy goals.
