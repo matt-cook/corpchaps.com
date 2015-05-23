@@ -9,7 +9,7 @@ Workplace chaplains reach out and bring care where it is needed most, and where 
 
 Take the first step toward a rewarding career as a corporate chaplain and purchase the Consider Corporate Chaplaincy Kit.
 
-The Consider Corporate Chaplaincy Kit will help you discern whether corporate chaplaincy is right for you, show you what to expect in your new profession, and help you get your own Chaplain Assistance Program off and running.
+The Consider Corporate Chaplaincy Kit will help you discern whether corporate chaplaincy is right for you, show you what to expect in your new profession, and help you get your own Chaplain Assistance Program (CAP) off and running.
 
 ### For just $45.00, here’s what is included in your Consider Corporate Chaplaincy Kit:
 
@@ -41,7 +41,7 @@ Corporate chaplains come from a variety of backgrounds. Some integrate chaplainc
 This Microsoft Word document is a modifiable template that outlines the services offered by a traditional Chaplain Assistance Program. You can adapt this document to meet your needs and use it when explaining your chaplaincy services to potential client companies.
 
 **What a CAP Will Do for You:**
-This modifiable Microsoft Word document can be used to promote the key benefits of Chaplain Assistance Program (CAP) to potential client companies.
+This modifiable Microsoft Word document can be used to promote the key benefits of Chaplain Assistance Programs to potential client companies.
 
 ## FREE 30-Minute Phone Consultation
 Included at no additional cost, you can spend 30 minutes asking Steve Cook, owner of Corporate Chaplaincy Consulting, any questions you feel will help you discern your calling to corporate chaplaincy, clarify anything you've read in the Consider Corporate Chaplaincy ebook or other documents, or set initial action steps for your career.
