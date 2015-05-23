@@ -26,7 +26,7 @@ Find answers to the primary questions about starting, owning, and managing an or
 *   What are the benefits of a for-profit versus a non-profit business model for chaplaincy?
 *   How does ministry happen within the context of a for-profit business model?
 
-**50 Lessons Learned In 5 Years:**
+**50 Lessons Learned in 5 Years:**
 Glean from five years’ worth of lessons learned through research and trial and error. Each lesson is accompanied by a Bible verse and an explanation to help you learn from the experiences and mistakes of those who’ve walked the for-profit chaplaincy road before you.
 
 **The Rise of Capital Chaplains, LLC:**
@@ -50,7 +50,7 @@ Learn how the roles of independent contractors differ from those of employees as
 *Please note that this ebook is available only as a PDF download. It is not available in Kindle, ePub, or hard-copy format.*
 
 ## Legal and Business Sample Documents
-We’ve prepared five documents to get your business up and running, so there’s no need to start from scratch. You’re encouraged to adapt each document to meet your needs when contracting with client companies, drafting reports, and hiring chaplains. While these documents are not substitute for legal counsel, they will give you a foundation.
+We’ve prepared seven documents to get your business up and running, so there’s no need to start from scratch. You’re encouraged to adapt each document to meet your needs when contracting with client companies, drafting reports, and hiring chaplains. While these documents are not substitute for legal counsel, they will give you a foundation.
 
 *   **Client Company Letter of Agreement** for outlining services to be contracted between your chaplaincy organization and a client company.
 *   **Client Company Proposal** for proposing services between a client company and chaplaincy provider.
@@ -65,7 +65,7 @@ These marketing materials are your shortcut to promoting your new business and s
 
 *   **Life Is Hard postcard** for mailing to or sharing with prospective client companies (Microsoft Word, prints 4 postcards on 8.5" x 11").
 *   **Corporate Chaplaincy Overview** for briefly presenting the value of workplace chaplaincy to prospective client companies (Microsoft PowerPoint).
-*   **Corporate Chaplaincy Brochure** for reinforcing awareness of your corporate chaplaincy business offline (Microsoft Word, trifold 8.5 x 11).
+*   **Corporate Chaplaincy Brochure** for reinforcing awareness of your corporate chaplaincy business offline (Microsoft Word, trifold 8.5" x 11").
 *   **Corporate Chaplaincy: Giving the Gift of Hope** for presenting a deeper look at the value of chaplains attending to employees’ minds, bodies, and spirits (Microsoft PowerPoint).
 *   **Corporate Chaplaincy: The Missing Link in Business** for presenting the impact that chaplains can have on a prospective client company’s bottom line (provided as both a printable article in Microsoft Word and and as a presentation in Microsoft PowerPoint).
 *   **The Case for Corporate Chaplaincy** for presenting prospective client companies with key questions about caring for their employees, facts about marketplace trends that affect all organizations, major news coverage of corporate chaplaincy, and how your Chaplain Assistance Program is the best investment they can make in their people (Microsoft PowerPoint).
