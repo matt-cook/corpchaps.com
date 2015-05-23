@@ -30,7 +30,7 @@ The Start Your Chaplaincy Business Kit is designed to help you make the shift fr
 <hr>
 
 ## Shadow a Corporate Chaplain
-The Shadow a Corporate Chaplain package gives you two distinct opportunities to grow your business and yourself: two hours of one-on-one phone consulting and 8-12 hours shadowing chaplains in South Central Wisconsin.
+The Shadow a Corporate Chaplain package gives you two distinct opportunities to grow your business and yourself: two hours of one-on-one phone consulting and 8-12 hours shadowing chaplains in south central Wisconsin.
 
 *$725 down payment required at checkout.*
 
@@ -44,7 +44,7 @@ The Shadow a Corporate Chaplain package gives you two distinct opportunities to 
 ## Bring Steve to You
 When you Bring Steve to You, you receive 8-12 hours of on-site consulting anywhere in the U.S. Together, you and Steve will craft an itinerary for the day that is tailor-made for your goals and context.
 
-Please [email Steve](mailto:steve@corpchaps.com) for information about on-site consulting outside of the USA.
+Please [email Steve](mailto:steve@corpchaps.com) for information about on-site consulting outside of the USA.
 
 *$975 down payment required at checkout.*
 
