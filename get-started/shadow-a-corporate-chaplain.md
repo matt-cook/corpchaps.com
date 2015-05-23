@@ -34,7 +34,7 @@ We will be in touch via email within 1-2 business days after your purchase to ar
 ## Shadow Day in South Central Wisconsin
 Investing in a shadow day will give you an inside look at corporate chaplaincy.
 
-You’ll spend 8-12 hours observing one or more chaplains from Capital Chaplains LLC on their visits to 2-3 client companies in south central Wisconsin.
+You’ll spend 8-12 hours observing one or more chaplains from Capital Chaplains, LLC, on their visits to 2-3 client companies in south central Wisconsin.
 
 Shadowing can occur at various stages of your own chaplaincy journey:
 

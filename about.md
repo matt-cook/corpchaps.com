@@ -9,7 +9,7 @@ Welcome to the Corporate Chaplaincy Consulting website, where **our mission is t
 
 In the midst of our fractured, high-stress world, people need a safe place to talk through problems. Even more, they need someone to walk with them in the midst of difficult circumstances.
 
-My name is Steve Cook, and since 2005 when I started Capital Chaplains LLC, a corporate chaplaincy initiative based near Madison that serves the entire capital region of south central Wisconsin, it’s been my privilege to meet that need for employees in diverse organizations. **I’d love to help you start your own corporate chaplaincy business so that organizations in your area can also experience the gifts a corporate chaplain brings to individual employees and to businesses as a whole.**
+My name is Steve Cook, and since 2005 when I started Capital Chaplains, LLC, a corporate chaplaincy initiative based near Madison that serves the entire capital region of south central Wisconsin, it’s been my privilege to meet that need for employees in diverse organizations. **I’d love to help you start your own corporate chaplaincy business so that organizations in your area can also experience the gifts a corporate chaplain brings to individual employees and to businesses as a whole.**
 
 I know from my own life that the shift from serving as a chaplain to owning a chaplaincy organization can feel like a big one. But the sole mission of Corporate Chaplaincy Consulting is to mentor and equip emerging corporate chaplains like yourself. The resources I provide offer **step-by-step guidance for your journey**, from building relationships with local business owners and marketing your organization to providing ongoing training for the chaplains you hire as part of your team.
 
@@ -23,7 +23,7 @@ So many organizations need the help that chaplains can offer. **Perhaps God is c
 
 _Steve_
 
-Capital Chaplains LLC, Owner &amp; Founding Chaplain
+Capital Chaplains, LLC, Owner &amp; Founding Chaplain
 
 Corporate Chaplaincy Consulting, Owner &amp; Director
 
