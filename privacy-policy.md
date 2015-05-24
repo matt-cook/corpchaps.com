@@ -46,13 +46,13 @@ By using our site, you consent to our Privacy Policy.
 
 **Changes to Our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page.
+If we decide to change our Privacy Policy, we will post those changes on this page.
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy, you may contact us at:
 
-[Info@CorpChaps.Com](mailto://info@corpchaps.com)
+[info@corpchaps.com](mailto://info@corpchaps.com)
 
 **Corporate Chaplaincy Consulting**
 
