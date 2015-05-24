@@ -51,7 +51,6 @@ If we decide to change our Privacy Policy, we will post those changes on this pa
 **Contacting Us**
 
 If there are any questions regarding this privacy policy, you may contact us at:
-
 [info@corpchaps.com](mailto://info@corpchaps.com)
 
 **Corporate Chaplaincy Consulting**
