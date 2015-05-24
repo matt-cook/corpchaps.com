@@ -68,7 +68,7 @@ This site is provided by Corporate Chaplaincy Consulting on an &#8220;as is&#822
 
 **Applicable Law**
 
-By visiting Corporate Chaplaincy Consulting, you agree that the laws of the State of Wisconsin, United States of America, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and Corporate Chaplaincy Consulting or its associates.
+By visiting Corporate Chaplaincy Consulting, you agree that the laws of the state of Wisconsin, United States of America, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and Corporate Chaplaincy Consulting and its associates.
 
 **Disputes**
 
@@ -80,7 +80,7 @@ Please review our other policies, such as our Privacy Policy, posted on this sit
 
 **Questions**
 
-Questions regarding our Conditions of Use, Privacy Policy, or other policy-related material can be directed to our support staff by emailing us at: [Info@CorpChaps.Com](http://)
+Questions regarding our Conditions of Use, Privacy Policy, or other policy-related material can be directed to our support staff by emailing us at: [info@corpchaps.com](mailto:info@corpchaps.com)
 
 **Corporate Chaplaincy Consulting**
 
