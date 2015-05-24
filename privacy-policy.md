@@ -4,15 +4,15 @@ permalink: privacy-policy/
 ---
 **What information do we collect?**
 
-We collect information from you only when you place an order. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, and/ or credit card information. You may, however, visit our site anonymously.
+We collect information from you only when you place an order. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, and/or credit card information. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
-*   _To improve customer service: _Your information helps us to more effectively respond to your customer service requests and support needs.
-*   _To process transactions: _Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-*   _To send periodic emails: _The email address you provide for order processing may be used to send you information and updates pertaining to your order. Additionally, we will occasionally use this email address to send you company news, website updates, related product or service information, etc. At any time, you may choose not to receive future emails by replying to any of our correspondence with &#8220;unsubscribe&#8221; in the subject line.
+*   To improve customer service: Your information helps us to more effectively respond to your customer service requests and support needs.
+*   To process transactions: Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+*   To send periodic emails: The email address you provide for order processing may be used to send you information and updates pertaining to your order. Additionally, we will occasionally use this email address to send you company news, website updates, related product or service information, etc. At any time, you may choose not to receive future emails by replying to any of our correspondence with &#8220;unsubscribe&#8221; in the subject line.
 
 **How do we protect your information?**
 
