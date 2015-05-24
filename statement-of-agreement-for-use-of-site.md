@@ -62,7 +62,7 @@ All content will be transmitted via a downloadable zip file and viewable in .pdf
 
 Corporate Chaplaincy Consulting and its associates attempt to be as accurate as possible. However, Corporate Chaplaincy Consulting does not warrant that product descriptions or other content of this site is accurate, complete, reliable, current, or error-free.
 
-**Disclaimer of Warranties and Limitation of Liability **
+**Disclaimer of Warranties and Limitation of Liability**
 
 This site is provided by Corporate Chaplaincy Consulting on an &#8220;as is&#8221; and &#8220;as available&#8221; basis. Corporate Chaplaincy Consulting makes no representations or warranties of any kind, express or implied, as to the operation of this site or the information, content, materials, or products included on this site. You expressly agree that your use of this site is at your sole risk. To the full extent permissible by applicable law, Corporate Chaplaincy Consulting disclaims all warranties, express or implied, including but not limited to implied warranties of fitness for a particular purpose. Corporate Chaplaincy Consulting does not warrant that this site, its servers, or email sent from Corporate Chaplaincy Consulting are free from viruses or other harmful components. Corporate Chaplaincy Consulting will not be liable for any damages of any kind arising from the use of this site, including but not limited to direct, indirect, incidental, punitive, and consequential damages. Certain state laws do not allow limitations on implied warranties or the exclusion or limitation of certain damages. If these laws apply to you, some or all of the above disclaimers, exclusions, or limitations may not apply to you, and you may have additional rights.
 
