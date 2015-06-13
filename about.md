@@ -15,11 +15,12 @@ I know from my own life that the shift from serving as a chaplain to owning a ch
 
 The journey takes patience and perseverance, but I’ve seen God lead and sustain me in incredible ways. After several years of leading Capital Chaplains part-time while working as a pastor and then in a non-profit, it now provides my full income and full-time work. I have also contracted six other part-time chaplains to assist me.
 
+<img src="{{ site.imagefolder }}SteveCookheadshot.jpg" alt="Steve Cook" style="float:left;margin:10px 10px 10px 0">
+
+
 Even more, today, Capital Chaplains has contracts to provide a Chaplain Assistance Program for every employee and related family/household member in each of nine client organizations. And it experienced some of its greatest growth during the worst recession since the Great Depression. Five of the nine Capital Chaplains client companies started chaplaincy programs in 2009 alone!
 
 So many organizations need the help that chaplains can offer. **Perhaps God is calling you to be part of the solution in your city.** I’d love to walk with you as you consider starting a corporate chaplaincy initiative of your own.
-
-![Steve Cook]({{ site.imagefolder }}SteveCookheadshot.jpg)
 
 _Steve_
 
