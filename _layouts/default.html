@@ -2,8 +2,10 @@
 layout: blank
 ---
 <div class="row">
-  <div id="content" class="col-md-9">
-    {{ content }}
-  </div>
-  {% include sidebar.html %}
+  {% if page.quote || page.links %}
+    <div id="content" class="col-md-9">{{ content }}</div>
+    {% include sidebar.html %}
+  {% else %}
+    <div id="content" class="col-md-12">{{ content }}</div>
+  {% endif %}
 </div>
