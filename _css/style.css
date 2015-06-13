@@ -587,3 +587,26 @@ h1 > a:hover, h2 > a:hover{
 	background-repeat:no-repeat;
 	background-size:cover;
 }
+@media (max-width: 768px) {
+	#banner{
+		background:none;
+		text-align:center;
+	}
+	#banner .caption{
+		display:none;
+		visibility:hidden;
+	}
+	#logo{
+		position:relative;
+		margin:0 auto;
+	}
+	#subnav .nav > li > a{
+		text-align:left;
+		font-size: 1.33em;
+		margin: 10px 0;
+	}
+	#subnav .open .dropdown-menu>li>a {
+		font-size: 1.15em;
+  	margin: 5px;
+	}
+}
