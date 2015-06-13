@@ -72,6 +72,10 @@ a.box, .arrow, a.button, #content a.button{
 	border:none;
 	font-size:12px;
 }
+a.button.learn{
+	background-color:#27809F;
+	margin-right:10px;
+}
 a.box{
 	background:#4c4c4c;
 	padding:6px;

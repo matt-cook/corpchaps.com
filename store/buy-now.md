@@ -12,20 +12,24 @@ If you need assistance, you can [email us](mailto:info@corpchaps.com) or call 60
 ## Consider Corporate Chaplaincy
 The Consider Corporate Chaplaincy Kit includes an ebook, starter marketing materials, and a free 30-minute phone consultation that will each help you discern whether corporate chaplaincy is right for you, show you what to expect in your new profession, and help you get your individual Chaplain Assistance Program up and running.
 
-<a class="arrow learn" href="https://www.corpchaps.com/get-started/consider-corporate-chaplaincy/">
-      LEARN MORE</a> <a class="button" href="https://gum.co/consider-corporate-chaplaincy">
-      BUY NOW ($45.00)
-    </a>
+<a class="button learn" href="{{site.baseurl}}/get-started/consider-corporate-chaplaincy/">
+  LEARN MORE
+</a>
+<a class="button" href="https://gum.co/consider-corporate-chaplaincy">
+  BUY NOW ($45.00)
+</a>
 
 <hr>
 
 ## Start Your Chaplaincy Business
 The Start Your Chaplaincy Business Kit is designed to help you make the shift from serving as an individual chaplain to owning a chaplaincy organization. The phone consultation, ebook, sample legal and business documents, and multimedia marketing materials will give you the expert guidance and practical tools you need to establish a sustainable chaplaincy business.
 
-<a class="arrow learn" href="https://www.corpchaps.com/get-started/start-your-chaplaincy-business">
-      LEARN MORE</a> <a class="button" href="https://gum.co/start-your-chaplaincy-business">
-      BUY NOW ($950.00)
-    </a>
+<a class="button learn" href="{{site.baseurl}}/get-started/start-your-chaplaincy-business">
+      LEARN MORE
+</a>
+<a class="button" href="https://gum.co/start-your-chaplaincy-business">
+  BUY NOW ($950.00)
+</a>
 
 <hr>
 
@@ -34,10 +38,12 @@ The Shadow a Corporate Chaplain package gives you two distinct opportunities to 
 
 *$725 down payment required at checkout.*
 
-<a class="arrow learn" href="https://www.corpchaps.com/get-started/shadow-a-corporate-chaplain">
-      LEARN MORE</a> <a class="button" href="https://gum.co/shadow-a-corporate-chaplain">
-      BUY NOW ($1,450.00)
-    </a>
+<a class="button learn" href="{{site.baseurl}}/get-started/shadow-a-corporate-chaplain">
+  LEARN MORE
+</a>
+<a class="button" href="https://gum.co/shadow-a-corporate-chaplain">
+  BUY NOW ($1,450.00)
+</a>
 
 <hr>
 
@@ -48,7 +54,9 @@ Please [email Steve](mailto:steve@corpchaps.com) for information about on-site c
 
 *$975 down payment required at checkout.*
 
-<a class="button" href="www.corpchaps.com/get-started/bring-steve-to-you">
-      LEARN MORE</a> <a class="button" href="https://gum.co/bring-steve-to-you">
-      BUY NOW ($1,950.00)
-    </a>
+<a class="button learn" href="{{site.baseurl}}/get-started/bring-steve-to-you">
+  LEARN MORE
+</a>
+<a class="button" href="https://gum.co/bring-steve-to-you">
+  BUY NOW ($1,950.00)
+</a>
