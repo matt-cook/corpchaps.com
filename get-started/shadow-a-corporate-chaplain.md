@@ -31,7 +31,7 @@ We will be in touch via email within 1-2 business days after your purchase to ar
 
 *Note: You can use the entire two hours in one session or divide it into two one-hour sessions.*
 
-## Shadow Day in South Central Wisconsin
+## Shadow Day
 Investing in a shadow day will give you an inside look at corporate chaplaincy.
 
 You’ll spend 8-12 hours observing one or more chaplains from Capital Chaplains, LLC, on their visits to 2-3 client companies in south central Wisconsin.
@@ -40,13 +40,13 @@ Shadowing can occur at various stages of your own chaplaincy journey:
 
 *   Use your day to determine if becoming a corporate chaplain is right for you.
 *   Like iron sharpens iron, you can use it to refine and refresh your chaplaincy skill set.
-*   Or have your shadow day designed to see what it’s like to own and manage a chaplaincy organization with multiple chaplains under your wing. 
+*   Or have your shadow day designed to see what it’s like to own and manage a chaplaincy organization with multiple chaplains under your wing.
 
 To make the absolute most of your visit, you’ll be able to ask lots of questions, find out the challenges your workplace chaplaincy peers face, and learn from their wealth of experience. Even your meals between client visits will provide opportunities to continue learning from your on-site chaplain hosts. You’ll spend the last portion of your shadow day reviewing your experiences with Steve and getting answers to new or lingering questions you may have.
 
 No matter which client companies or chaplains you observe during your time in south central Wisconsin, you’ll walk away with lots of practical information, new perspectives, and action steps toward your own chaplaincy goals.
 
-### Find out for yourself how far you can go! 
+### Find out for yourself how far you can go!
 
 Choose to immerse yourself in this hands-on coaching experience to discover and hone your potential. Just click on the “BUY NOW” button below to get started!
 

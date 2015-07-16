@@ -167,19 +167,18 @@ hr{
 #main #feat .feat{
 	font-family: arial,sans-serif;
 	font-size:11px;
+	background-color: rgb(229, 229, 222);
 	color:#5F5F5F;
 	letter-spacing: 0pt;
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-position:bottom center;
-	min-height:300px;
+	min-height:180px;
 	position:relative;
 	width:100%;
 	margin:25px 10px;
 	padding:20px;
-	-webkit-box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.25);
-	-moz-box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.25);
-	box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.25);
+  border: 1px solid rgb(202, 202, 189);
 }
 
 #main #feat h2{
@@ -219,7 +218,7 @@ a.box.red{
 	background-color:#d6412d;
 }
 
-#main #feat #business{
+/*#main #feat #business{
 	background-image:url(https://googledrive.com/host/0B-rUPb5gojEtfnVJTlB4UWJ5b3hSbTI3dFFic3J5NnFIVXctbFNqOEE0RGQ3LVNPbFJzcVE/feature1.jpg);
 }
 #main #feat #need{
@@ -227,7 +226,7 @@ a.box.red{
 }
 #main #feat #wheel{
 	background-image:url(https://googledrive.com/host/0B-rUPb5gojEtfnVJTlB4UWJ5b3hSbTI3dFFic3J5NnFIVXctbFNqOEE0RGQ3LVNPbFJzcVE/feature3.jpg);
-}
+}*/
 
 br.clear{
 	clear:both;

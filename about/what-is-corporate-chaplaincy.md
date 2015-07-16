@@ -6,11 +6,11 @@ menu: about
 ---
 There&#8217;s no denying it: Americans are stressed out. Working beyond the forty-hour work week, fulfilling the responsibilities of home, commuting and running errands on inadequate sleep—all contribute to the lack of margin and high stress many people experience daily. And there&#8217;s no break from the stress; tension at work affects home life, and personal challenges come to work with employees, resulting in low productivity, low morale, and high absenteeism.
 
-In addition, many people do not have anyone to turn to at work or outside work during the challenging times of life. 
+In addition, many people do not have anyone to turn to at work or outside work during the challenging times of life.
 
 Enter corporate chaplaincy and Chaplain Assistance Programs (CAPs).
 
-A CAP is a benefit for employees and their households and immediate family members that places a chaplain from a corporate chaplaincy provider in the workplace to support and walk alongside those who are struggling. 
+A CAP is a benefit for employees and their households and immediate family members that places a chaplain from a corporate chaplaincy provider in the workplace to support and walk alongside those who are struggling.
 
 Chaplain Assistance Programs are:
 
@@ -35,5 +35,4 @@ CAPs are also **effective.** Research has shown that the implementation of a Cha
 * increases commitment to the job and reduces absenteeism
 * helps employees become more productive
 
-There are businesses in your city that need a corporate chaplain to offer support for hurting employees grappling with the brokenness of our world. Are you interested in helping meet that need? For more information, check out our [Consider Corporate Chaplaincy Kit](www.corpchaps.com/get-started/consider-corporate-chaplaincy/) or our [Start Your Chaplaincy Business Kit](www.corpchaps.com/get-started/start-your-corporate-chaplaincy-business/).
-
+There are businesses in your city that need a corporate chaplain to offer support for hurting employees grappling with the brokenness of our world. Are you interested in helping meet that need? For more information, check out our [Consider Corporate Chaplaincy Kit](/get-started/consider-corporate-chaplaincy/) or our [Start Your Chaplaincy Business Kit](/get-started/start-your-chaplaincy-business/).

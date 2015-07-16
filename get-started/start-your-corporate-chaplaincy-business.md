@@ -81,7 +81,7 @@ We highly recommend scheduling your phone consultation after you have had the op
 
 We will be in touch via email within 1-2 business days after your purchase to arrange your 60-minute phone consultation.
 
-***Want more personal attention than an hour can provide? You can [Bring Steve to You](www.corpchaps.com/get-started/bring-steve-to-you/)!***
+***Want more personal attention than an hour can provide? You can [Bring Steve to You](/get-started/bring-steve-to-you/)!***
 
 ### A rewarding business opportunity awaits you!
 
