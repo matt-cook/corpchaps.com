@@ -38,7 +38,7 @@ We are in compliance with the requirements of COPPA (Children&#8217;s Online Pri
 
 **Terms and Conditions**
 
-Please also visit our [Site Use Agreement](www.corpchaps.com/site-use-agreement/) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Site Use Agreement]({{ site.baseurl }}/site-use-agreement/) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 

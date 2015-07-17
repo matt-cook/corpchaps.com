@@ -31,7 +31,7 @@ Different people come to corporate chaplaincy from different backgrounds and for
 
 The vast majority of the approximately 4,000 corporate chaplains currently serving in the United States are professionally trained in another discipline. Because of their transferable skills, they are now able to serve successfully as chaplains in the workplace with only a small amount of additional training.
 
-If you can relate to any of the scenarios mentioned on this page, perhaps serving as corporate chaplain is right for you. CorpChaps.Com is not only here to show you where and how to begin your journey into corporate chaplaincy, but our goal is also to offer experienced mentorship and provide you with the[ resources ](http://www.corpchaps.com/packages-2/ "Packages")you will need along the way.
+If you can relate to any of the scenarios mentioned on this page, perhaps serving as corporate chaplain is right for you. CorpChaps.Com is not only here to show you where and how to begin your journey into corporate chaplaincy, but our goal is also to offer experienced mentorship and provide you with the[ resources ]({{ site.baseurl }}/packages-2/ "Packages")you will need along the way.
 
 ## Why reinvent the wheel?
 

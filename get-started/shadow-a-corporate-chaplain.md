@@ -23,7 +23,7 @@ You can use this time to:
 *   learn new strategies or tweak those that aren’t working for you
 *   talk through certain challenges you’ve faced so far
 *   refine your pitch to prospective client companies
-*   get further explanation of any topics from the [Consider Corporate Chaplaincy Kit](/get-started/consider-corporate-chaplaincy/) or the [Start Your Chaplaincy Business Kit](/get-started/start-your-chaplaincy-business/) (both resources are recommended but not required prior to the phone consultation)
+*   get further explanation of any topics from the [Consider Corporate Chaplaincy Kit]({{ site.baseurl }}/get-started/consider-corporate-chaplaincy/) or the [Start Your Chaplaincy Business Kit]({{ site.baseurl }}/get-started/start-your-chaplaincy-business/) (both resources are recommended but not required prior to the phone consultation)
 
 The phone consultation is ultimately led by you, and Steve will work to insure you get the most out of your call. You’ll be best prepared for the call by compiling a list of discussion topics and questions and sending them to Steve ahead of time to insure your call addresses as many of your needs as possible in the allotted time.
 

@@ -23,7 +23,7 @@ Nunc sit amet enim ligula. Sed mattis augue vitae diam lacinia congue.
 
 ######H6 Title Size
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ornare volutpat nisl in viverra. Nunc sit amet enim ligula. Sed mattis augue vitae diam lacinia congue. Phasellus pulvinar lacinia feugiat. [Link to homepage](/) In vestibulum metus sed elit tristique accumsan. *Italic text should go inside asterisks. Suspendisse congue interdum mi,* vitae vestibulum nisi ullamcorper ac.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ornare volutpat nisl in viverra. Nunc sit amet enim ligula. Sed mattis augue vitae diam lacinia congue. Phasellus pulvinar lacinia feugiat. [Link to homepage]({{ site.baseurl }}/) In vestibulum metus sed elit tristique accumsan. *Italic text should go inside asterisks. Suspendisse congue interdum mi,* vitae vestibulum nisi ullamcorper ac.
 
 1. I'm a number list
 1. The code is even simpler than it looks

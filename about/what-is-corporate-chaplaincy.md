@@ -35,4 +35,4 @@ CAPs are also **effective.** Research has shown that the implementation of a Cha
 * increases commitment to the job and reduces absenteeism
 * helps employees become more productive
 
-There are businesses in your city that need a corporate chaplain to offer support for hurting employees grappling with the brokenness of our world. Are you interested in helping meet that need? For more information, check out our [Consider Corporate Chaplaincy Kit](/get-started/consider-corporate-chaplaincy/) or our [Start Your Chaplaincy Business Kit](/get-started/start-your-chaplaincy-business/).
+There are businesses in your city that need a corporate chaplain to offer support for hurting employees grappling with the brokenness of our world. Are you interested in helping meet that need? For more information, check out our [Consider Corporate Chaplaincy Kit]({{ site.baseurl }}/get-started/consider-corporate-chaplaincy/) or our [Start Your Chaplaincy Business Kit]({{ site.baseurl }}/get-started/start-your-chaplaincy-business/).

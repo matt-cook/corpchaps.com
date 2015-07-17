@@ -30,4 +30,4 @@ With minimal competition in this emerging industry, chaplaincy as a business als
 
 As when starting any new business, your chaplaincy organization may take awhile to develop into a self-sustaining entity. Consequently, it is important to have an alternate source of income during the first few years as you get your business off the ground. Meeting potential client companies, building trust, and earning their business takes time. But in the end, it&#8217;s worth it. And the ROI includes not just a profit, but changed lives.
 
-To find out more, see our [Start Your Chaplaincy Business Kit](/get-started/start-your-chaplaincy-business/).
+To find out more, see our [Start Your Chaplaincy Business Kit]({{ site.baseurl }}/get-started/start-your-chaplaincy-business/).

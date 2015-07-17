@@ -4,13 +4,13 @@ permalink: site-use-agreement/
 ---
 Welcome to CorpChaps.Com, a.k.a. Corporate Chaplaincy Consulting! Corporate Chaplaincy Consulting and its associates provide their services to you subject to the following conditions.
 
-If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our [Privacy Policy](www.corpchaps.com/privacy-policy/) govern CorpChaps.Com&#8217;s relationship with you in relation to this website. Please read them carefully.
+If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our [Privacy Policy]({{ site.baseurl }}/privacy-policy/) govern CorpChaps.Com&#8217;s relationship with you in relation to this website. Please read them carefully.
 
 The terms &#8220;CorpChaps.Com,&#8221; &#8220;us,&#8221; and &#8220;we&#8221; refer to the owner and operators of Corporate Chaplaincy Consulting in conjunction with Capital Chaplains, LLC. The term &#8220;you&#8221; refers to the user or viewer of our website.
 
 **Privacy**
 
-Please review our [Privacy Policy](www.corpchaps.com/privacy-policy/), which also governs your visit to our website, to understand our practices.
+Please review our [Privacy Policy]({{ site.baseurl }}/privacy-policy/), which also governs your visit to our website, to understand our practices.
 
 **Electronic Communications**
 

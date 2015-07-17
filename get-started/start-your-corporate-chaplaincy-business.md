@@ -7,7 +7,7 @@ Would you like to make an even bigger difference in the lives of individuals and
 
 So many businesses need the help that chaplains like you offer—and you can help by starting a for-profit corporate chaplaincy organization in your area. And with minimal competition in this emerging industry, chaplaincy as a for-profit business has tremendous growth potential in the marketplace. Now is a great time to start!
 
-The Start Your Chaplaincy Business Kit is designed to help you make the shift from serving as an individual chaplain to owning a chaplaincy organization, whether you've been a chaplain for years or have only recently been inspired by our [Consider Corporate Chaplaincy Kit](/get-started/consider-corporate-chaplaincy/).
+The Start Your Chaplaincy Business Kit is designed to help you make the shift from serving as an individual chaplain to owning a chaplaincy organization, whether you've been a chaplain for years or have only recently been inspired by our [Consider Corporate Chaplaincy Kit]({{ site.baseurl }}/get-started/consider-corporate-chaplaincy/).
 
 The combination of resources in the Start Your Chaplaincy Business Kit—spanning a 75-page ebook, sample legal and business documents, multimedia marketing materials, and a personal consultation—will give you the expert guidance you need to establish a sustainable chaplaincy business.
 
@@ -81,7 +81,7 @@ We highly recommend scheduling your phone consultation after you have had the op
 
 We will be in touch via email within 1-2 business days after your purchase to arrange your 60-minute phone consultation.
 
-***Want more personal attention than an hour can provide? You can [Bring Steve to You](/get-started/bring-steve-to-you/)!***
+***Want more personal attention than an hour can provide? You can [Bring Steve to You]({{ site.baseurl }}/get-started/bring-steve-to-you/)!***
 
 ### A rewarding business opportunity awaits you!
 

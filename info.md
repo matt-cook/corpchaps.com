@@ -22,7 +22,7 @@ Corporate Chaplaincy Consulting, Owner &amp; Director
 
 **Next Steps:**
 
-1.  [Get a sampling of the resources and services offered in this site.](http://www.corpchaps.com/packages-2/)
+1.  [Get a sampling of the resources and services offered in this site.]({{ site.baseurl }}/packages-2/)
 2.  [Learn more about becoming a corporate chaplain.](../about-us/consider-a-career-in-corporate-chaplaincy/)
 3.  [Learn more about starting your own corporate chaplaincy initiative where you live.](../a-business-model-made-in-heaven/)
 
